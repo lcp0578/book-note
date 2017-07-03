@@ -34,6 +34,8 @@
 ### data-structure
 - 大话数据结构
 - 数据结构与算法分析--C语言描述
+### operating-system
+- 深入理解计算机系统（原书第3版）
 ### algorithm
 - 算法导论
 - 算法(第四版)
