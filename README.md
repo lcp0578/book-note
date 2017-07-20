@@ -6,7 +6,7 @@
 
 ## 书单
 ### mathematics
-- 程序员数学
+- [程序员数学](mathematics/程序员的数学/README.md)
 - 程序员数学2-概率统计
 - 程序员数学3-线性代数
 ### PHP
@@ -16,6 +16,7 @@
 ### MySQL
 - MySQL5权威指南
 - 高性能MySQL
+- [高可用MySQL](mysql/高可用MySQL/README.md)
 ### redis
 - Redis入门指南
 - Redis实战
