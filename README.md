@@ -7,15 +7,15 @@
 ## 书单
 ### mathematics
 - [程序员数学](mathematics/程序员的数学/README.md)
-- 程序员数学2-概率统计
+- [程序员数学2-概率统计](mathematics/程序员的数学-2-概率统计/README.md)
 - 程序员数学3-线性代数
 ### PHP
 - Morden PHP
 ### HTML & CSS
 - HTML5与CSS3设计模式
 ### MySQL
-- MySQL5权威指南
-- 高性能MySQL
+- [MySQL5权威指南](mysql/MySQL5权威指南/README.md)
+- [高性能MySQL](mysql/高性能MySQL/README.md)
 - [高可用MySQL](mysql/高可用MySQL/README.md)
 ### redis
 - Redis入门指南
