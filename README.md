@@ -10,7 +10,11 @@
 - [程序员数学2-概率统计](mathematics/程序员的数学-2-概率统计/README.md)
 - 程序员数学3-线性代数
 ### PHP
-- Morden PHP
+- [深入PHP面向对象、模式与实践(第3版)](php/深入PHP面向对象、模式与实践(第3版)/README.md)
+- [PHP编程实战](php/PHP编程实战/README.md)
+- [PHP实战](php/PHP实战/README.md)
+- [Modern PHP - Josh Lockhart](php/ModernPHP-JoshLockhart/README.md)
+- [Learning PHP 7 High Performance](php/LearningPHP7HighPerformance/README.md)
 ### HTML & CSS
 - HTML5与CSS3设计模式
 ### MySQL
