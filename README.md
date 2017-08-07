@@ -17,6 +17,10 @@
 - [Learning PHP 7 High Performance](php/LearningPHP7HighPerformance/README.md)
 ### HTML & CSS
 - HTML5与CSS3设计模式
+### JavaScript
+- [JavaScript编程实战](javascript/JavaScript编程实战/README.md)
+- [JavaScript高级程序设计(第三版)](javascript/JavaScript高级程序设计(第三版)/README.md)
+- [JavaScript设计模式](javascript/JavaScript设计模式/README.md)
 ### MySQL
 - [MySQL5权威指南](mysql/MySQL5权威指南/README.md)
 - [高性能MySQL](mysql/高性能MySQL/README.md)
