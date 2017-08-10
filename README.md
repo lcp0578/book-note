@@ -31,6 +31,10 @@
 ### Nginx
 - 决战Nginx
 - 深入理解Nginx
+### Linux
+- Linux 私房菜 基础学习篇
+- Linux 私房菜 服务器架设篇
+- Linux命令行与shell脚本大全（第2版）
 ### network 
 - 图解HTTP
 - 图解TCP/IP
@@ -79,3 +83,7 @@
 - 代码审计
 ### computer-english
 - 计算机英语
+### Git
+- Git权威指南
+
+
