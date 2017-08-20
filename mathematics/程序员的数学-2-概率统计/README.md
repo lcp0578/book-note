@@ -1,4 +1,5 @@
-### mathematics
-- [程序员的数学](math.md)
-- [程序员的数学-2-概率统计](math_2_probability.md)
-- [程序员的数学-3-线性代数](math_3_linear_algebra.md)
+## 程序员的数学-2-概率统计
+### 第一部分 聊聊概率这件事
+- [第一章 概率的定义](chapter1.md)
+- [第二章 多个随机变量之间的关系](chapter2.md)
+- [第三章 离散值的概率分布](chapter3.md)
