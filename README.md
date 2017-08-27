@@ -62,6 +62,9 @@
 ### golang
 - Go语言学习笔记
 - Go语言实战 
+- Go语言程序设计
+- Kubernetes权威指南
+- 区块链技术指南
 ### C
 - [C和指针(中文版)](c/C和指针(中文版)/README.md)
 - C专家编程(中文版)
@@ -73,6 +76,8 @@
 - C++ Primer中文版(第五版)
 ### python
 - Python基础教程(第二版 修订版)
+### TensorFlow
+- TensorFlow 技术解析与实战
 ### micro-service
 - 微服务设计
 - 微服务架构与实践
