@@ -25,6 +25,7 @@
 - [MySQL5权威指南](MySQL/MySQL5权威指南/README.md)
 - [高性能MySQL](MySQL/高性能MySQL/README.md)
 - [高可用MySQL](MySQL/高可用MySQL/README.md)
+- MySQL管理之道
 ### redis
 - Redis入门指南
 - Redis实战
@@ -41,6 +42,12 @@
 - 图解网络硬件
 - HTTP权威指南
 - 计算机网络(第五版)
+- UNIX环境高级编程(第3版)
+- UNIX网络编程(卷1：嵌套字联网API)
+- UNIX网络编程(卷2：进程间通信)
+- TCP/IP详解(卷1：协议)
+- TCP/IP详解(卷2：实现)
+- TCP/IP详解(卷3：TCP事务协议、HTTP、NNTP和UNIX域协议)
 ### cryptography
 - 图解密码技术
 - 加密解密实战
@@ -90,5 +97,8 @@
 - 计算机英语
 ### Git
 - Git权威指南
-
+### Web安全
+- 白帽子讲web安全
+### Node js
+- 深入浅出Node JS
 
