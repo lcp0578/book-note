@@ -11,9 +11,8 @@
 		- BIGINT(m), 64位整数(8个字节， 从-2<sup>63</sup> ~ +2<sup>63</sup>-1)  
 		- SERIAL 为BIGINT AUTO_INCREMENT NOT NULL PRIMARY KEY的简写。  
 		PS: 可选参数m给出的是SELECT查询结果中的数据列宽度(Maximum Display Width, 最大显示宽度)，对取值范围没有影响。作用是把查询结果以一种整齐易读的格式显示。  
-	- 二进制数据
-		- BOOL 是TINYINT的同义词
-		- BIT(m),可以存储多达64位二进制数据
+	- 布尔
+		- BOOL, BOOLEAN 是TINYINT(1)的同义词
 	- 浮点数
 		- FLOAT(m,d) 单精度浮点数，8位精度（4字节）。
 		- DOUBLE(m,d) 双精度浮点数
