@@ -36,6 +36,9 @@
 - Linux 私房菜 基础学习篇
 - Linux 私房菜 服务器架设篇
 - Linux命令行与shell脚本大全（第2版）
+### AWK
+- [AWK程序设计语言](AWK/AWK程序设计语言)
+- [The AWK Programming Language](AWK/The_AWK_Programming_Language)
 ### network 
 - 图解HTTP
 - [图解TCP/IP](network/图解TCP-IP/README.md)
