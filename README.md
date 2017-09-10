@@ -104,4 +104,5 @@
 - 深入浅出Node JS
 ### symfony
 - [A Year With Symfony](symfony/AYearWithSymfony/README.md)
+- [Mastering Symfony](symfony/MasteringSymfony/README.md)
 
