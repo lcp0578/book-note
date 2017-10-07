@@ -1,4 +1,4 @@
-# book-note (读书笔记)
+# :open_book: book-note (读书笔记) :slightly_smiling_face: :upside_down_face:
 买过很多书，也打印过很多电子版的书籍和资料，断断续续的读，杂乱无章。  
 心血来潮，想自己整理一下，希望可以坚持下去，不断学习，不断提升自己。  
 
