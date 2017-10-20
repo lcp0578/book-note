@@ -15,6 +15,11 @@
 - [PHP实战](php/PHP实战/README.md)
 - [Modern PHP - Josh Lockhart](php/ModernPHP-JoshLockhart/README.md)
 - [Learning PHP 7 High Performance](php/LearningPHP7HighPerformance/README.md)
+- [Modular Programming With PHP7](php/ModularProgrammingWithPHP7/README.md)
+- [Build APIs You Won't Hate](php/BuildAPIsYouWon'tHate/README.md)
+- [PHP CLI](php/PHPCLI/README.md)
+- [Securing PHP Apps](php/SecuringPHPApps/README.md)
+- [The Clean Architecture In PHP](php/TheCleanArchitectureInPHP/README.md)
 ### HTML & CSS
 - HTML5与CSS3设计模式
 ### JavaScript
@@ -104,6 +109,7 @@
 - 计算机英语
 ### Git
 - Git权威指南
+- [Pro Git][Git/ProGit/README.md]
 ### Web安全
 - 白帽子讲web安全
 ### Node js
@@ -111,4 +117,9 @@
 ### symfony
 - [A Year With Symfony](symfony/AYearWithSymfony/README.md)
 - [Mastering Symfony](symfony/MasteringSymfony/README.md)
+- [Extending Symfony2 Web Application Framework](symfony/ExtendingSymfony2WebApplicationFramework/README.md)
+### CakePHP
+- [Learn CakePHP](CakePHP/LearnCakePHP/README.md)
+### lua
+- [Programming in Lua](lua/ProgrammingInLua/README.md)
 
