@@ -34,6 +34,7 @@
 ### redis
 - Redis入门指南
 - Redis实战
+- [Redis3.0中文版](redis/Redis3.0中文版/README.md)
 ### Nginx
 - 决战Nginx
 - 深入理解Nginx
@@ -84,6 +85,7 @@
 - Kubernetes权威指南
 - 区块链技术指南
 - [TheWayToGo](golang/TheWayToGo/README.md)
+- [The Go Programming Language](golang/TheGoProgrammingLanguage/README.md)
 ### C
 - [C和指针(中文版)](c/C和指针(中文版)/README.md)
 - C专家编程(中文版)
@@ -109,7 +111,7 @@
 - 计算机英语
 ### Git
 - Git权威指南
-- [Pro Git][Git/ProGit/README.md]
+- [Pro Git](Git/ProGit/README.md)
 ### Web安全
 - 白帽子讲web安全
 ### Node js
@@ -118,6 +120,8 @@
 - [A Year With Symfony](symfony/AYearWithSymfony/README.md)
 - [Mastering Symfony](symfony/MasteringSymfony/README.md)
 - [Extending Symfony2 Web Application Framework](symfony/ExtendingSymfony2WebApplicationFramework/README.md)
+- [The Twig Book](symfony/TheTwigBook/README.md)
+- [Doctrine2 ORM Documentation](symfony/Doctrine2ORMDocumentation/README.md)
 ### CakePHP
 - [Learn CakePHP](CakePHP/LearnCakePHP/README.md)
 ### lua
