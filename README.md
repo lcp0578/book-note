@@ -32,6 +32,7 @@
 ### Nginx
 - 决战Nginx
 - 深入理解Nginx
+- [OpenResty最佳实践](nginx/OpenResty最佳实践/README.md)
 ### Linux
 - Linux 私房菜 基础学习篇
 - Linux 私房菜 服务器架设篇
