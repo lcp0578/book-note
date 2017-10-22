@@ -35,6 +35,8 @@
 - Redis入门指南
 - Redis实战
 - [Redis3.0中文版](redis/Redis3.0中文版/README.md)
+### Mongodb
+- [Mongodb教程](Mongodb/Mongodb教程.md)
 ### Nginx
 - 决战Nginx
 - 深入理解Nginx
@@ -122,6 +124,7 @@
 - [Extending Symfony2 Web Application Framework](symfony/ExtendingSymfony2WebApplicationFramework/README.md)
 - [The Twig Book](symfony/TheTwigBook/README.md)
 - [Doctrine2 ORM Documentation](symfony/Doctrine2ORMDocumentation/README.md)
+- [The Silex Book](symfony/TheSilexBook/README.md)
 ### CakePHP
 - [Learn CakePHP](CakePHP/LearnCakePHP/README.md)
 ### lua
