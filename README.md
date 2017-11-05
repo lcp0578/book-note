@@ -20,6 +20,7 @@
 - [PHP CLI](php/PHPCLI/README.md)
 - [Securing PHP Apps](php/SecuringPHPApps/README.md)
 - [The Clean Architecture In PHP](php/TheCleanArchitectureInPHP/README.md)
+- [PHPUnit Manual](php/PHPUnitManual/README.md)
 ### HTML & CSS
 - HTML5与CSS3设计模式
 ### JavaScript
@@ -88,6 +89,8 @@
 - 区块链技术指南
 - [TheWayToGo](golang/TheWayToGo/README.md)
 - [The Go Programming Language](golang/TheGoProgrammingLanguage/README.md)
+- [Go in action](golange/GoInAction/README.md)
+- [Web Development with Go](golang/WebDevelopmentWithGo/README.md)
 ### C
 - [C和指针(中文版)](c/C和指针(中文版)/README.md)
 - C专家编程(中文版)
