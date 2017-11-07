@@ -91,6 +91,8 @@
 - [The Go Programming Language](golang/TheGoProgrammingLanguage/README.md)
 - [Go in action](golange/GoInAction/README.md)
 - [Web Development with Go](golang/WebDevelopmentWithGo/README.md)
+- [Matering Go Web Services](golang/MateringGoWebServices/README.md)
+- [Effective Go](golang/EffectiveGo/README.md)
 ### C
 - [C和指针(中文版)](c/C和指针(中文版)/README.md)
 - C专家编程(中文版)
