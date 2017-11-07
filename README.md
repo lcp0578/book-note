@@ -21,6 +21,7 @@
 - [Securing PHP Apps](php/SecuringPHPApps/README.md)
 - [The Clean Architecture In PHP](php/TheCleanArchitectureInPHP/README.md)
 - [PHPUnit Manual](php/PHPUnitManual/README.md)
+- [PHP扩展开发及内核应用](php/PHP扩展开发及内核应用/README.md)
 ### HTML & CSS
 - HTML5与CSS3设计模式
 ### JavaScript
@@ -36,6 +37,7 @@
 - Redis入门指南
 - Redis实战
 - [Redis3.0中文版](redis/Redis3.0中文版/README.md)
+- [Redis源码日志](redis/Redis源码日志/README.md)
 ### Mongodb
 - [Mongodb教程](Mongodb/Mongodb教程.md)
 ### Nginx
@@ -130,6 +132,7 @@
 - [The Twig Book](symfony/TheTwigBook/README.md)
 - [Doctrine2 ORM Documentation](symfony/Doctrine2ORMDocumentation/README.md)
 - [The Silex Book](symfony/TheSilexBook/README.md)
+- [Symfony Cookbook](symfony/SymfonyCookbook/README.md)
 ### CakePHP
 - [Learn CakePHP](CakePHP/LearnCakePHP/README.md)
 ### lua
