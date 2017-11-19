@@ -137,4 +137,7 @@
 - [Learn CakePHP](CakePHP/LearnCakePHP/README.md)
 ### lua
 - [Programming in Lua](lua/ProgrammingInLua/README.md)
+### Elasticsearch
+- [深入理解Elasticsearch（原书第2版）](深入理解Elasticsearch)
+- [Elasticsearch技术解析与实战](Elasticsearch技术解析与实战)
 
