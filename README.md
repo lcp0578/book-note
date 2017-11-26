@@ -138,6 +138,9 @@
 ### lua
 - [Programming in Lua](lua/ProgrammingInLua/README.md)
 ### Elasticsearch
-- [深入理解Elasticsearch（原书第2版）](深入理解Elasticsearch)
-- [Elasticsearch技术解析与实战](Elasticsearch技术解析与实战)
+- [深入理解Elasticsearch（原书第2版）](深入理解Elasticsearch/README.md)
+- [Elasticsearch技术解析与实战](Elasticsearch技术解析与实战/README.md)
+### software
+- [软件工程导论](software/软件工程导论/README.md)
+- [软件测试原理与实践](software/软件测试原理与实践/README.md)
 
