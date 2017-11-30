@@ -59,7 +59,7 @@
 - HTTP权威指南
 - 计算机网络(第五版)
 - [TCP/IP网络编程](network/TCP-IP网络编程/README.md)
-- [UNIX环境高级编程(第3版)](network/NIX环境高级编程(第3版)/README.md)
+- [UNIX环境高级编程(第3版)](network/UNIX环境高级编程(第3版)/README.md)
 - UNIX网络编程(卷1：嵌套字联网API)
 - UNIX网络编程(卷2：进程间通信)
 - TCP/IP详解(卷1：协议)
