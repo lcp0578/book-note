@@ -22,6 +22,7 @@
 - [The Clean Architecture In PHP](php/TheCleanArchitectureInPHP/README.md)
 - [PHPUnit Manual](php/PHPUnitManual/README.md)
 - [PHP扩展开发及内核应用](php/PHP扩展开发及内核应用/README.md)
+- [PHP7内核剖析](php/PHP7内核剖析/README.md)
 ### HTML & CSS
 - HTML5与CSS3设计模式
 ### JavaScript
