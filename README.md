@@ -86,18 +86,18 @@
 - 算法导论
 - 算法(第四版)
 - 算法(英文版 第四版)
-### golang
+### Go
 - Go语言学习笔记
-- [Go语言实战](golang/Go语言实战/README.md) 
+- [Go语言实战](Go/Go语言实战/README.md) 
 - Go语言程序设计
 - Kubernetes权威指南
 - 区块链技术指南
-- [TheWayToGo](golang/TheWayToGo/README.md)
-- [The Go Programming Language](golang/TheGoProgrammingLanguage/README.md)
-- [Go in action](golange/GoInAction/README.md)
-- [Web Development with Go](golang/WebDevelopmentWithGo/README.md)
-- [Matering Go Web Services](golang/MateringGoWebServices/README.md)
-- [Effective Go](golang/EffectiveGo/README.md)
+- [TheWayToGo](Go/TheWayToGo/README.md)
+- [The Go Programming Language](Go/TheGoProgrammingLanguage/README.md)
+- [Go in action](Go/GoInAction/README.md)
+- [Web Development with Go](Go/WebDevelopmentWithGo/README.md)
+- [Matering Go Web Services](Go/MateringGoWebServices/README.md)
+- [Effective Go](Go/EffectiveGo/README.md)
 - [The Go Language Guide Web Application Secure Coding Practices](Go/TheGoLanguageGuideWebApplicationSecureCodingPractices/README.md)
 ### C
 - [C和指针(中文版)](c/C和指针(中文版)/README.md)
