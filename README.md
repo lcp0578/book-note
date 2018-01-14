@@ -23,6 +23,8 @@
 - [PHPUnit Manual](php/PHPUnitManual/README.md)
 - [PHP扩展开发及内核应用](php/PHP扩展开发及内核应用/README.md)
 - [PHP7内核剖析](php/PHP7内核剖析/README.md)
+- [Mastering PHP7](php/Mastering_PHP_7/README.md)
+- [PHP7 Data Structures and Algorithms](php/PHP7DataStructuresandAlgorithms/README.md)
 ### HTML & CSS
 - HTML5与CSS3设计模式
 ### JavaScript
