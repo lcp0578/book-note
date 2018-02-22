@@ -89,7 +89,7 @@
 - 算法(第四版)
 - 算法(英文版 第四版)
 ### Go
-- Go语言学习笔记
+- [Go语言学习笔记](Go/Go语言学习笔记/README.md)
 - [Go语言实战](Go/Go语言实战/README.md) 
 - Go语言程序设计
 - Kubernetes权威指南
@@ -102,7 +102,7 @@
 - [Effective Go](Go/EffectiveGo/README.md)
 - [The Go Language Guide Web Application Secure Coding Practices](Go/TheGoLanguageGuideWebApplicationSecureCodingPractices/README.md)
 ### C
-- [C语言程序设计 现代方法(第2版)](C语言程序设计现代方法(第2版)/README.md)
+- [C语言程序设计 现代方法(第2版)](c/C语言程序设计现代方法(第2版)/README.md)
 - [C和指针(中文版)](c/C和指针(中文版)/README.md)
 - C专家编程(中文版)
 - C专家编程(英文版)
