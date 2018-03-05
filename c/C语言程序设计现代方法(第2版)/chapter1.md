@@ -1,7 +1,8 @@
-## 第一章 C语言概述
+## 第1章 C语言概述
 - GCC(最初是GUN C Compiler的简称，现在指GNU Compiler Collection)
 - lint & splint
-> http://www.cnblogs.com/bangerlee/archive/2011/09/07/2166593.html
+> http://www.cnblogs.com/bangerlee/archive/2011/09/07/2166593.html  
+> lint 检查C程序中潜在的错误，包括（但不局限于）可疑的类型组合、未使用的变量、不可达的代码以及不可一致的代码。
 
 - 标准化
 	- 原始C语言版本（经典C）
@@ -12,3 +13,9 @@
 	- C语言是一种小型语言
 	- C语言是一种包容性语言
 - 高效的使用C语言
+	- 学习如何规避C语言的缺陷
+	- 使用软件工具使程序更加可靠
+	- 利用现有的代码库
+	- 采用一套切合实际的编码规范
+	- 避免“投机取巧”和极度复杂的代码
+	- 紧贴标准
