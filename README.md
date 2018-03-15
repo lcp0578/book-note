@@ -50,7 +50,7 @@
 ### Linux
 - Linux 私房菜 基础学习篇
 - Linux 私房菜 服务器架设篇
-- Linux命令行与shell脚本大全（第2版）
+- [Linux命令行与shell脚本编程大全(第2版)](linux/Linux命令行与shell脚本大全（第2版）/README.md)
 - [Linux工具快速教程](linux/Linux工具快速教程/README.md)
 ### AWK
 - [AWK程序设计语言](AWK/AWK程序设计语言)
