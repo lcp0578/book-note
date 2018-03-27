@@ -14,3 +14,41 @@
 	
 		/* this is comment */
 		// this another comment //C99提供
+- 关键字(keyword)
+	- auto
+	- break
+	- case
+	- char
+	- const
+	- continue
+	- default
+	- do
+	- double
+	- else
+	- enum
+	- extern
+	- float
+	- for
+	- goto
+	- if
+	- inline(C99)
+	- int
+	- long
+	- register
+	- restrict(C99)
+	- return
+	- short
+	- signed
+	- sizeof
+	- static
+	- struct
+	- switch
+	- typedef
+	- union
+	- unsigned
+	- void
+	- volatile
+	- while
+	- _Bool
+	- _Complex
+	- _Imaginary
