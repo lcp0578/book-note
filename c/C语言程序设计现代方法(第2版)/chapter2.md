@@ -49,6 +49,6 @@
 	- void
 	- volatile
 	- while
-	- _Bool
-	- _Complex
-	- _Imaginary
+	- _Bool(C99)
+	- _Complex(C99)
+	- _Imaginary(C99)
