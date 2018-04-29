@@ -1,0 +1,11 @@
+## 第一章 Go与Web应用
+- Go标准库文档: cngolib.com
+- godoc 开发者只需要把文档写到源代码中，godoc就会把这些文档以及与之相关联的代码提取出来，生成相应的文档文件。
+- gotest 
+- 通用网关接口(Common Gateway Interface, CGI)
+- 幂等(idempotent)
+- HTTP请求/响应首部：由任意多个用冒号分割的纯文本键值对组成，最后以回车(CR)和换行(LF)结尾。
+- URI,统一资源标识符(Uniform Resource Identifier)
+- HTTP/2简介
+	- 与使用纯文本方式表示的HTTP1.x不同，HTTP/2是一种二进制协议；二进制表示不仅让HTTP/2的语法分析标的更为高效，还能让协议变得更为紧凑和及健壮。
+	- 跟HTTP1.x在一个网络连接里面每次只能发送单个请求的做法不同，HTTP/2是完全多路复用的(fully multiplexed)
