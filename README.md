@@ -110,6 +110,7 @@
 - C专家编程(英文版)
 - C和指针(英文版)
 - C陷阱与缺陷(英文版)
+- [嵌入式C编程](c/嵌入式C编程/REAMDE.md)
 ### C++
 - C++ Primer(fourth edition)
 - C++ Primer中文版(第五版)
