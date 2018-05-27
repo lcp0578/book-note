@@ -92,7 +92,7 @@
 ### Go
 - [Go语言学习笔记](Go/Go语言学习笔记/README.md)
 - [Go语言实战](Go/Go语言实战/README.md) 
-- Go语言程序设计
+- [Go语言程序设计](Go/Go语言程序设计/README.md)
 - [GoWeb编程](GoWeb编程/README.md)
 - Kubernetes权威指南
 - 区块链技术指南
