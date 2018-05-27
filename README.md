@@ -8,7 +8,7 @@
 ### mathematics
 - [程序员数学](mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](mathematics/程序员的数学-2-概率统计/README.md)
-- 程序员数学3-线性代数
+- [程序员数学3-线性代数](mathematics/程序员的数学-3-线性代数/README.md)
 ### PHP
 - [深入PHP面向对象、模式与实践(第3版)](php/深入PHP面向对象、模式与实践(第3版)/README.md)
 - [PHP编程实战](php/PHP编程实战/README.md)
