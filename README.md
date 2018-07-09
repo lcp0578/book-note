@@ -119,8 +119,8 @@
 ### TensorFlow
 - TensorFlow 技术解析与实战
 ### micro-service
-- 微服务设计
-- 微服务架构与实践
+- [微服务设计](micro-service/微服务设计/README.md)
+- [微服务架构与实践](micro-service/微服务架构与实践/README.md)
 ### machine-learning
 - 机器学习
 - 图解机器学习
