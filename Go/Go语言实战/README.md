@@ -5,3 +5,4 @@
 - [第四章 数组、切片和映射](chapter4.md)
 - [第五章 Go语言的类型系统](chapter5.md)
 - [第六章 并发](chapter6.md)
+- [第七章 并发模式](chapter7.md)
