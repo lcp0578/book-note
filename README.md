@@ -162,4 +162,8 @@
 - [Web GIS原理与应用开发](GIS/WebGIS原理与应用开发/README.md)
 ### 单片机
 - [51单片机](51MCU.md)
+### Hadoop
+- [Hadoop权威指南](Hadoop/Hadoop权威指南/README.md)
+- [Spark大数据分析](Hadoop/Spark大数据分析/README.md)
+- [Hive编程指南](Hadoop/Hive编程指南/README.md)
 
