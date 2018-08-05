@@ -46,3 +46,37 @@
             s2 := []int{3, 4}
             fmt.Printf("%v\n", append(s1, s2...))
             // output[1, 2, 3, 4]
+- 映射(map)
+	- 映射是一种数据结构，用于存储一系列无序的键值对。
+	- 无序的原因是映射的实现使用了散列表。
+	- 创建和初始化
+	
+    		dict := make(map[string]int) //创建一个映射，键类型是string，值类型是int
+            color := map[string]string{"Red": "#da1337", "Orange": "#e95a22"}
+            // 创建一个映射，使用字符串切片作为值
+            dict := map[int][]string}{}
+            // 创建一个空映射
+            colors := map[string]string{}
+            colors["Red"] = "#da1337"
+            // 创建一个nil映射
+            var colors = map[string]string
+	- 使用映射
+	
+    		// 获取键Blue对应的值
+            value, exists := colors["Blue"]
+            if exists {
+            	fmt.Println(value)
+            }
+            // 当键不存在时，会返回该值对应的类型的零值
+            value := colors["Blue"]
+            if value != "" {
+            	fmt.Println(value)
+            }
+            // 使用range迭代映射
+            for key,value := range colors {
+            	fmt.Printf("Key: %s Value: %s\n", key, value)
+            }
+            // 删除一项
+            delete(colors, "Coral")
+	- 在函数间传递映射  
+	在函数间传递映射并不会制造出该映射的一个副本。
