@@ -81,7 +81,7 @@
 - 深入理解计算机系统（原书第3版）
 ### database
 - 数据库系统概念(原书第6版)
-- 数据库系统：设计、实现与管理(基础篇)(原书第6版)
+- [数据库系统：设计、实现与管理(基础篇)(原书第6版)](database/数据库系统：设计、实现与管理/README.md)
 ### compiler-theory
 - 编译原理(第2版)
 ### algorithm
@@ -93,7 +93,7 @@
 - [Go语言学习笔记](Go/Go语言学习笔记/README.md)
 - [Go语言实战](Go/Go语言实战/README.md) 
 - [Go语言程序设计](Go/Go语言程序设计/README.md)
-- [GoWeb编程](GoWeb编程/README.md)
+- [GoWeb编程](Go/GoWeb编程/README.md)
 - Kubernetes权威指南
 - 区块链技术指南
 - [TheWayToGo](Go/TheWayToGo/README.md)
