@@ -7,3 +7,5 @@
 - [第5章 内容展示](chapter5.md)
 - [第6章 存储数据](chapter6.md)
 - [第7章 Go Web服务](chapter7.md)
+- [第8章 应用测试](chapter8.md)
+- [第9章 发挥Go的并发优势](chapter9.md)
