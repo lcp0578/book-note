@@ -157,6 +157,7 @@
 - [Clean Code](java/CleanCode/README.md)
 - [Java技术手册](java/Java技术手册/README.md)
 - [Spring实战(第四版)](java/Spring实战/README.md)
+- [Java编程思想（第四版）](java/Java编程思想/README.md)
 ### GIS
 - [SuperMap GIS二三维一体化开发实战](GIS/SuperMapGIS二三维一体化开发实战/README.md)
 - [云计算模式下MapGIS全新开发模式深度](GIS/云计算模式下MapGIS全新开发模式深度/README.md)
