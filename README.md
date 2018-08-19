@@ -80,7 +80,7 @@
 ### operating-system
 - 深入理解计算机系统（原书第3版）
 ### database
-- 数据库系统概念(原书第6版)
+- [数据库系统概念(原书第6版)](database/数据库系统概念/README.md)
 - [数据库系统：设计、实现与管理(基础篇)(原书第6版)](database/数据库系统：设计、实现与管理/README.md)
 ### compiler-theory
 - 编译原理(第2版)
