@@ -37,8 +37,8 @@
 - [高可用MySQL](MySQL/高可用MySQL/README.md)
 - [MySQL管理之道](MySQL/MySQL管理之道/REDME.md)
 ### redis
-- Redis入门指南
-- Redis实战
+- [Redis入门指南](redis/Redis入门指南/README.md)
+- [Redis实战](redis/Redis实战/README.md)
 - [Redis3.0中文版](redis/Redis3.0中文版/README.md)
 - [Redis源码日志](redis/Redis源码日志/README.md)
 ### Mongodb
