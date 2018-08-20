@@ -26,7 +26,7 @@
 - [Mastering PHP7](php/Mastering_PHP_7/README.md)
 - [PHP7 Data Structures and Algorithms](php/PHP7DataStructuresandAlgorithms/README.md)
 ### HTML & CSS
-- HTML5与CSS3设计模式
+- [HTML5与CSS3设计模式](html5css3/HTML5与CSS3设计模式/README.md)
 ### JavaScript
 - [JavaScript编程实战](javascript/JavaScript编程实战/README.md)
 - [JavaScript高级程序设计(第三版)](javascript/JavaScript高级程序设计(第三版)/README.md)
@@ -35,7 +35,7 @@
 - [MySQL5权威指南](MySQL/MySQL5权威指南/README.md)
 - [高性能MySQL](MySQL/高性能MySQL/README.md)
 - [高可用MySQL](MySQL/高可用MySQL/README.md)
-- MySQL管理之道
+- [MySQL管理之道](MySQL/MySQL管理之道/REDME.md)
 ### redis
 - Redis入门指南
 - Redis实战
