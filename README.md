@@ -121,8 +121,9 @@
 - [微服务设计](books/micro-service/微服务设计/README.md)
 - [微服务架构与实践](books/micro-service/微服务架构与实践/README.md)
 ### machine-learning
-- 机器学习
-- 图解机器学习
+- [机器学习](machine-learning/机器学习/README.md)
+- [图解机器学习](machine-learning/图解机器学习/README.md)
+- [MachineLearningYearning](machine-learning/MachineLearningYearning/README.md)
 ### code review
 - 代码审计
 ### computer-english
