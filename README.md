@@ -121,9 +121,9 @@
 - [微服务设计](books/micro-service/微服务设计/README.md)
 - [微服务架构与实践](books/micro-service/微服务架构与实践/README.md)
 ### machine-learning
-- [机器学习](machine-learning/机器学习/README.md)
-- [图解机器学习](machine-learning/图解机器学习/README.md)
-- [MachineLearningYearning](machine-learning/MachineLearningYearning/README.md)
+- [机器学习](books/machine-learning/机器学习/README.md)
+- [图解机器学习](books/machine-learning/图解机器学习/README.md)
+- [MachineLearningYearning](books/machine-learning/MachineLearningYearning/README.md)
 ### code review
 - 代码审计
 ### computer-english
@@ -175,5 +175,5 @@
 ### Oracle数据库
 - [深入理解 Oracle 12c 数据库管理(第二版)](books/Oracle/深入理解Oracle12c数据库管理/README.md)
 ### Varnish
-- [The Varnish Book](varnish/TheVarnishBook/README.md)
+- [The Varnish Book](books/varnish/TheVarnishBook/README.md)
 
