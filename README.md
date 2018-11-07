@@ -78,6 +78,7 @@
 - 数据结构与算法分析--C语言描述
 ### operating-system
 - [深入理解计算机系统（原书第3版）](books/operating-system/深入理解计算机系统/README.md)
+- [编码 隐匿在计算机软硬件背后的语言](books/operating-system/编码_隐匿在计算机软硬件背后的语言/README.md)
 ### database
 - [数据库系统概念(原书第6版)](books/database/数据库系统概念/README.md)
 - [数据库系统：设计、实现与管理(基础篇)(原书第6版)](books/database/数据库系统：设计、实现与管理/README.md)
