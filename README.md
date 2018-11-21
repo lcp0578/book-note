@@ -83,7 +83,8 @@
 - [数据库系统概念(原书第6版)](books/database/数据库系统概念/README.md)
 - [数据库系统：设计、实现与管理(基础篇)(原书第6版)](books/database/数据库系统：设计、实现与管理/README.md)
 ### compiler-theory
-- 编译原理(第2版)
+- [编译原理（第2版）](books/compiler-theory/编译原理（第2版）/README.md)
+- [现代编译原理：C语言描述（修订版）](books/compiler-theory/现代编译原理：C语言描述（修订版）/README.md)
 ### algorithm
 - 算法基础：打开算法之门
 - 算法导论
