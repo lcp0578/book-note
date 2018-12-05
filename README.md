@@ -177,6 +177,8 @@
 - [Docker实践](books/Docker/Docker实践/README.md)
 ### Oracle数据库
 - [深入理解 Oracle 12c 数据库管理(第二版)](books/Oracle/深入理解Oracle12c数据库管理/README.md)
+- [Oracle编程艺术 深入理解数据库体系结构（第3版）](books/Oracle/Oracle编程艺术深入理解数据库体系结构/README.md)
+- [Oracle核心技术](books/Oracle/Oracle核心技术/README.md)
 ### Varnish
 - [The Varnish Book](books/varnish/TheVarnishBook/README.md)
 
