@@ -37,6 +37,7 @@
 - [高可用MySQL](books/MySQL/高可用MySQL/README.md)
 - [MySQL管理之道](books/MySQL/MySQL管理之道/REDME.md)
 - [MySQL 8 Cookbook（中文版）](books/MySQL/MySQL8Cookbook/README.md)
+- [MySQL 8 Cookbook English](books/MySQL/MySQL8Cookbook-English/README.md)
 ### redis
 - [Redis入门指南](books/redis/Redis入门指南/README.md)
 - [Redis实战](books/redis/Redis实战/README.md)
