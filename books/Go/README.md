@@ -14,3 +14,4 @@
 - [Effective Go](EffectiveGo/README.md)
 - [The Go Language Guide Web Application Secure Coding Practices](Go/TheGoLanguageGuideWebApplicationSecureCodingPractices/README.md)
 - [Go语言编程入门与实战技巧](Go语言编程入门与实战技巧/README.md)
+- [机器学习Go语言实现](机器学习Go语言实现/README.md)

@@ -107,6 +107,7 @@
 - [Effective Go](books/Go/EffectiveGo/README.md)
 - [The Go Language Guide Web Application Secure Coding Practices](books/Go/TheGoLanguageGuideWebApplicationSecureCodingPractices/README.md)
 - [Go语言编程入门与实战技巧](books/Go/Go语言编程入门与实战技巧/README.md)
+- [机器学习Go语言实现](books/Go/机器学习Go语言实现/README.md)
 ### C
 - [C语言程序设计 现代方法(第2版)](books/c/C语言程序设计现代方法(第2版)/README.md)
 - [C和指针(中文版)](books/c/C和指针(中文版)/README.md)
@@ -177,6 +178,7 @@
 ### Docker
 - [Docker开发实践](books/Docker/Docker开发实践/README.md)
 - [Docker实践](books/Docker/Docker实践/README.md)
+- [Docker技术入门与实践](books/Docker/Docker技术入门与实践/README.md)
 ### Oracle数据库
 - [深入理解 Oracle 12c 数据库管理(第二版)](books/Oracle/深入理解Oracle12c数据库管理/README.md)
 - [Oracle编程艺术 深入理解数据库体系结构（第3版）](books/Oracle/Oracle编程艺术深入理解数据库体系结构/README.md)
