@@ -106,6 +106,7 @@
 - [Matering Go Web Services](books/Go/MateringGoWebServices/README.md)
 - [Effective Go](books/Go/EffectiveGo/README.md)
 - [The Go Language Guide Web Application Secure Coding Practices](books/Go/TheGoLanguageGuideWebApplicationSecureCodingPractices/README.md)
+- [Go语言编程入门与实战技巧](books/Go/Go语言编程入门与实战技巧/README.md)
 ### C
 - [C语言程序设计 现代方法(第2版)](books/c/C语言程序设计现代方法(第2版)/README.md)
 - [C和指针(中文版)](books/c/C和指针(中文版)/README.md)

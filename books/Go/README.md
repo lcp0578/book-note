@@ -13,3 +13,4 @@
 - [Matering Go Web Services](MateringGoWebServices/README.md)
 - [Effective Go](EffectiveGo/README.md)
 - [The Go Language Guide Web Application Secure Coding Practices](Go/TheGoLanguageGuideWebApplicationSecureCodingPractices/README.md)
+- [Go语言编程入门与实战技巧](Go语言编程入门与实战技巧/README.md)
