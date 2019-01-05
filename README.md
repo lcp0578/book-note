@@ -186,3 +186,5 @@
 ### Varnish
 - [The Varnish Book](books/varnish/TheVarnishBook/README.md)
 ### WebAssembly
+- [官网](https://webassembly.org/)
+- [WebAssembly标准入门](books/WebAssembly/WebAssembly标准入门/README.md)
