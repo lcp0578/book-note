@@ -190,3 +190,8 @@
 ### WebAssembly
 - [官网](https://webassembly.org/)
 - [WebAssembly标准入门](books/WebAssembly/WebAssembly标准入门/README.md)
+### 杂项
+- [羊皮卷](books/other/羊皮卷/README.md)
+- [厚黑学](books/other/厚黑学/README.md)
+- [人性的弱点](books/other/人性的弱点/README.md)
+- [墨菲定律](books/other/墨菲定律/README.md)
