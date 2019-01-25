@@ -195,3 +195,5 @@
 - [厚黑学](books/other/厚黑学/README.md)
 - [人性的弱点](books/other/人性的弱点/README.md)
 - [墨菲定律](books/other/墨菲定律/README.md)
+- [方与圆人生的智慧课](books/other/方与圆人生的智慧课/README.md)
+- [狼道](books/other/狼道/README.md)
