@@ -72,6 +72,7 @@
 - TCP/IP详解(卷3：TCP事务协议、HTTP、NNTP和UNIX域协议)
 - [Wireshark就是这么简单](books/network/Wireshark就是这么简单/README.md)
 - [Wireshark网络分析的艺术](books/network/Wireshark网络分析的艺术/README.md)
+- [深入浅出HTTPS从原理到实战](books/network/深入浅出HTTPS从原理到实战/README.md)
 ### cryptography
 - [图解密码技术(第三版)](books/cryptography/图解密码技术/README.md)
 - 加密解密实战
@@ -87,6 +88,7 @@
 ### compiler-theory
 - [编译原理（第2版）](books/compiler-theory/编译原理（第2版）/README.md)
 - [现代编译原理：C语言描述（修订版）](books/compiler-theory/现代编译原理：C语言描述（修订版）/README.md)
+- [计算机程序的构造和解释](books/compiler-theory/计算机程序的构造和解释/README.md)
 ### algorithm
 - 算法基础：打开算法之门
 - 算法导论

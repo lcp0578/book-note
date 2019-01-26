@@ -14,3 +14,4 @@
 - TCP/IP详解(卷3：TCP事务协议、HTTP、NNTP和UNIX域协议)
 - [Wireshark就是这么简单](Wireshark就是这么简单/README.md)
 - [Wireshark网络分析的艺术](Wireshark网络分析的艺术/README.md)
+- [深入浅出HTTPS从原理到实战](深入浅出HTTPS从原理到实战/README.md)
