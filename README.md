@@ -199,3 +199,4 @@
 - [墨菲定律](books/other/墨菲定律/README.md)
 - [方与圆人生的智慧课](books/other/方与圆人生的智慧课/README.md)
 - [狼道](books/other/狼道/README.md)
+- [黑客与画家](books/other/黑客与画家/README.md)
