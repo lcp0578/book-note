@@ -55,6 +55,8 @@
 - [Linux命令行与shell脚本编程大全(第2版)](books/linux/Linux命令行与shell脚本编程大全/README.md)
 - [Linux工具快速教程](books/linux/Linux工具快速教程/README.md)
 - [Linux程序设计(第4版)](books/linux/Linux程序设计/README.md)
+- [Lniux 内核设计与实现](books/linux/Lniux内核设计与实现/README.md)
+- [深入理解 Linux 内核](books/linux/深入理解Linux内核/README.md)
 ### AWK
 - [AWK程序设计语言](books/AWK/AWK程序设计语言)
 - [The AWK Programming Language](books/AWK/The_AWK_Programming_Language)
