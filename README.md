@@ -194,6 +194,9 @@
 ### WebAssembly
 - [官网](https://webassembly.org/)
 - [WebAssembly标准入门](books/WebAssembly/WebAssembly标准入门/README.md)
+### MQ 消息队列
+- [Apache Kafka 实战](books/MQ/ApacheKafka实战/README.md)
+- [RabbitMQ实战](books/MQ/RabbitMQ实战/README.md)
 ### 杂项
 - [羊皮卷](books/other/羊皮卷/README.md)
 - [厚黑学](books/other/厚黑学/README.md)
