@@ -197,6 +197,8 @@
 ### MQ 消息队列
 - [Apache Kafka 实战](books/MQ/ApacheKafka实战/README.md)
 - [RabbitMQ实战](books/MQ/RabbitMQ实战/README.md)
+### Erlang
+- [Erlang程序设计（第2版）](books/Erlang/Erlang程序设计/README.md)
 ### 杂项
 - [羊皮卷](books/other/羊皮卷/README.md)
 - [厚黑学](books/other/厚黑学/README.md)
@@ -205,3 +207,4 @@
 - [方与圆人生的智慧课](books/other/方与圆人生的智慧课/README.md)
 - [狼道](books/other/狼道/README.md)
 - [黑客与画家](books/other/黑客与画家/README.md)
+- [软技能 代码之外的生存指南](books/others/软技能_代码之外的生存指南/README.md)
