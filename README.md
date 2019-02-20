@@ -199,6 +199,8 @@
 - [RabbitMQ实战](books/MQ/RabbitMQ实战/README.md)
 ### Erlang
 - [Erlang程序设计（第2版）](books/Erlang/Erlang程序设计/README.md)
+### Scala
+- [Scala编程思想](books/Scala/Scala编程思想/README.md)
 ### 杂项
 - [羊皮卷](books/other/羊皮卷/README.md)
 - [厚黑学](books/other/厚黑学/README.md)
