@@ -135,8 +135,12 @@
 - [机器学习](books/machine-learning/机器学习/README.md)
 - [图解机器学习](books/machine-learning/图解机器学习/README.md)
 - [MachineLearningYearning](books/machine-learning/MachineLearningYearning/README.md)
-### code review
-- 代码审计
+### Code
+- [编程珠玑 第2版 修订版](src/Code/编程珠玑/README.md)
+- [编程珠玑 续 修订版](src/Code/编程珠玑/README.md)
+- [代码审计](src/Code/代码审计/README.md)
+- [代码整洁之道](src/Code/代码整洁之道/README.md)
+- [重构 改善既有代码的设计](src/Code/重构改善既有代码的设计/README.md)
 ### computer-english
 - 计算机英语
 ### Git
