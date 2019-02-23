@@ -141,6 +141,9 @@
 - [代码审计](books/Code/代码审计/README.md)
 - [代码整洁之道](books/Code/代码整洁之道/README.md)
 - [重构 改善既有代码的设计](books/Code/重构改善既有代码的设计/README.md)
+- [修改软件的艺术 构建易维护代码的9条最佳实践](books/Code/修改软件的艺术/README.md)
+- [编程人生 15位软件先驱访谈录（上卷）](books/Code/编程人生上卷/README.md)
+- [编程人生 15位软件先驱访谈录（下卷）](books/Code/编程人生下卷/README.md)
 ### computer-english
 - 计算机英语
 ### Git
@@ -206,6 +209,7 @@
 - [Erlang程序设计（第2版）](books/Erlang/Erlang程序设计/README.md)
 ### Scala
 - [Scala编程思想](books/Scala/Scala编程思想/README.md)
+- [Scala程序设计](books/Scala/Scala程序设计/README.md)
 ### 杂项
 - [羊皮卷](books/other/羊皮卷/README.md)
 - [厚黑学](books/other/厚黑学/README.md)
