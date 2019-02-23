@@ -149,7 +149,8 @@
 ### Web安全
 - 白帽子讲web安全
 ### Node js
-- 深入浅出Node JS
+- [深入浅出NodeJS](books/nodejs/深入浅出NodeJS/README.md)
+- [Node.js项目实践 构建可扩展的Web应用](books/nodejs/Node.js项目实践/README.md)
 ### symfony
 - [A Year With Symfony](books/symfony/AYearWithSymfony/README.md)
 - [Mastering Symfony](books/symfony/MasteringSymfony/README.md)
