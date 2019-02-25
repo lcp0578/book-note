@@ -134,7 +134,8 @@
 ### machine-learning
 - [机器学习](books/machine-learning/机器学习/README.md)
 - [图解机器学习](books/machine-learning/图解机器学习/README.md)
-- [MachineLearningYearning](books/machine-learning/MachineLearningYearning/README.md)
+- [Machine Learning Yearning](books/machine-learning/MachineLearningYearning/README.md)
+- [深入理解机器学习 从原理到算法](books/machine-learning/深入理解机器学习/README.md)
 ### Code
 - [编程珠玑 第2版 修订版](books/Code/编程珠玑/README.md)
 - [编程珠玑 续 修订版](books/Code/编程珠玑/README.md)
