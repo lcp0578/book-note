@@ -216,6 +216,8 @@
 ### 网站性能优化
 - [大型网站性能优化](books/performance/大型网站性能优化/README.md)
 - [大型网站技术架构](books/performance/大型网站技术架构/README.md)
+### 分布式
+- [从Paxos到ZooKeeper](books/distributed/从Paxos到ZooKeeper/README.md)
 ### 杂项
 - [羊皮卷](books/other/羊皮卷/README.md)
 - [厚黑学](books/other/厚黑学/README.md)
