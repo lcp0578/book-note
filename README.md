@@ -178,6 +178,7 @@
 - [Java技术手册](books/java/Java技术手册/README.md)
 - [Spring实战(第四版)](books/java/Spring实战/README.md)
 - [Java编程思想（第四版）](books/java/Java编程思想/README.md)
+- [Spring Cloud 微服务实战](books/java/SpringCloud微服务实战/README.md)
 ### GIS
 - [SuperMap GIS二三维一体化开发实战](books/GIS/SuperMapGIS二三维一体化开发实战/README.md)
 - [云计算模式下MapGIS全新开发模式深度](books/GIS/云计算模式下MapGIS全新开发模式深度/README.md)
@@ -211,6 +212,9 @@
 ### Scala
 - [Scala编程思想](books/Scala/Scala编程思想/README.md)
 - [Scala程序设计](books/Scala/Scala程序设计/README.md)
+### 网站性能优化
+- [大型网站性能优化](books/performance/大型网站性能优化/README.md)
+- [大型网站技术架构](books/performance/大型网站技术架构/README.md)
 ### 杂项
 - [羊皮卷](books/other/羊皮卷/README.md)
 - [厚黑学](books/other/厚黑学/README.md)
