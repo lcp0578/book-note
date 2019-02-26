@@ -151,7 +151,8 @@
 - Git权威指南
 - [Pro Git](books/Git/ProGit/README.md)
 ### Web安全
-- 白帽子讲web安全
+- [白帽子讲web安全](books/WebSecurity/白帽子讲web安全/README.md)
+- [Web安全攻防](books/WebSecurity/Web安全攻防/README.md)
 ### Node js
 - [深入浅出NodeJS](books/nodejs/深入浅出NodeJS/README.md)
 - [Node.js项目实践 构建可扩展的Web应用](books/nodejs/Node.js项目实践/README.md)
