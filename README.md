@@ -145,6 +145,7 @@
 - [修改软件的艺术 构建易维护代码的9条最佳实践](books/Code/修改软件的艺术/README.md)
 - [编程人生 15位软件先驱访谈录（上卷）](books/Code/编程人生上卷/README.md)
 - [编程人生 15位软件先驱访谈录（下卷）](books/Code/编程人生下卷/README.md)
+- [持续交付 2.0](books/Code/持续交付/README.md)
 ### computer-english
 - 计算机英语
 ### Git
@@ -213,6 +214,8 @@
 ### Scala
 - [Scala编程思想](books/Scala/Scala编程思想/README.md)
 - [Scala程序设计](books/Scala/Scala程序设计/README.md)
+### Rust
+- [Rust编程之道](books/Rust/Rust编程之道/README.md)
 ### 网站性能优化
 - [大型网站性能优化](books/performance/大型网站性能优化/README.md)
 - [大型网站技术架构](books/performance/大型网站技术架构/README.md)
