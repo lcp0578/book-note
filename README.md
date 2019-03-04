@@ -113,6 +113,7 @@
 - [Kubernetes权威指南](books/Go/Kubernetes权威指南/README.md)
 - [区块链技术指南](books/Go/区块链技术指南/README.md)
 - [每天5分钟玩转Kubernetes](books/Go/每天5分钟玩转Kubernetes/README.md)
+- [Go语言并发之道](books/Go/Go语言并发之道/README.md)
 ### C
 - [C语言程序设计 现代方法(第2版)](books/c/C语言程序设计现代方法(第2版)/README.md)
 - [C和指针(中文版)](books/c/C和指针(中文版)/README.md)

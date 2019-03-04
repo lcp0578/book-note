@@ -16,3 +16,4 @@
 - [Kubernetes权威指南](Kubernetes权威指南/README.md)
 - [区块链技术指南](区块链技术指南/README.md)
 - [每天5分钟玩转Kubernetes](每天5分钟玩转Kubernetes/README.md)
+- [Go语言并发之道](Go语言并发之道/README.md)
