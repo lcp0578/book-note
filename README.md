@@ -146,6 +146,9 @@
 - [编程人生 15位软件先驱访谈录（上卷）](books/Code/编程人生上卷/README.md)
 - [编程人生 15位软件先驱访谈录（下卷）](books/Code/编程人生下卷/README.md)
 - [持续交付 2.0](books/Code/持续交付/README.md)
+- [领域驱动设计](books/Code/领域驱动设计/README.md)
+- [恰如其分的软件架构](books/Code/恰如其分的软件架构/README.md)
+- [架构整洁之道](books/Code/架构整洁之道/README.md)
 ### computer-english
 - 计算机英语
 ### Git
