@@ -226,6 +226,21 @@
 - [大型网站技术架构](books/performance/大型网站技术架构/README.md)
 ### 分布式
 - [从Paxos到ZooKeeper](books/distributed/从Paxos到ZooKeeper/README.md)
+### 吴军作品集
+- [态度](books/wujun/态度/README.md)
+- [见识](books/wujun/见识/README.md)
+- [智能时代](books/wujun/智能时代/README.md)
+- [具体生活](books/wujun/具体生活/README.md)
+- [文明之光 第一册](books/wujun/文明之光第一册/README.md)
+- [文明之光 第二册](books/wujun/文明之光第二册/README.md)
+- [文明之光 第三册](books/wujun/文明之光第三册/README.md)
+- [文明之光 第四册](books/wujun/文明之光第四册/README.md)
+- [大学之路 第二版 上](books/wujun/大学之路上/README.md)
+- [大学之路 第二版 下](books/wujun/大学之路下/README.md)
+- [硅谷之谜](books/wujun/硅谷之谜/README.md)
+- [数学之美 第二版](books/wujun/数学之美/README.md)
+- [浪潮之巅 第三版 上](books/wujun/浪潮之巅上/README.md)
+- [浪潮之巅 第三版 下](books/wujun/浪潮之巅下/README.md)
 ### 杂项
 - [羊皮卷](books/other/羊皮卷/README.md)
 - [厚黑学](books/other/厚黑学/README.md)
