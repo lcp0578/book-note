@@ -150,6 +150,7 @@
 - [领域驱动设计](books/Code/领域驱动设计/README.md)
 - [恰如其分的软件架构](books/Code/恰如其分的软件架构/README.md)
 - [架构整洁之道](books/Code/架构整洁之道/README.md)
+- [集体智慧编程](books/Code/集体智慧编程/README.md)
 ### computer-english
 - 计算机英语
 ### Git
