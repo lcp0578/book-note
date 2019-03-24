@@ -79,8 +79,8 @@
 - [图解密码技术(第三版)](books/cryptography/图解密码技术/README.md)
 - 加密解密实战
 ### data-structure
-- 大话数据结构
-- 数据结构与算法分析--C语言描述
+- [数据结构与算法分析--C语言描述](books/data-structure/数据结构与算法分析/README.md)
+- [大话数据结构](books/data-structure/大话数据结构/README.md)
 ### operating-system
 - [深入理解计算机系统（原书第3版）](books/operating-system/深入理解计算机系统/README.md)
 - [编码 隐匿在计算机软硬件背后的语言](books/operating-system/编码_隐匿在计算机软硬件背后的语言/README.md)
