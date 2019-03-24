@@ -92,10 +92,10 @@
 - [现代编译原理：C语言描述（修订版）](books/compiler-theory/现代编译原理：C语言描述（修订版）/README.md)
 - [计算机程序的构造和解释](books/compiler-theory/计算机程序的构造和解释/README.md)
 ### algorithm
-- 算法基础：打开算法之门
-- 算法导论
-- 算法(第四版)
-- 算法(英文版 第四版)
+- [算法基础：打开算法之门](books/algorithm/算法基础：打开算法之门/README.md)
+- [算法导论](books/algorithm/算法导论/README.md)
+- [算法(第四版)](books/algorithm/算法_第四版/README.md)
+- [算法(英文版 第四版)](books/algorithm/算法_英文版_第四版/README.md)
 ### Go
 - [Go语言学习笔记](books/Go/Go语言学习笔记/README.md)
 - [Go语言实战](books/Go/Go语言实战/README.md) 
