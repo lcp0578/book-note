@@ -9,6 +9,7 @@
 - [程序员数学](books/mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
 - [程序员数学3-线性代数](books/mathematics/程序员的数学-3-线性代数/README.md)
+- [思考的乐趣 Matrix67数学笔记](books/mathematics/思考的乐趣/README.md)
 ### PHP
 - [深入PHP面向对象、模式与实践(第3版)](books/php/深入PHP面向对象、模式与实践(第3版)/README.md)
 - [PHP编程实战](books/php/PHP编程实战/README.md)
@@ -151,6 +152,7 @@
 - [恰如其分的软件架构](books/Code/恰如其分的软件架构/README.md)
 - [架构整洁之道](books/Code/架构整洁之道/README.md)
 - [集体智慧编程](books/Code/集体智慧编程/README.md)
+- [高效程序员的45个习惯 敏捷开发修炼之道](books/Code/高效程序员的45个习惯/README.md)
 ### computer-english
 - 计算机英语
 ### Git
