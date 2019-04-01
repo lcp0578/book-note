@@ -227,6 +227,13 @@
 - [大型网站技术架构](books/performance/大型网站技术架构/README.md)
 ### 分布式
 - [从Paxos到ZooKeeper](books/distributed/从Paxos到ZooKeeper/README.md)
+## 极客时间课程学习
+- [左耳听风](books/geektime/左耳听风/README.md)
+- [MySQL实战45讲](books/geektime/MySQL实战45讲/README.md)
+- [Nginx核心知识100讲](books/geektime/Nginx核心知识100讲/README.md)
+- [程序员的数学基础课](books/geektime/程序员的数学基础课/README.md)
+- [数据结构与算法之美](books/geektime/数据结构与算法之美/README.md)
+- [硅谷产品实战36讲](books/geektime/硅谷产品实战36讲/README.md)
 ### 吴军作品集
 - [态度](books/wujun/态度/README.md)
 - [见识](books/wujun/见识/README.md)
