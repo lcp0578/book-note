@@ -138,6 +138,7 @@
 - [图解机器学习](books/machine-learning/图解机器学习/README.md)
 - [Machine Learning Yearning](books/machine-learning/MachineLearningYearning/README.md)
 - [深入理解机器学习 从原理到算法](books/machine-learning/深入理解机器学习/README.md)
+- [Deep Learning 深度学习](books/machine-learning/深度学习/README.md)
 ### Code
 - [编程珠玑 第2版 修订版](books/Code/编程珠玑/README.md)
 - [编程珠玑 续 修订版](books/Code/编程珠玑/README.md)
@@ -229,7 +230,7 @@
 - [大型网站技术架构](books/performance/大型网站技术架构/README.md)
 ### 分布式
 - [从Paxos到ZooKeeper](books/distributed/从Paxos到ZooKeeper/README.md)
-## 极客时间课程学习
+### 极客时间课程学习
 - [左耳听风](books/geektime/左耳听风/README.md)
 - [MySQL实战45讲](books/geektime/MySQL实战45讲/README.md)
 - [Nginx核心知识100讲](books/geektime/Nginx核心知识100讲/README.md)
