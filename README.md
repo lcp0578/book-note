@@ -154,6 +154,7 @@
 - [架构整洁之道](books/Code/架构整洁之道/README.md)
 - [集体智慧编程](books/Code/集体智慧编程/README.md)
 - [高效程序员的45个习惯 敏捷开发修炼之道](books/Code/高效程序员的45个习惯/README.md)
+- [人月神话](books/Code/人月神话/README.md)
 ### computer-english
 - 计算机英语
 ### Git
