@@ -126,8 +126,9 @@
 ### C++
 - C++ Primer(fourth edition)
 - C++ Primer中文版(第五版)
-### python
-- Python基础教程(第二版 修订版)
+### Python
+- [Python基础教程(第二版 修订版)](books/Python/Python基础教程/README.md)
+- [Python编程:从入门到实战](books/Python/Python编程_从入门到实战/README.md)
 ### TensorFlow
 - TensorFlow 技术解析与实战
 ### micro-service
