@@ -5,3 +5,12 @@
 	- fork这个词指的是在程序中的任意一点，他可以将执行的子分支与其父节点同时运行。
 	- join这个词指的是，在将来的某个时候，这些并发执行的分支将会合并在一起。
 - sync包 包含对低级别内存访问同步最有用的并发原语。
+	- 互斥锁和读写锁
+		- sync.Mutex
+		- RWMutex
+	- Cond
+	- Once
+	- Pool
+- Channel
+- Select
+- GOMAXPROCS
