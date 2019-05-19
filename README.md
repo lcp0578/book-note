@@ -156,6 +156,7 @@
 - [集体智慧编程](books/Code/集体智慧编程/README.md)
 - [高效程序员的45个习惯 敏捷开发修炼之道](books/Code/高效程序员的45个习惯/README.md)
 - [人月神话](books/Code/人月神话/README.md)
+- [垃圾回收算法手册-自动内存管理的艺术](books/Code/垃圾回收算法手册/README.md)
 ### computer-english
 - 计算机英语
 ### Git
