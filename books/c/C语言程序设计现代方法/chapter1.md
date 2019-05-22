@@ -1,9 +1,5 @@
 ## 第1章 C语言概述
 - GCC(最初是GUN C Compiler的简称，现在指GNU Compiler Collection)
-- lint & splint
-> http://www.cnblogs.com/bangerlee/archive/2011/09/07/2166593.html  
-> lint 检查C程序中潜在的错误，包括（但不局限于）可疑的类型组合、未使用的变量、不可达的代码以及不可一致的代码。
-
 - 标准化
 	- 原始C语言版本（经典C）
 	- C89或C90（1989年12月）
@@ -19,3 +15,10 @@
 	- 采用一套切合实际的编码规范
 	- 避免“投机取巧”和极度复杂的代码
 	- 紧贴标准
+- lint & splint(Secure Programming Lint)
+> www.splint.org
+> http://www.cnblogs.com/bangerlee/archive/2011/09/07/2166593.html  
+> lint 检查C程序中潜在的错误，包括（但不局限于）可疑的类型组合、未使用的变量、不可达的代码以及不可一致的代码。
+- 其他工具
+	- bounds-checker 越界检查工具
+	- leak-finder 内存泄露监测工具
