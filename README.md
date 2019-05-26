@@ -205,6 +205,8 @@
 - [Web GIS原理与应用开发](books/GIS/WebGIS原理与应用开发/README.md)
 ### 单片机
 - [51单片机](books/51MCU.md)
+### 嵌入式
+- [嵌入式系统开发与应用实例](books/embedded/嵌入式系统开发与应用实例/README.md)
 ### Hadoop
 - [Hadoop权威指南](books/Hadoop/Hadoop权威指南/README.md)
 - [Spark大数据分析](books/Hadoop/Spark大数据分析/README.md)
