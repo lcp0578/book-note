@@ -15,3 +15,5 @@
 - [高效程序员的45个习惯 敏捷开发修炼之道](高效程序员的45个习惯/README.md)
 - [人月神话](人月神话/README.md)
 - [垃圾回收算法手册-自动内存管理的艺术](垃圾回收算法手册/README.md)
+- [设计原本](设计原本/README.md)
+- [The Design of Design](设计原本_英文版/README.md)

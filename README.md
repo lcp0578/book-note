@@ -159,6 +159,8 @@
 - [高效程序员的45个习惯 敏捷开发修炼之道](books/Code/高效程序员的45个习惯/README.md)
 - [人月神话](books/Code/人月神话/README.md)
 - [垃圾回收算法手册-自动内存管理的艺术](books/Code/垃圾回收算法手册/README.md)
+- [设计原本](books/Code/设计原本/README.md)
+- [The Design of Design](books/Code/设计原本_英文版/README.md)
 ### computer-english
 - 计算机英语
 ### Git
