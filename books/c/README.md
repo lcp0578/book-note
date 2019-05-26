@@ -1,4 +1,5 @@
 ## C
+- [C程序设计语言（第2版）](C程序设计语言/README.md)
 - [C语言程序设计 现代方法(第2版)](C语言程序设计现代方法/README.md)
 - [C和指针](C和指针_zh/README.md)
 - [Pointers On C](C和指针_en/README.md)

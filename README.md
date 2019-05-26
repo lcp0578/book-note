@@ -116,6 +116,7 @@
 - [每天5分钟玩转Kubernetes](books/Go/每天5分钟玩转Kubernetes/README.md)
 - [Go语言并发之道](books/Go/Go语言并发之道/README.md)
 ### C
+- [C程序设计语言（第2版）](books/c/C程序设计语言/README.md)
 - [C语言程序设计 现代方法(第2版)](books/c/C语言程序设计现代方法/README.md)
 - [C和指针](books/c/C和指针_zh/README.md)
 - [Pointers On C](books/c/C和指针_en/README.md)
@@ -235,6 +236,8 @@
 - [大型网站技术架构](books/performance/大型网站技术架构/README.md)
 ### 分布式
 - [从Paxos到ZooKeeper](books/distributed/从Paxos到ZooKeeper/README.md)
+## Windows
+- [Windows核心编程（第5版）](books/Windows/Windows核心编程/README.md)
 ### 极客时间课程学习
 - [左耳听风](books/geektime/左耳听风/README.md)
 - [MySQL实战45讲](books/geektime/MySQL实战45讲/README.md)
