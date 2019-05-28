@@ -126,8 +126,10 @@
 - [C Traps and Pitfalls](books/c/C陷阱与缺陷_en/README.md)
 - [嵌入式C编程](books/c/嵌入式C编程/REAMDE.md)
 ### C++
-- C++ Primer(fourth edition)
-- C++ Primer中文版(第五版)
+- [C++ Primer(fourth edition)](books/c++/C++Primer/README.md)
+- [C++ Primer中文版(第五版)](books/c++/C++Primer中文版/README.md)
+- [C++编程思想](books/c++/C++编程思想/README.md)
+- [C++实践之路](books/c++/C++实践之路/README.md)
 ### Python
 - [Python基础教程(第二版 修订版)](books/Python/Python基础教程/README.md)
 - [Python编程:从入门到实战](books/Python/Python编程_从入门到实战/README.md)
