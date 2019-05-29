@@ -208,7 +208,11 @@
 ### 单片机
 - [51单片机](books/51MCU.md)
 ### 嵌入式
+- [嵌入式系统设计原理](books/embedded/嵌入式系统设计原理/README.md)
+- [计算机组成与嵌入式系统](books/embedded/计算机组成与嵌入式系统/README.md)
+- [嵌入式系统--硬件、软件及软硬协同](books/embedded/嵌入式系统/README.md)
 - [嵌入式系统开发与应用实例](books/embedded/嵌入式系统开发与应用实例/README.md)
+- [ARM嵌入式系统编程与优化](books/embedded/ARM嵌入式系统编程与优化/README.md)
 ### Hadoop
 - [Hadoop权威指南](books/Hadoop/Hadoop权威指南/README.md)
 - [Spark大数据分析](books/Hadoop/Spark大数据分析/README.md)
