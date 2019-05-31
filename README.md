@@ -165,6 +165,7 @@
 - [垃圾回收算法手册-自动内存管理的艺术](books/Code/垃圾回收算法手册/README.md)
 - [设计原本](books/Code/设计原本/README.md)
 - [The Design of Design](books/Code/设计原本_英文版/README.md)
+- [设计模式--可复用面向对象软件的基础](books/Code/设计模式/README.md)
 ### computer-english
 - 计算机英语
 ### Git
