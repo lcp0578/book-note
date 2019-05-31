@@ -188,8 +188,9 @@
 - [Symfony Cookbook](books/symfony/SymfonyCookbook/README.md)
 ### CakePHP
 - [Learn CakePHP](books/CakePHP/LearnCakePHP/README.md)
-### lua
-- [Programming in Lua](books/lua/ProgrammingInLua/README.md)
+### Lua
+- [Lua程序设计(第4版)](books/Lua/Lua程序设计/README.md)
+- [Programming In Lua Fourth edition](books/Lua/ProgrammingInLua/README.md)
 ### Elasticsearch
 - [深入理解Elasticsearch（原书第2版）](books/ElasticSearch/深入理解Elasticsearch/README.md)
 - [Elasticsearch技术解析与实战](books/ElasticSearch/Elasticsearch技术解析与实战/README.md)
