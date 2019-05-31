@@ -197,12 +197,14 @@
 ### software
 - [软件工程导论](books/software/软件工程导论/README.md)
 - [软件测试原理与实践](books/software/软件测试原理与实践/README.md)
-### java
-- [Clean Code](books/java/CleanCode/README.md)
-- [Java技术手册](books/java/Java技术手册/README.md)
-- [Spring实战(第四版)](books/java/Spring实战/README.md)
-- [Java编程思想（第四版）](books/java/Java编程思想/README.md)
-- [Spring Cloud 微服务实战](books/java/SpringCloud微服务实战/README.md)
+### Java
+- [Clean Code](books/Java/CleanCode/README.md)
+- [Java技术手册](books/Java/Java技术手册/README.md)
+- [Spring实战(第四版)](books/Java/Spring实战/README.md)
+- [Java编程思想（第四版）](books/Java/Java编程思想/README.md)
+- [Spring Cloud 微服务实战](books/Java/SpringCloud微服务实战/README.md)
+- [Java核心技术 卷Ⅰ 基础支持(原书第10版)](books/Java/Java核心技术卷1/README.md)
+- [Java核心技术 卷Ⅱ 高级特性(原书第10版)](books/Java/Java核心技术卷2/README.md)
 ### GIS
 - [SuperMap GIS二三维一体化开发实战](books/GIS/SuperMapGIS二三维一体化开发实战/README.md)
 - [云计算模式下MapGIS全新开发模式深度](books/GIS/云计算模式下MapGIS全新开发模式深度/README.md)
