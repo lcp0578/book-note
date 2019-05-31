@@ -79,9 +79,6 @@
 ### cryptography
 - [图解密码技术(第三版)](books/cryptography/图解密码技术/README.md)
 - 加密解密实战
-### data-structure
-- [数据结构与算法分析--C语言描述](books/data-structure/数据结构与算法分析/README.md)
-- [大话数据结构](books/data-structure/大话数据结构/README.md)
 ### operating-system
 - [深入理解计算机系统（原书第3版）](books/operating-system/深入理解计算机系统/README.md)
 - [编码 隐匿在计算机软硬件背后的语言](books/operating-system/编码_隐匿在计算机软硬件背后的语言/README.md)
@@ -93,10 +90,15 @@
 - [现代编译原理：C语言描述（修订版）](books/compiler-theory/现代编译原理：C语言描述（修订版）/README.md)
 - [计算机程序的构造和解释](books/compiler-theory/计算机程序的构造和解释/README.md)
 ### algorithm
+- [漫画算法--小灰的算法之旅](books/algorithm/漫画算法/README.md)
 - [算法基础：打开算法之门](books/algorithm/算法基础：打开算法之门/README.md)
 - [算法导论](books/algorithm/算法导论/README.md)
 - [算法(第四版)](books/algorithm/算法_第四版/README.md)
 - [算法(英文版 第四版)](books/algorithm/算法_英文版_第四版/README.md)
+- [数据结构与算法分析--C语言描述](books/algorithm/数据结构与算法分析C语言描述/README.md)
+- [数据结构与算法分析--Java语言描述](books/algorithm/数据结构与算法分析Java语言描述/README.md)
+- [数据结构、算法与应用--C++语言描述](books/algorithm/数据结构算法与应用/README.md)
+- [大话数据结构](books/algorithm/大话数据结构/README.md)
 ### Go
 - [Go语言学习笔记](books/Go/Go语言学习笔记/README.md)
 - [Go语言实战](books/Go/Go语言实战/README.md) 
