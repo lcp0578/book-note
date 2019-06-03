@@ -1,4 +1,4 @@
-## 第一章 导言
+## 第1章 导言
 - ANSI: American National Standards Institute
 - ISO: International Standards Organization
 - 基本数据类型

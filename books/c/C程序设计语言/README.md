@@ -1,2 +1,5 @@
 ## C程序设计语言(第2版 新版)
-- [第一章 导言](chapter1.md)
+- [第1章 导言](chapter1.md)
+- [第2章 类型、运算符与表达式](chapter2.md)
+- [第3章 控制流](chapter3.md)
+- [第4章 函数与程序结构](chapter4.md)
