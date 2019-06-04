@@ -89,6 +89,7 @@
 - [编译原理（第2版）](books/compiler-theory/编译原理（第2版）/README.md)
 - [现代编译原理：C语言描述（修订版）](books/compiler-theory/现代编译原理：C语言描述（修订版）/README.md)
 - [计算机程序的构造和解释](books/compiler-theory/计算机程序的构造和解释/README.md)
+- [汇编程序设计与计算机体系结构 --软件工程师教程](books/compiler-theory/汇编程序设计与计算机体系结构/README.md)
 ### algorithm
 - [漫画算法--小灰的算法之旅](books/algorithm/漫画算法/README.md)
 - [算法基础：打开算法之门](books/algorithm/算法基础：打开算法之门/README.md)
