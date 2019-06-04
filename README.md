@@ -32,6 +32,9 @@
 - [JavaScript编程实战](books/javascript/JavaScript编程实战/README.md)
 - [JavaScript高级程序设计(第三版)](books/javascript/JavaScript高级程序设计(第三版)/README.md)
 - [JavaScript设计模式](books/javascript/JavaScript设计模式/README.md)
+- [你不知道的JavaScript 上卷](books/javascript/你不知道的JavaScript上/README.md)
+- [你不知道的JavaScript 中卷](books/javascript/你不知道的JavaScript中/README.md)
+- [你不知道的JavaScript 下卷](books/javascript/你不知道的JavaScript下/README.md)
 ### MySQL
 - [MySQL5权威指南](books/MySQL/MySQL5权威指南/README.md)
 - [高性能MySQL](books/MySQL/高性能MySQL/README.md)
