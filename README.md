@@ -259,7 +259,7 @@
 ## Windows
 - [Windows核心编程（第5版）](books/Windows/Windows核心编程/README.md)
 ## PostgreSQL
-- [PostgreSQL修炼之道](books/PostgreSQL修炼之道/README.md)
+- [PostgreSQL修炼之道](books/PostgreSQL/PostgreSQL修炼之道/README.md)
 ### 极客时间课程学习
 - [左耳听风](books/geektime/左耳听风/README.md)
 - [MySQL实战45讲](books/geektime/MySQL实战45讲/README.md)
