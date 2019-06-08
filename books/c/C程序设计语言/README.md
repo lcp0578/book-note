@@ -3,3 +3,4 @@
 - [第2章 类型、运算符与表达式](chapter2.md)
 - [第3章 控制流](chapter3.md)
 - [第4章 函数与程序结构](chapter4.md)
+- [第5章 指针与数组](chapter5.md)
