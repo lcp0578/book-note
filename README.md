@@ -82,6 +82,9 @@
 ### cryptography
 - [图解密码技术(第三版)](books/cryptography/图解密码技术/README.md)
 - 加密解密实战
+### Computer Organization 计算机组成原理
+- [Computer Organization and Design (Fouth Edition)](books/ComputerOrganization/ComputerOrganizationAndDesign/README.md)
+- [Computer Architecture - A Quantitative Approach (Fifth Edition)](books/ComputerOrganization/ComputerArchitecture/README.md)
 ### operating-system
 - [深入理解计算机系统（原书第3版）](books/operating-system/深入理解计算机系统/README.md)
 - [编码 隐匿在计算机软硬件背后的语言](books/operating-system/编码_隐匿在计算机软硬件背后的语言/README.md)
