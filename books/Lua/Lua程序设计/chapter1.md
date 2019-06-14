@@ -1,0 +1,31 @@
+## 1. Lua语言入门
+- 标识符
+	- 定义：任意字母、数字和下划线组成的字符串（不能以数字开头）
+	- “下划线+大写字母”组成的标识符通常被Lua语言用作特殊用户，应避免将其用作其他用途。
+	- 建议“下划线+小写字母”用作哑变量(Dummy variable)
+- reserved word
+	- and
+	- break
+	- do
+	- else
+	- elseif
+	- end
+	- false
+	- goto
+	- for
+	- function
+	- if
+	- in
+	- local
+	- nil
+	- not
+	- or
+	- repeat
+	- return
+	- then
+	- true
+	- until
+	- while
+- Lua语言是对大小写敏感的。
+- 注释
+	- 单行注释：两个连续的连字符（--）
