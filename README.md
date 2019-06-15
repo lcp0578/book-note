@@ -83,6 +83,7 @@
 - [图解密码技术(第三版)](books/cryptography/图解密码技术/README.md)
 - 加密解密实战
 ### Computer Organization 计算机组成原理
+- [计算机组成原理与设计 硬件/软件接口](books/ComputerOrganization/计算机组成原理与设计/README.md)
 - [Computer Organization and Design (Fouth Edition)](books/ComputerOrganization/ComputerOrganizationAndDesign/README.md)
 - [Computer Architecture - A Quantitative Approach (Fifth Edition)](books/ComputerOrganization/ComputerArchitecture/README.md)
 ### operating-system
