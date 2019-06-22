@@ -10,6 +10,8 @@
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
 - [程序员数学3-线性代数](books/mathematics/程序员的数学-3-线性代数/README.md)
 - [思考的乐趣 Matrix67数学笔记](books/mathematics/思考的乐趣/README.md)
+- [具体数学 计算机科学基础（第2版）](books/mathematics/具体数学/README.md)
+- [深度学习的数学](books/mathematics/深度学习的数学/README.md)
 ### PHP
 - [深入PHP面向对象、模式与实践(第3版)](books/php/深入PHP面向对象、模式与实践(第3版)/README.md)
 - [PHP编程实战](books/php/PHP编程实战/README.md)
@@ -42,11 +44,13 @@
 - [MySQL管理之道](books/MySQL/MySQL管理之道/REDME.md)
 - [MySQL 8 Cookbook（中文版）](books/MySQL/MySQL8Cookbook/README.md)
 - [MySQL 8 Cookbook English](books/MySQL/MySQL8Cookbook-English/README.md)
-### redis
-- [Redis入门指南](books/redis/Redis入门指南/README.md)
-- [Redis实战](books/redis/Redis实战/README.md)
-- [Redis3.0中文版](books/redis/Redis3.0中文版/README.md)
-- [Redis源码日志](books/redis/Redis源码日志/README.md)
+- [MySQL运维内参](books/MySQL/MySQL运维内参/README.md)
+### Redis
+- [Redis入门指南](books/Redis/Redis入门指南/README.md)
+- [Redis实战](books/Redis/Redis实战/README.md)
+- [Redis3.0中文版](books/Redis/Redis3.0中文版/README.md)
+- [Redis源码日志](books/Redis/Redis源码日志/README.md)
+- [Redis深度历险 核心原理与深度实践](books/Redis/Redis深度历险/README.md)
 ### Mongodb
 - [Mongodb教程](books/Mongodb/Mongodb教程.md)
 ### Nginx
@@ -65,17 +69,18 @@
 - [AWK程序设计语言](books/AWK/AWK程序设计语言)
 - [The AWK Programming Language](books/AWK/The_AWK_Programming_Language)
 ### network 
-- 图解HTTP
+- [计算机网络(第五版)](books/network/计算机网络/README.md)
+- [计算机网络 自顶向下方法](books/network/计算机网络自顶向下方法/README.md)
+- [图解HTTP](books/network/图解HTTP/README.md)
 - [图解TCP/IP](books/network/图解TCP-IP/README.md)
-- HTTP权威指南
-- 计算机网络(第五版)
+- [HTTP权威指南](books/network/HTTP权威指南/README.md)
 - [TCP/IP网络编程](books/network/TCP-IP网络编程/README.md)
-- [UNIX环境高级编程(第3版)](books/network/UNIX环境高级编程(第3版)/README.md)
-- UNIX网络编程(卷1：嵌套字联网API)
-- UNIX网络编程(卷2：进程间通信)
-- TCP/IP详解(卷1：协议)
-- TCP/IP详解(卷2：实现)
-- TCP/IP详解(卷3：TCP事务协议、HTTP、NNTP和UNIX域协议)
+- [UNIX环境高级编程(第3版)](books/network/UNIX环境高级编程/README.md)
+- [UNIX网络编程(卷1：嵌套字联网API)](books/network/UNIX网络编程1/README.md)
+- [UNIX网络编程(卷2：进程间通信)](books/network/UNIX网络编程1/README.md)
+- [TCP/IP详解(卷1：协议)](books/network/TCP-IP详解1/README.md)
+- [TCP/IP详解(卷2：实现)](books/network/TCP-IP详解2/README.md)
+- [TCP/IP详解(卷3：TCP事务协议、HTTP、NNTP和UNIX域协议)](books/network/TCP-IP详解3/README.md)
 - [Wireshark就是这么简单](books/network/Wireshark就是这么简单/README.md)
 - [Wireshark网络分析的艺术](books/network/Wireshark网络分析的艺术/README.md)
 - [深入浅出HTTPS从原理到实战](books/network/深入浅出HTTPS从原理到实战/README.md)
@@ -97,12 +102,14 @@
 - [现代编译原理：C语言描述（修订版）](books/compiler-theory/现代编译原理：C语言描述（修订版）/README.md)
 - [计算机程序的构造和解释](books/compiler-theory/计算机程序的构造和解释/README.md)
 - [汇编程序设计与计算机体系结构 --软件工程师教程](books/compiler-theory/汇编程序设计与计算机体系结构/README.md)
+- [可变目标C编译器 设计与实现](books/compiler-theory/可变目标C编译器设计与实现/README.md)
 ### algorithm
 - [漫画算法--小灰的算法之旅](books/algorithm/漫画算法/README.md)
 - [算法基础：打开算法之门](books/algorithm/算法基础：打开算法之门/README.md)
 - [算法导论](books/algorithm/算法导论/README.md)
 - [算法(第四版)](books/algorithm/算法_第四版/README.md)
 - [算法(英文版 第四版)](books/algorithm/算法_英文版_第四版/README.md)
+- [算法心得 高效算法的奥秘](books/algorithm/算法心得/README.md)
 - [数据结构与算法分析--C语言描述](books/algorithm/数据结构与算法分析C语言描述/README.md)
 - [数据结构与算法分析--Java语言描述](books/algorithm/数据结构与算法分析Java语言描述/README.md)
 - [数据结构、算法与应用--C++语言描述](books/algorithm/数据结构算法与应用/README.md)
@@ -154,6 +161,7 @@
 - [Machine Learning Yearning](books/machine-learning/MachineLearningYearning/README.md)
 - [深入理解机器学习 从原理到算法](books/machine-learning/深入理解机器学习/README.md)
 - [Deep Learning 深度学习](books/machine-learning/深度学习/README.md)
+- [动手学深度学习](books/machine-learning/动手学深度学习/README.md)
 ### Code
 - [编程珠玑 第2版 修订版](books/Code/编程珠玑/README.md)
 - [编程珠玑 续 修订版](books/Code/编程珠玑/README.md)

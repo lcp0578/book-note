@@ -5,3 +5,4 @@
 - [MySQL管理之道](MySQL管理之道/REDME.md)
 - [MySQL 8 Cookbook](MySQL8Cookbook/README.md)
 - [MySQL 8 Cookbook English](MySQL8Cookbook-English/README.md)
+- [MySQL运维内参](MySQL运维内参/README.md)
