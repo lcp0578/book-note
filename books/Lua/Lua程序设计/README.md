@@ -5,3 +5,4 @@
 	- [3. 数值](chapter3.md)
 	- [4. 字符串](chapter4.md)
 	- [5. 表](chapter5.md)
+	- [6. 函数](chapter6.md)
