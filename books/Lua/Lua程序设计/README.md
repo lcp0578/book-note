@@ -4,3 +4,4 @@
 	- [2. 小插曲：八皇后问题](chapter2.md)
 	- [3. 数值](chapter3.md)
 	- [4. 字符串](chapter4.md)
+	- [5. 表](chapter5.md)
