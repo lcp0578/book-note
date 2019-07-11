@@ -4,6 +4,7 @@
 - [Go语言实战](Go语言实战/README.md) 
 - [Go语言程序设计](Go语言程序设计/README.md)
 - [GoWeb编程](GoWeb编程/README.md)
+- [Go语言并发之道](Go语言并发之道/README.md)
 - [TheWayToGo](TheWayToGo/README.md)
 - [The Go Programming Language](TheGoProgrammingLanguage/README.md)
 - [Go in action](GoInAction/README.md)
@@ -16,4 +17,4 @@
 - [Kubernetes权威指南](Kubernetes权威指南/README.md)
 - [区块链技术指南](区块链技术指南/README.md)
 - [每天5分钟玩转Kubernetes](每天5分钟玩转Kubernetes/README.md)
-- [Go语言并发之道](Go语言并发之道/README.md)
+- [深入浅出Promethens](深入浅出Promethens/README.md)

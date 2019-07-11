@@ -120,6 +120,7 @@
 - [Go语言实战](books/Go/Go语言实战/README.md) 
 - [Go语言程序设计](books/Go/Go语言程序设计/README.md)
 - [GoWeb编程](books/Go/GoWeb编程/README.md)
+- [Go语言并发之道](books/Go/Go语言并发之道/README.md)
 - [TheWayToGo](books/Go/TheWayToGo/README.md)
 - [The Go Programming Language](books/Go/TheGoProgrammingLanguage/README.md)
 - [Go in action](books/Go/GoInAction/README.md)
@@ -132,7 +133,7 @@
 - [Kubernetes权威指南](books/Go/Kubernetes权威指南/README.md)
 - [区块链技术指南](books/Go/区块链技术指南/README.md)
 - [每天5分钟玩转Kubernetes](books/Go/每天5分钟玩转Kubernetes/README.md)
-- [Go语言并发之道](books/Go/Go语言并发之道/README.md)
+- [深入浅出Promethens](books/Go深入浅出Promethens/README.md)
 ### C
 - [C程序设计语言（第2版）](books/c/C程序设计语言/README.md)
 - [C语言程序设计 现代方法(第2版)](books/c/C语言程序设计现代方法/README.md)
