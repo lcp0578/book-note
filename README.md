@@ -311,3 +311,4 @@
 - [三体 黑暗森林](books/other/三体黑暗森林/README.md)
 - [三体 死神永生](books/other/三体死神永生/README.md)
 - [时间管理](books/other/时间管理/README.md)
+- [活着](books/other/活着/README.md)
