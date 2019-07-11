@@ -209,6 +209,8 @@
 ### Lua
 - [Lua程序设计(第4版)](books/Lua/Lua程序设计/README.md)
 - [Programming In Lua Fourth edition](books/Lua/ProgrammingInLua/README.md)
+- [Lua设计与实现](books/Lua/Lua设计与实现/README.md)
+- [自己动手实现Lua 编译器和标准库](books/Lua/自己动手实现Lua/README.md)
 ### Elasticsearch
 - [深入理解Elasticsearch（原书第2版）](books/ElasticSearch/深入理解Elasticsearch/README.md)
 - [Elasticsearch技术解析与实战](books/ElasticSearch/Elasticsearch技术解析与实战/README.md)
