@@ -239,6 +239,9 @@
 - [嵌入式系统--硬件、软件及软硬协同](books/embedded/嵌入式系统/README.md)
 - [嵌入式系统开发与应用实例](books/embedded/嵌入式系统开发与应用实例/README.md)
 - [ARM嵌入式系统编程与优化](books/embedded/ARM嵌入式系统编程与优化/README.md)
+### PLC
+- [西门子 S7-200 SMART PLC 编程技术](books/PLC/西门子S7-200SMARTPLC编程技术/README.md)
+- [图解西门子S7-200 SMART PLC](books/PLC/图解西门子S7-200SMARTPLC/README.md)
 ### Hadoop
 - [Hadoop权威指南](books/Hadoop/Hadoop权威指南/README.md)
 - [Spark大数据分析](books/Hadoop/Spark大数据分析/README.md)
