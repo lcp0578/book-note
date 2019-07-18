@@ -18,3 +18,4 @@
 - [区块链技术指南](区块链技术指南/README.md)
 - [每天5分钟玩转Kubernetes](每天5分钟玩转Kubernetes/README.md)
 - [深入浅出Promethens](深入浅出Promethens/README.md)
+- [Go语言高级编程](Go语言高级编程/README.md)

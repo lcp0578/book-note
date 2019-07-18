@@ -134,6 +134,7 @@
 - [区块链技术指南](books/Go/区块链技术指南/README.md)
 - [每天5分钟玩转Kubernetes](books/Go/每天5分钟玩转Kubernetes/README.md)
 - [深入浅出Promethens](books/Go深入浅出Promethens/README.md)
+- [Go语言高级编程](books/Go语言高级编程/README.md)
 ### C
 - [C程序设计语言（第2版）](books/c/C程序设计语言/README.md)
 - [C语言程序设计 现代方法(第2版)](books/c/C语言程序设计现代方法/README.md)
