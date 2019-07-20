@@ -322,3 +322,6 @@
 - [活着](books/other/活着/README.md)
 - [名人传](books/other/名人传/README.md)
 - [从你的全世界路过](books/other/从你的全世界路过/README.md)
+- [曾国藩家书](books/other/曾国藩家书/README.md)
+- [500强企业的101个经典管理定律](books/other/500强企业的101个经典管理定律/README.md)
+- [执行力如何带出嗷嗷叫的团队](books/other/执行力如何带出嗷嗷叫的团队/README.md)
