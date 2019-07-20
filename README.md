@@ -165,6 +165,8 @@
 - [深入理解机器学习 从原理到算法](books/machine-learning/深入理解机器学习/README.md)
 - [Deep Learning 深度学习](books/machine-learning/深度学习/README.md)
 - [动手学深度学习](books/machine-learning/动手学深度学习/README.md)
+### Big Data 大数据
+- [大数据 互联网大规模数据挖掘与分布式处理](books/BigData/大数据互联网大规模数据挖掘与分布式处理/README.md)
 ### Code
 - [编程珠玑 第2版 修订版](books/Code/编程珠玑/README.md)
 - [编程珠玑 续 修订版](books/Code/编程珠玑/README.md)
