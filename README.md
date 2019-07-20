@@ -318,3 +318,5 @@
 - [三体 死神永生](books/other/三体死神永生/README.md)
 - [时间管理](books/other/时间管理/README.md)
 - [活着](books/other/活着/README.md)
+- [名人传](books/other/名人传/README.md)
+- [从你的全世界路过](books/other/从你的全世界路过/README.md)
