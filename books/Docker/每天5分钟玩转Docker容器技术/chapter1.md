@@ -1,6 +1,6 @@
 ## 第1章 鸟瞰容器生态系统
 - 容器生态系统
-	- 容器核心技术
+	1. 容器核心技术
 		- 容器规范（Open Container Initiative: OCI组织）
 			- runtime spec
 			- image format spec
@@ -26,8 +26,8 @@
 			- CoreOS
 			- atomic
 			- ubuntu core
-	- 容器平台技术
-		- 容器编排引擎
+	2. 容器平台技术
+		- 容器编排引擎(所谓编排orchestration，通常包括容器管理、调度、集群定义和服务发现等)
 			- docker swarm
 			- kubernetes
 			- mesos + marathon
@@ -38,7 +38,7 @@
 			- Deis
 			- Flynn
 			- Dokku
-	- 容器支持技术
+	3. 容器支持技术
 		- 容器网络(管理容器与容器、容器与其他实体之间的连通性和隔离性)
 			- docker network
 			- flannel
