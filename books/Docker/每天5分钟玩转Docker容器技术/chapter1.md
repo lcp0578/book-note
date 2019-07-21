@@ -61,3 +61,16 @@
 			- logspout
 		- 安全性
 			- OpenSCAP
+- [在CentOS上安装Docker CE](https://github.com/lcp0578/cheat-sheets/blob/master/src/Docker/install_centos.md)
+- 运行第一个容器
+
+		# docker run -d -p 8080:80 httpd
+        // 将容器的80端口映射到host的8080端口 
+- 镜像下载加速
+
+			# curl -sSL https://get.daocloud.io/daotools/set_mirror.sh | sh -s http://xxxxxxx.m.daocloud.io
+            docker version >= 1.12
+            {"registry-mirrors": ["http://xxxxxxx.m.daocloud.io"]}
+            Success.
+            You need to restart docker to take effect: sudo systemctl restart docker 
+            # systemctl restart docker.service
