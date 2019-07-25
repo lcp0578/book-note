@@ -62,6 +62,7 @@
 - Linux 私房菜 基础学习篇
 - Linux 私房菜 服务器架设篇
 - [Linux命令行与shell脚本编程大全(第2版)](books/linux/Linux命令行与shell脚本编程大全/README.md)
+- [Linux Shell脚本攻略](books/linux/LinuxShell脚本攻略/README.md)
 - [Linux工具快速教程](books/linux/Linux工具快速教程/README.md)
 - [Linux程序设计(第4版)](books/linux/Linux程序设计/README.md)
 - [Linux 内核设计与实现](books/linux/Linux内核设计与实现/README.md)
@@ -93,6 +94,8 @@
 - [Computer Organization and Design (Fouth Edition)](books/ComputerOrganization/ComputerOrganizationAndDesign/README.md)
 - [Computer Architecture - A Quantitative Approach (Fifth Edition)](books/ComputerOrganization/ComputerArchitecture/README.md)
 ### operating-system
+- [操作系统概念](books/operating-system/操作系统概念/README.md)
+- [现代操作系统](books/operating-system/现代操作系统/README.md)
 - [深入理解计算机系统（原书第3版）](books/operating-system/深入理解计算机系统/README.md)
 - [编码 隐匿在计算机软硬件背后的语言](books/operating-system/编码_隐匿在计算机软硬件背后的语言/README.md)
 ### database
@@ -198,6 +201,7 @@
 - [Web安全攻防](books/WebSecurity/Web安全攻防/README.md)
 - [网站安全攻防秘籍](books/WebSecurity/网站安全攻防秘籍/README.md)
 - [Web安全测试](books/WebSecurity/Web安全测试/README.md)
+- [安全简史 从隐私保护到量子密码](books/WebSecurity/安全简史/README.md)
 ### Node js
 - [深入浅出NodeJS](books/nodejs/深入浅出NodeJS/README.md)
 - [Node.js项目实践 构建可扩展的Web应用](books/nodejs/Node.js项目实践/README.md)
