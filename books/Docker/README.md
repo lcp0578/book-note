@@ -6,3 +6,4 @@
 - [Kubernetes权威指南](Kubernetes权威指南/README.md)
 - [每天5分钟玩转Kubernetes](每天5分钟玩转Kubernetes/README.md)
 - [深入浅出Promethens](深入浅出Promethens/README.md)
+- [容器云运维实战 Docker与Kubernetes集群](容器云运维实战/README.md)

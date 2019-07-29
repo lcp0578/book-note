@@ -133,10 +133,7 @@
 - [The Go Language Guide Web Application Secure Coding Practices](books/Go/TheGoLanguageGuideWebApplicationSecureCodingPractices/README.md)
 - [Go语言编程入门与实战技巧](books/Go/Go语言编程入门与实战技巧/README.md)
 - [机器学习Go语言实现](books/Go/机器学习Go语言实现/README.md)
-- [Kubernetes权威指南](books/Go/Kubernetes权威指南/README.md)
 - [区块链技术指南](books/Go/区块链技术指南/README.md)
-- [每天5分钟玩转Kubernetes](books/Go/每天5分钟玩转Kubernetes/README.md)
-- [深入浅出Promethens](books/Go深入浅出Promethens/README.md)
 - [Go语言高级编程](books/Go语言高级编程/README.md)
 ### C
 - [C程序设计语言（第2版）](books/c/C程序设计语言/README.md)
@@ -260,6 +257,10 @@
 - [Docker实践](books/Docker/Docker实践/README.md)
 - [Docker技术入门与实践](books/Docker/Docker技术入门与实践/README.md)
 - [每天5分钟玩转Docker容器技术](books/Docker/每天5分钟玩转Docker容器技术/README.md)
+- [Kubernetes权威指南](books/Docker/Kubernetes权威指南/README.md)
+- [每天5分钟玩转Kubernetes](books/Docker/每天5分钟玩转Kubernetes/README.md)
+- [深入浅出Promethens](books/Docker/深入浅出Promethens/README.md)
+- [容器云运维实战 Docker与Kubernetes集群](books/Docker/容器云运维实战/README.md)
 ### Oracle数据库
 - [深入理解 Oracle 12c 数据库管理(第二版)](books/Oracle/深入理解Oracle12c数据库管理/README.md)
 - [Oracle编程艺术 深入理解数据库体系结构（第3版）](books/Oracle/Oracle编程艺术深入理解数据库体系结构/README.md)
