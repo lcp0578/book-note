@@ -14,8 +14,5 @@
 - [The Go Language Guide Web Application Secure Coding Practices](TheGoLanguageGuideWebApplicationSecureCodingPractices/README.md)
 - [Go语言编程入门与实战技巧](Go语言编程入门与实战技巧/README.md)
 - [机器学习Go语言实现](机器学习Go语言实现/README.md)
-- [Kubernetes权威指南](Kubernetes权威指南/README.md)
 - [区块链技术指南](区块链技术指南/README.md)
-- [每天5分钟玩转Kubernetes](每天5分钟玩转Kubernetes/README.md)
-- [深入浅出Promethens](深入浅出Promethens/README.md)
 - [Go语言高级编程](Go语言高级编程/README.md)
