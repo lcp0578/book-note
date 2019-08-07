@@ -224,6 +224,8 @@
 ### software
 - [软件工程导论](books/software/软件工程导论/README.md)
 - [软件测试原理与实践](books/software/软件测试原理与实践/README.md)
+- [全程软件测试](books/software/全程软件测试/README.md)
+- [软件测试技术指南](books/software/软件测试技术指南/README.md)
 ### Java
 - [Clean Code](books/Java/CleanCode/README.md)
 - [Java技术手册](books/Java/Java技术手册/README.md)
