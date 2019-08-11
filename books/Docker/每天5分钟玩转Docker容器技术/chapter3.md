@@ -23,5 +23,18 @@
 		- 运行容器
 		- 修改容器
 		- 将容器保存为新的镜像
-	- Dockerfile
-		- 
+	- Dockerfile 常用指令
+		- `FROM` 指定 base镜像
+		- `MAINTAINER` 设置镜像维护者
+		- `COPY` 将文件从build context复制到镜像
+		- `ADD` 与`COPY` 类似，不同的是，如果src是归档文件，文件会被自动解压到dest。
+		- `ENV` 设置环境变量，环境变量可被后面的指令使用。
+		- `EXPOSE` 指定容器中的进程会监听某个端口，Docker可以将该端口暴露出来。
+		- `VOLUME` 将文件或目录声明为volume。
+		- `WORKDIR` 为后面的RUN、CMD、ENTRYPOINT、ADD或COPY指令设置镜像中当前工作目录。
+		- `RUN` 在容器中运行指定的命令。执行命令并创建新的镜像层，RUN经常用于安装软件包。
+		- `CMD` 设置容器启动后默认执行的命令及参数。Dockerfile中可以有多个CMD命令，但只有最后一个生效。CMD可以被docker run之后的参数替换。
+		- `ENTRYPOINT` 配置容器启动时运行的命令。Dockerfile中可以有多个ENTRYPOINT指令，但只有最后一个生效。
+- 分发镜像
+	- 保存和分发镜像的最直接的方法就是使用Docker Hub。
+	- 搭建本地Registry
