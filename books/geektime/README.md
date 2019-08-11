@@ -6,3 +6,4 @@
 - [数据结构与算法之美](数据结构与算法之美/README.md)
 - [硅谷产品实战36讲](硅谷产品实战36讲/README.md)
 - [OpenResty从入门到实战](OpenResty从入门到实战/README.md)
+- [朱赟的技术管理课](朱赟的技术管理课/README.md)

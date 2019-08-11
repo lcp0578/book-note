@@ -300,6 +300,7 @@
 - [数据结构与算法之美](books/geektime/数据结构与算法之美/README.md)
 - [硅谷产品实战36讲](books/geektime/硅谷产品实战36讲/README.md)
 - [OpenResty从入门到实战](books/geektime/OpenResty从入门到实战/README.md)
+- [朱赟的技术管理课](books/geektime/朱赟的技术管理课/README.md)
 ### 吴军作品集
 - [态度](books/wujun/态度/README.md)
 - [见识](books/wujun/见识/README.md)
