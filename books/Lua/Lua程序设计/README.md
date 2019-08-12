@@ -7,3 +7,4 @@
 	- [5. 表](chapter5.md)
 	- [6. 函数](chapter6.md)
 	- [7. 输入输出](chapter7.md)
+	- [8. 补充知识](chapter8.md)
