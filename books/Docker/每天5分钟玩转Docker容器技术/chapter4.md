@@ -9,3 +9,43 @@
 	- exec则是在容器中打开新的终端，并且可以启动新的进程。执行exit后，退出终端，容器继续运行。
 	- 如果想直接在终端中查看启动命令的输出，用attach，其他情况使用exec。
 	- 如果只为了查看启动命令的输出，可以使用`docker logs -f [CONTAINTER ID]`命令。
+- 容器的操作
+	- `docker stop [NAMES]` 命令的本质上市向该进程发送一个SIGTERM信号。（容器在docker host中实际是一个进程）
+	- `docker kill [NAMES]` 快速停止容器，其作用是向容器进程发送SIGKILL信号。
+	- 对于处于停止状态的容器，可以使用`docker start [NAMES]`重新启动，她会保留容器第一次启动时的所有参数。
+	- `docker restart` 可以重启容器。
+	- `docker run -d --restart=always httpd` 
+		- `--restart=always` 意味着无论容器何种原因退出（包括正常退出），都立即重启。
+		- 该参数的形式还可以是`--restart=on-failure:3`,意思是如果启动进程退出代码非0，则重启容器，最多重启3次。
+	- `docker pause` 暂停容器，处于暂停状态的容器不会占用CPU资源，直到通过`docker unpause` 恢复运行。
+	- `docker rm [CONTAINER ID] [CONTAINER ID] ...` 删除容器，解放host的文件系统资源。
+		- 批量删除所有已退出的容器，可以使用`docker rm -v $(docker ps -aq -f status=exited)`
+	- `docker rmi` 删除镜像。
+	- `docker run` 命令实际上是`docker create` 和 `docker start`的组合。
+- 资源限制
+	- 内存限额
+		- `docker run -m 200M --memory-swap=300M ubuntu` 其含义是允许容器最多使用200MB的内存和100MB的swap。`-m`是`--memory`的简写。
+		- 如果只指定 `-m` 而不指定 `--memory-swap`,那么`--memoty-swap`默认为`-m`的两倍。
+	- CPU限额
+		- Docker可以通过 `-c` 或 `--cpu-shares` 设置容器使用CPU的权重。默认值1024。
+		- cpu share并不是CPU资源的绝对数量，而是一个相对的权重值。某个容器最终能分配的CPU资源取决于它的cpu share占所有容器 cpu share总和的比例。 
+- Block IO带宽限额
+	- Block IO指的是磁盘的读写， docker可通过设置权重、限制bps和iops的方式控制容器读写磁盘的带宽。
+	- Block IO权重
+		- `--blkio-weight`与 `--cpu-shares`类似，设置的是相对权重值，默认500。
+	- 限制bps和iops
+		- bps 是byte per second，每秒读写的数据量。
+		- iops 是 io per second， 每秒IO的次数。
+			- `--device-read-bps` 限制读某个设备的bps。
+			- `--device-write-bps` 限制写某个设备的bps。
+			- `--device-read-iops` 限制读某个设备的iops。
+			- `--device-write-iops` 限制写某个设备的iops。
+- 实现容器的底层技术
+	- cgroup实现资源限制。cgroup全称Control Group。Linux操作系统通过cgroup可以设置进程使用CPU、内存和IO资源限额。
+	- namespace实现资源隔离，Linux使用了6种namespace，分别对应6种资源：
+		- Mount namespace 让容器看上去拥有整个文件系统。
+		- UTS namespace 让容器有自己的hostname。默认情况下，容器的hostname是它的短ID，可以通过 -h 或 --hostname参数设置。
+		- IPC namespace 让容器拥有自己的共享内存和信号量（semaphore）来实现进程间通信。
+		- PID namespace 让容器拥有自己独立的一套PID。
+		- Network namespace 让容器拥有自己独立的网卡、IP、路由等资源。
+		- User namespace 让容器管理自己的用户。
