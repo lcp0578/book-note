@@ -17,6 +17,7 @@
 - [垃圾回收算法手册-自动内存管理的艺术](垃圾回收算法手册/README.md)
 - [设计原本](设计原本/README.md)
 - [The Design of Design](设计原本_英文版/README.md)
+- [人件](人件/README.md)
 - [设计模式--可复用面向对象软件的基础](设计模式/README.md)
 - [图解设计模式](图解设计模式/README.md)
 - [程序员必读之软件架构](程序员必读之软件架构/README.md)
