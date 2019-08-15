@@ -1,1 +1,13 @@
 ## 第5章 Docker 网络
+- none网络
+	- none网络就是什么都没有的网络。挂在这个网络下的容器除了lo，没有其他任何网卡。
+	- 容器创建时，可以通过`--network=none`指定使用none网络。
+	- 一些对安全性要求高并且不需要联网的应用可以使用none网络。
+- host网络
+	- 连接到host网络的容器共享Dcoker host的网络栈，容器的网络配置与host完全一样。
+	- 在容器中可以看到host的所有网卡，并且连hostname也是host的
+	- 如果容器对网络传输效率有较高要求，则可是选择host网络
+	- 弊端：需要考虑端口冲突问题，Docker host已经使用的端口就不能再用了。
+	- DOcker host的另外一个用途是让容器可以直接配置host网络，比如某些跨host的网络解决方案，其本身也是以容器方式运行的，这些方案需要对网络进行配置，比如管理iptables。
+- bridge 网络
+- user-defined网络
