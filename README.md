@@ -151,8 +151,8 @@
 - [C++编程思想](books/c++/C++编程思想/README.md)
 - [C++实践之路](books/c++/C++实践之路/README.md)
 ### C#相关
-- [C#入门经典](books/C%23/C#入门经典/README.md)
-- [C#高级编程](books/C%23/C#高级编程/README.md)
+- [C#入门经典](books/C-Sharp/C#入门经典/README.md)
+- [C#高级编程](books/C-Sharp/C#高级编程/README.md)
 ### Python
 - [Python基础教程(第二版 修订版)](books/Python/Python基础教程/README.md)
 - [Python编程:从入门到实战](books/Python/Python编程_从入门到实战/README.md)
