@@ -1,1 +1,32 @@
 ## 第三章 表达式
+- 25个保留关键字(keyword)
+	- break
+	- default
+	- func
+	- interface
+	- select
+	- case
+	- defer
+	- go
+	- map
+	- struct
+	- chan
+	- else
+	- goto
+	- package
+	- switch
+	- const
+	- fallthrough
+	- if
+	- rango
+	- type
+	- contine
+	- for
+	- import
+	- return
+	- var
+- 内存地址是内存中每个字节单元的唯一编号，而指针则是一个实体。指针会分配内存空间，相当于一个专门用来保存地址的整型变量。
+- 可通过 `unsafe.Pointer`将指针转换为 `uintptr` 后进行加减法运算，但可能会造成非法访问。
+- `fallthrough` 会继续执行下一`case`，但不再匹配条件表达式。`fallthrough` 必须放在`case`块结尾，可使用`break`语句阻止。
+- 使用 `goto` 前，须先定义标签。标签区分大小写，且未使用的标签会引发编译错误。
+- `break` 和 `continue` 可在多层嵌套中指定目标层级。
