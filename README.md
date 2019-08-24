@@ -298,6 +298,7 @@
 - [从Paxos到ZooKeeper](books/distributed/从Paxos到ZooKeeper/README.md)
 ## Windows
 - [Windows核心编程（第5版）](books/Windows/Windows核心编程/README.md)
+- [MFC Windows程序设计(第2版)](books/Windows/MFCWindows程序设计/README.md)
 ## PostgreSQL
 - [PostgreSQL修炼之道](books/PostgreSQL/PostgreSQL修炼之道/README.md)
 ### 极客时间课程学习
