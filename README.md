@@ -162,6 +162,7 @@
 ### micro-service
 - [微服务设计](books/micro-service/微服务设计/README.md)
 - [微服务架构与实践](books/micro-service/微服务架构与实践/README.md)
+- [深入理解Apache Dubbo与实践](books/micro-service/深入理解ApacheDubbo与实践/README.md)
 ### machine-learning
 - [机器学习](books/machine-learning/机器学习/README.md)
 - [图解机器学习](books/machine-learning/图解机器学习/README.md)
