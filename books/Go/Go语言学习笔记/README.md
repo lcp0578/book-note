@@ -7,3 +7,5 @@
 - [第四章 函数](chapter4.md)
 - [第五章 数据](chapter5.md)
 - [第六章 方法](chapter6.md)
+- [第七章 接口](chapter7.md)
+- [第八章 并发](chapter8.md)
