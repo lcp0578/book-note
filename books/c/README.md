@@ -8,3 +8,4 @@
 - [C陷阱与缺陷](C陷阱与缺陷_zh/README.md)
 - [C Traps and Pitfalls](C陷阱与缺陷_en/README.md)
 - [嵌入式C编程](嵌入式C编程/REAMDE.md)
+- [C语言程序设计 进阶教程](C语言程序设计进阶教程/README.md)
