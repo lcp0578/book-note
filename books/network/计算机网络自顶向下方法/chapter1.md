@@ -1,4 +1,4 @@
-## 计算机网络和因特网
+## 第一章 计算机网络和因特网
 - 端系统通过通信链路(communication link)和分组交换机(packet switch)连接到一起。
 - 端系统通过因特网服务提供商(Internet Service Provider, ISP)接入因特网。
 - IP协议定义了在路由器和端系统之间发送和接收的分组格式。
@@ -9,3 +9,19 @@
 - 物理媒体的例子包括双绞铜线、同轴电缆、多模光纤缆、陆地无线电频谱和卫星无线电频谱。
 - http://traceroute.org/#China
 - 当分组从一个节点（主机或路由器）沿着这条路径到后继节点（主机或路由器），该分组在沿途的每个节点经受了几种不同类型的时延。这些时延最为重要的是节点处理时延（nodal processing delay）、排队时延（queuing delay）、传输时延（transmission delay）和传播时延（propagation delay），这些时延总体累加起来是节点总时延（total nodal delay）。
+- 5层因特网协议栈
+	- 应用层
+	- 运输层
+	- 网络层
+	- 链路层
+	- 物理层
+- 7层ISO OSI参考模型
+	- 应用层
+	- 表示层
+	- 会话层
+	- 运输层
+	- 网络层
+	- 链路层
+	- 物理层
+- 在每一层，一个分组具有两种类型的字段：首部字段和有效载荷字段(payload field)
+- 分组嗅探器(packer sniffer)
