@@ -38,6 +38,7 @@
 - [你不知道的JavaScript 上卷](books/javascript/你不知道的JavaScript上/README.md)
 - [你不知道的JavaScript 中卷](books/javascript/你不知道的JavaScript中/README.md)
 - [你不知道的JavaScript 下卷](books/javascript/你不知道的JavaScript下/README.md)
+- [编写可维护的JavaScript](books/javascript/编写可维护的JavaScript/README.md)
 ### MySQL
 - [MySQL5权威指南](books/MySQL/MySQL5权威指南/README.md)
 - [高性能MySQL](books/MySQL/高性能MySQL/README.md)

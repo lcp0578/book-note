@@ -5,3 +5,4 @@
 - [你不知道的JavaScript 上卷](你不知道的JavaScript上/README.md)
 - [你不知道的JavaScript 中卷](你不知道的JavaScript中/README.md)
 - [你不知道的JavaScript 下卷](你不知道的JavaScript下/README.md)
+- [编写可维护的JavaScript](编写可维护的JavaScript/README.md)
