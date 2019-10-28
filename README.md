@@ -56,8 +56,8 @@
 ### Mongodb
 - [Mongodb教程](books/Mongodb/Mongodb教程.md)
 ### Nginx
-- 决战Nginx
-- 深入理解Nginx
+- [决战Nginx](books/nginx/决战Nginx/README.md)
+- [深入理解Nginx](books/nginx/深入理解Nginx/README.md)
 - [OpenResty最佳实践](books/nginx/OpenResty最佳实践/README.md)
 ### Linux
 - Linux 私房菜 基础学习篇
@@ -71,7 +71,7 @@
 ### AWK
 - [AWK程序设计语言](books/AWK/AWK程序设计语言)
 - [The AWK Programming Language](books/AWK/The_AWK_Programming_Language)
-### network 
+### network 计算机网络
 - [计算机网络(第五版)](books/network/计算机网络/README.md)
 - [计算机网络 自顶向下方法](books/network/计算机网络自顶向下方法/README.md)
 - [图解HTTP](books/network/图解HTTP/README.md)
@@ -84,7 +84,7 @@
 - [TCP/IP详解(卷1：协议)](books/network/TCP-IP详解1/README.md)
 - [TCP/IP详解(卷2：实现)](books/network/TCP-IP详解2/README.md)
 - [TCP/IP详解(卷3：TCP事务协议、HTTP、NNTP和UNIX域协议)](books/network/TCP-IP详解3/README.md)
-- [Wireshark就是这么简单](books/network/Wireshark就是这么简单/README.md)
+- [Wireshark网络分析就是这么简单](books/network/WWireshark网络分析就是这么简单/README.md)
 - [Wireshark网络分析的艺术](books/network/Wireshark网络分析的艺术/README.md)
 - [深入浅出HTTPS从原理到实战](books/network/深入浅出HTTPS从原理到实战/README.md)
 ### cryptography
