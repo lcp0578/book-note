@@ -252,6 +252,8 @@
 - [云计算模式下MapGIS全新开发模式深度](books/GIS/云计算模式下MapGIS全新开发模式深度/README.md)
 - [Web GIS从基础到开发实践(基于ArcGIS API for JavaScript)](books/GIS/WebGIS从基础到开发实践/README.md)
 - [Web GIS原理与应用开发](books/GIS/WebGIS原理与应用开发/README.md)
+- [ArcGIS地理信息系统教程](books/GIS/ArcGIS地理信息系统教程/README.md)
+- [ArcGIS软件与应用](books/GIS/ArcGIS软件与应用/README.md)
 ### 单片机
 - [51单片机](books/51MCU.md)
 ### 嵌入式
