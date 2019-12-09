@@ -111,6 +111,7 @@
 - [汇编程序设计与计算机体系结构 --软件工程师教程](books/compiler-theory/汇编程序设计与计算机体系结构/README.md)
 - [可变目标C编译器 设计与实现](books/compiler-theory/可变目标C编译器设计与实现/README.md)
 - [LLVM编译器实战教程](books/compiler-theory/LLVM编译器实战教程/README.md)
+- [自制编程语言](books/compiler-theory/自制编程语言/README.md)
 ### algorithm
 - [漫画算法--小灰的算法之旅](books/algorithm/漫画算法/README.md)
 - [算法基础：打开算法之门](books/algorithm/算法基础：打开算法之门/README.md)
