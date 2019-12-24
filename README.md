@@ -138,8 +138,11 @@
 - [The Go Language Guide Web Application Secure Coding Practices](books/Go/TheGoLanguageGuideWebApplicationSecureCodingPractices/README.md)
 - [Go语言编程入门与实战技巧](books/Go/Go语言编程入门与实战技巧/README.md)
 - [机器学习Go语言实现](books/Go/机器学习Go语言实现/README.md)
-- [区块链技术指南](books/Go/区块链技术指南/README.md)
 - [Go语言高级编程](books/Go语言高级编程/README.md)
+### 区块链
+- [区块链+ 智能社会进阶与场景应用](books/blockchain/区块链智能社会进阶与场景应用/README.md)
+- [区块链技术及应用](books/blockchain/区块链技术及应用/README.md)
+- [区块链技术指南](books/blockchain/区块链技术指南/README.md)
 ### C
 - [C程序设计语言（第2版）](books/c/C程序设计语言/README.md)
 - [C语言程序设计 现代方法(第2版)](books/c/C语言程序设计现代方法/README.md)
