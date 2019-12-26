@@ -272,7 +272,7 @@
 - [图解西门子S7-200 SMART PLC](books/PLC/图解西门子S7-200SMARTPLC/README.md)
 ### Hadoop
 - [Hadoop权威指南](books/Hadoop/Hadoop权威指南/README.md)
-- [Spark大数据分析](books/Hadoop/Spark大数据分析/README.md)
+- [Spark快速大数据分析](books/Hadoop/Spark快速大数据分析/README.md)
 - [Hive编程指南](books/Hadoop/Hive编程指南/README.md)
 ### Docker
 - [Docker开发实践](books/Docker/Docker开发实践/README.md)
