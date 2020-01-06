@@ -183,6 +183,8 @@
 ### Big Data 大数据
 - [大数据 互联网大规模数据挖掘与分布式处理](books/BigData/大数据互联网大规模数据挖掘与分布式处理/README.md)
 - [数据挖掘概念与技术](books/BigData/数据挖掘概念与技术/README.md)
+- [数据挖掘导论](books/BigData/数据挖掘导论/README.md)
+- [视觉计算基础](books/BigData/视觉计算基础/README.md)
 ### Code
 - [编程珠玑 第2版 修订版](books/Code/编程珠玑/README.md)
 - [编程珠玑 续 修订版](books/Code/编程珠玑/README.md)
