@@ -185,6 +185,7 @@
 - [数据挖掘概念与技术](books/BigData/数据挖掘概念与技术/README.md)
 - [数据挖掘导论](books/BigData/数据挖掘导论/README.md)
 - [视觉计算基础](books/BigData/视觉计算基础/README.md)
+- [面向程序员的数据挖掘指南](books/BigData/面向程序员的数据挖掘指南/README.md)
 ### Code
 - [编程珠玑 第2版 修订版](books/Code/编程珠玑/README.md)
 - [编程珠玑 续 修订版](books/Code/编程珠玑/README.md)
