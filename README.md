@@ -340,7 +340,7 @@
 - [Nginx核心知识100讲](books/geektime/Nginx核心知识100讲/README.md)
 - [OpenResty从入门到实战](books/geektime/OpenResty从入门到实战/README.md)
 - [Vue开发实战](books/geektime/Vue开发实战/README.md)
-- [性能测试实战30讲](books/geektime/性能测试实战30讲/REAMDE.md)
+- [性能测试实战30讲](books/geektime/性能测试实战30讲/README.md)
 ### 吴军作品集
 - [态度](books/wujun/态度/README.md)
 - [见识](books/wujun/见识/README.md)
