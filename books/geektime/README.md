@@ -22,3 +22,4 @@
 - [Nginx核心知识100讲](Nginx核心知识100讲/README.md)
 - [OpenResty从入门到实战](OpenResty从入门到实战/README.md)
 - [Vue开发实战](Vue开发实战/README.md)
+- [性能测试实战30讲](性能测试实战30讲/REAMDE.md)
