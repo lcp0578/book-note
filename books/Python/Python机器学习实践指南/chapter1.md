@@ -1,0 +1,16 @@
+## 第1章 Python机器学习的生态系统
+- 数据科学/机器学习的工作流程
+	- 获取
+		- github.com/psf/requests，被称为给人类使用的HTTP，为API的交互提供了一个整洁和简单的方式。
+	- 检查和探索
+		- Jupyter记事本，一个全面的、交互式的计算环境，对于数据探索是非常理想的选择。
+		- Pandas是一个卓越的数据分析工具，https://pandas.pydata.org/
+		- Matplotlib库，绘图库，https://matplotlib.org/
+		- seaborn 可视化库，http://seaborn.pydata.org/
+	- 清理和准备
+		- pandas的`Series.map()`、`Series.apply()`、`DataFrame.apply()`、`DataFrame.applymap()`、`DataFrame.groupby()`方法
+	- 建模
+		- statsmodels是用于探索数据、估计模型，并运行统计检验的Python包。
+		- scikit-learn覆盖的一些领域包括：分类、回归、聚类、降维、模型选择和预处理。为几十个算法提供了统一的API接口，他建立在Python科学栈的核心模块智商，也就是NumPy、SciPy、pandas和matplotlib。
+	- 评估
+	- 部署
