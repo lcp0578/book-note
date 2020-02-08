@@ -169,6 +169,7 @@
 - [Python编程快速上手 让繁琐工作自动化](books/Python/Python编程快速上手/README.md)
 - [Python机器学习 预测分析核心算法](books/Python/Python机器学习/README.md)
 - [Python机器学习实践指南](books/Python/Python机器学习实践指南/README.md)
+- [Python for Data Analysis, 2nd Edition](books/Python/PythonForDataAnalysis/README.md)
 ### TensorFlow
 - TensorFlow 技术解析与实战
 ### micro-service
@@ -188,6 +189,7 @@
 - [数据挖掘导论](books/BigData/数据挖掘导论/README.md)
 - [视觉计算基础](books/BigData/视觉计算基础/README.md)
 - [面向程序员的数据挖掘指南](books/BigData/面向程序员的数据挖掘指南/README.md)
+- [A Programmer's Guide to Data Mining](books/BigData/Guide2DataMining/README.md)
 ### Code
 - [编程珠玑 第2版 修订版](books/Code/编程珠玑/README.md)
 - [编程珠玑 续 修订版](books/Code/编程珠玑/README.md)
@@ -324,6 +326,7 @@
 - [程序员的数学基础课](books/geektime/程序员的数学基础课/README.md)
 - [程序员进阶攻略](books/geektime/程序员进阶攻略/README.md)
 - [硅谷产品实战36讲](books/geektime/硅谷产品实战36讲/README.md)
+- [零基础学Python](books/geektime/零基础学Python/README.md)
 - [邱岳的产品实战](books/geektime/邱岳的产品实战/README.md)
 - [如何设计一个秒杀系统](books/geektime/如何设计一个秒杀系统/README.md)
 - [软件测试52讲](books/geektime/软件测试52讲/README.md)
@@ -331,6 +334,7 @@
 - [深入浅出计算机组成原理](books/geektime/深入浅出计算机组成原理/README.md)
 - [数据结构与算法之美](books/geektime/数据结构与算法之美/README.md)
 - [说透中台](books/geektime/说透中台/README.md)
+- [性能测试实战30讲](books/geektime/性能测试实战30讲/README.md)
 - [许式伟的架构课](books/geektime/许式伟的架构课/README.md)
 - [重学前端](books/geektime/重学前端/README.md)
 - [朱赟的技术管理课](books/geektime/朱赟的技术管理课/README.md)
@@ -342,7 +346,6 @@
 - [Nginx核心知识100讲](books/geektime/Nginx核心知识100讲/README.md)
 - [OpenResty从入门到实战](books/geektime/OpenResty从入门到实战/README.md)
 - [Vue开发实战](books/geektime/Vue开发实战/README.md)
-- [性能测试实战30讲](books/geektime/性能测试实战30讲/README.md)
 ### 吴军作品集
 - [态度](books/wujun/态度/README.md)
 - [见识](books/wujun/见识/README.md)

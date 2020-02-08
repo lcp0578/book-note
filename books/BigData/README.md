@@ -4,3 +4,4 @@
 - [数据挖掘导论](数据挖掘导论/README.md)
 - [视觉计算基础](视觉计算基础/README.md)
 - [面向程序员的数据挖掘指南](面向程序员的数据挖掘指南/README.md)
+- [A Programmer's Guide to Data Mining](Guide2DataMining/README.md)

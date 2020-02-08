@@ -4,3 +4,4 @@
 - [Python编程快速上手 让繁琐工作自动化](Python编程快速上手/README.md)
 - [Python机器学习 预测分析核心算法](Python机器学习/README.md)
 - [Python机器学习实践指南](Python机器学习实践指南/README.md)
+- [Python for Data Analysis, 2nd Edition](PythonForDataAnalysis/README.md)
