@@ -5,3 +5,5 @@
 - [Python机器学习 预测分析核心算法](Python机器学习/README.md)
 - [Python机器学习实践指南](Python机器学习实践指南/README.md)
 - [Python for Data Analysis, 2nd Edition](PythonForDataAnalysis/README.md)
+- [Python机器学习手册:从数据预处理到深度学习](Python机器学习手册/README.md)
+- [深度学习入门 基于Python的理论与实现](深度学习入门基于Python的理论与实现/README.md)
