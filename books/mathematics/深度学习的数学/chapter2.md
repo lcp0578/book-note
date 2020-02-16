@@ -7,4 +7,4 @@
 - 数列的通项式
 - 将多个数列的递推关系式联合起来组成一组，称为联立递推关系式。
 - 在神经网络的世界中，所有神经单元的输入和输出在数学上都可以认为是用联立递推式联系起来的。
-- $\sum$ 符号可以简洁地表示数列的总和。
+- <a href="https://www.codecogs.com/eqnedit.php?latex=\sum" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum" title="\sum" /></a> 符号可以简洁地表示数列的总和。
