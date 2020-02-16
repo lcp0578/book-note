@@ -17,12 +17,14 @@
 	<img src="https://latex.codecogs.com/gif.latex?\mathit{a}=(a_{1},&space;a_{2})" title="\mathit{a}=(a_{1}, a_{2})" />
     - 向量a的大小用|a|表示。
     - 向量的内积
-    ![](https://latex.codecogs.com/gif.latex?\mathit{a}\cdot&space;\mathit{b}=|a||b|cos\theta)
+    <img src="https://latex.codecogs.com/gif.latex?\mathit{a}\cdot&space;\mathit{b}=|a||b|cos\theta" />
     - 柯西-施瓦茨不等式
-    ![](https://latex.codecogs.com/gif.latex?-|a||b|\leqslant&space;a\cdot&space;b\leqslant&space;|a||b|)
+    <img src="https://latex.codecogs.com/gif.latex?-|a||b|\leqslant&space;a\cdot&space;b\leqslant&space;|a||b|" />
     	- 当两个向量方向相反时，内积取得最小值。
     	- 当两个向量不平行时，内积去平行时的中间值。
     	- 当两个向量方向相同时，内积取得最大值。
     - 内积的坐标表示
-    ![](https://latex.codecogs.com/gif.latex?\mathbf{a}&space;=&space;(a_{1},&space;a_{2}),\mathbf{b}&space;=&space;(b_{1},&space;b_{2});&space;\mathbf{a}\cdot&space;\mathbf{b}=a_{1},&space;b_{a}&space;&plus;&space;a_{2},&space;b_{2})
+    <img src="https://latex.codecogs.com/gif.latex?\mathbf{a}&space;=&space;(a_{1},&space;a_{2}),\mathbf{b}&space;=&space;(b_{1},&space;b_{2});&space;\mathbf{a}\cdot&space;\mathbf{b}=a_{1},&space;b_{a}&space;&plus;&space;a_{2},&space;b_{2}" />
     - 张量(tensor)是向量概念的推广。谷歌提供的人工智能学习系统TensorFlow的命名中就是用到了这个数学术语。
+- 矩阵(matrix)
+	- 矩阵是数的阵列。
