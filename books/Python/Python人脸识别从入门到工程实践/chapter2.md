@@ -1,0 +1,26 @@
+## 第2章 数学与机器学习基础
+- 矩阵
+	- 行列式
+	- 转置
+- 向量
+	- 向量的点乘
+	- 向量的范数
+- 距离的度量
+	- 欧式距离
+	- 曼哈顿距离
+	- 余弦距离
+	- 汉明距离
+- 卷积
+	- 一维卷积(主要用在自然语言处理和序列模型中)
+	- 二维卷积(主要应用在计算机视觉领域中)
+- 机器学习基础
+	- 机器学习类别
+		- 监督学习
+		- 无监督学习
+		- 强化学习
+	- 分类算法
+		- 支持向量机(Support Vector Machine, SVM)
+		- AdaBoost(Adaptive Boosting)
+		- K最近邻算法(k-Nearest Neighbor, kNN)
+		- 决策树(Decision Tree)
+		- PCA(Principal Component Analysis)算法
