@@ -186,6 +186,7 @@
 - [深入理解机器学习 从原理到算法](books/machine-learning/深入理解机器学习/README.md)
 - [Deep Learning 深度学习](books/machine-learning/深度学习/README.md)
 - [动手学深度学习](books/machine-learning/动手学深度学习/README.md)
+- [自然语言处理入门](books/machine-learning/自然语言处理入门/README.md)
 ### Big Data 大数据
 - [大数据 互联网大规模数据挖掘与分布式处理](books/BigData/大数据互联网大规模数据挖掘与分布式处理/README.md)
 - [数据挖掘概念与技术](books/BigData/数据挖掘概念与技术/README.md)
