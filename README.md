@@ -14,6 +14,7 @@
 - [深度学习的数学](books/mathematics/深度学习的数学/README.md)
 - [计算机科学中的数学 信息与智能时代的必修课](books/mathematics/计算机科学中的数学/README.md)
 - [immersive linear algebra 沉浸式线性代数](http://immersivemath.com/ila/index.html)
+- [数学女孩](books/mathematics/数学女孩/README.md)
 ### PHP
 - [深入PHP面向对象、模式与实践(第3版)](books/php/深入PHP面向对象、模式与实践(第3版)/README.md)
 - [PHP编程实战](books/php/PHP编程实战/README.md)
