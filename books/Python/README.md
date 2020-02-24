@@ -7,3 +7,5 @@
 - [Python for Data Analysis, 2nd Edition](PythonForDataAnalysis/README.md)
 - [Python机器学习手册:从数据预处理到深度学习](Python机器学习手册/README.md)
 - [深度学习入门 基于Python的理论与实现](深度学习入门基于Python的理论与实现/README.md)
+- [Python神经网络编程](Python神经网络编程/README.md)
+- [Python深度学习](Python深度学习/README.md)

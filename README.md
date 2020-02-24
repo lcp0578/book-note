@@ -174,6 +174,8 @@
 - [Python for Data Analysis, 2nd Edition](books/Python/PythonForDataAnalysis/README.md)
 - [Python机器学习手册:从数据预处理到深度学习](books/Python/Python机器学习手册/README.md)
 - [深度学习入门 基于Python的理论与实现](books/Python/深度学习入门基于Python的理论与实现/README.md)
+- [Python神经网络编程](books/Python/Python神经网络编程/README.md)
+- [Python深度学习](books/Python/Python深度学习/README.md)
 ### TensorFlow
 - TensorFlow 技术解析与实战
 ### micro-service
