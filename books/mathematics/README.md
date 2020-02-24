@@ -8,3 +8,6 @@
 - [计算机科学中的数学 信息与智能时代的必修课](计算机科学中的数学/README.md)
 - [immersive linear algebra 沉浸式线性代数](http://immersivemath.com/ila/index.html)
 - [数学女孩](数学女孩/README.md)
+- [数学女孩2费马大定理](数学女孩2费马大定理/README.md)
+- [数学女孩3哥德尔不完备定理](数学女孩3哥德尔不完备定理/README.md)
+- [数学女孩4随机算法](数学女孩4随机算法/README.md)
