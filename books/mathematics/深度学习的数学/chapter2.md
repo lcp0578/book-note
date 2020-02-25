@@ -83,3 +83,20 @@
         <a href="https://www.codecogs.com/eqnedit.php?latex=\tfrac{\partial&space;f}{\partial&space;x}=0,\tfrac{\partial&space;f}{\partial&space;y}=0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\tfrac{\partial&space;f}{\partial&space;x}=0,\tfrac{\partial&space;f}{\partial&space;y}=0" title="\tfrac{\partial f}{\partial x}=0,\tfrac{\partial f}{\partial y}=0" /></a>  
         - 拉格朗日乘数法。求函数<a href="https://www.codecogs.com/eqnedit.php?latex=z=f(x,&space;y)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?z=f(x,&space;y)" title="z=f(x, y)" /></a>在满足下的条件极值，可以转化为函数<a href="https://www.codecogs.com/eqnedit.php?latex=F(x,&space;y,&space;\lambda&space;)=f(x,&space;y)&plus;\lambda&space;\varphi&space;(x,&space;y)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?F(x,&space;y,&space;\lambda&space;)=f(x,&space;y)&plus;\lambda&space;\varphi&space;(x,&space;y)" title="F(x, y, \lambda )=f(x, y)+\lambda \varphi (x, y)" /></a>的无条件极值问题。
         - [拉格朗日参考资料](https://www.cnblogs.com/maybe2030/p/4946256.html)
+- 链式法则
+	- 神经网络和符合函数
+		- 已知函数 y=f(u),当u表示为u=g(x)时，y作为x的函数可以表示为形如y=f(g(x))的嵌套结构（u和x表示多变量）。
+		- 嵌套结构的函数f(g(x))称为f(u)和g(x)的**复合函数**
+	- 单变量函数的链式法则
+		- 已知函数 y=f(u),当u表示为u=g(x)时，复合函数f(g(x))的导函数可以如下简单地求出来。  
+		<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\mathrm{d}&space;y}{\mathrm{d}&space;x}=\frac{\mathrm{d}&space;y}{\mathrm{d}&space;u}\frac{\mathrm{d}&space;u}{\mathrm{d}&space;x}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\mathrm{d}&space;y}{\mathrm{d}&space;x}=\frac{\mathrm{d}&space;y}{\mathrm{d}&space;u}\frac{\mathrm{d}&space;u}{\mathrm{d}&space;x}" title="\frac{\mathrm{d} y}{\mathrm{d} x}=\frac{\mathrm{d} y}{\mathrm{d} u}\frac{\mathrm{d} u}{\mathrm{d} x}" /></a>  
+        - 这个公式称为单变量函数的**复合函数求导公式**，也称为**链式法则**。
+	- 多变量函数的链式法则
+		- 变量z为u、v的函数，如果u、v分别为x、y的函数，则z为x、y的函数，此时下式（多变量函数的链式法则）成立。  
+		<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;z}{\partial&space;x}=\frac{\partial&space;z}{\partial&space;u}\frac{\partial&space;u}{\partial&space;x}&space;&plus;&space;\frac{\partial&space;z}{\partial&space;v}\frac{\partial&space;v}{\partial&space;x}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;z}{\partial&space;x}=\frac{\partial&space;z}{\partial&space;u}\frac{\partial&space;u}{\partial&space;x}&space;&plus;&space;\frac{\partial&space;z}{\partial&space;v}\frac{\partial&space;v}{\partial&space;x}" title="\frac{\partial z}{\partial x}=\frac{\partial z}{\partial u}\frac{\partial u}{\partial x} + \frac{\partial z}{\partial v}\frac{\partial v}{\partial x}" /></a>  
+	- 单变量函数的近似公式(△x为微小的数)  
+	<a href="https://www.codecogs.com/eqnedit.php?latex=f(x&space;&plus;&space;\Delta&space;x))\approx&space;f(x)&plus;f'(x)\Delta&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(x&space;&plus;&space;\Delta&space;x))\approx&space;f(x)&plus;f'(x)\Delta&space;x" title="f(x + \Delta x))\approx f(x)+f'(x)\Delta x" /></a>
+    - 多变量函数的近似公式  
+    <a href="https://www.codecogs.com/eqnedit.php?latex=f(x&space;&plus;&space;\Delta&space;x,&space;y&space;&plus;&space;\Delta&space;y))\approx&space;f(x,y)&plus;\frac{\partial&space;f(x,&space;y)}{\partial&space;x}\Delta&space;x&plus;\frac{\partial&space;f(x,&space;y)}{\partial&space;y}\Delta&space;y" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(x&space;&plus;&space;\Delta&space;x,&space;y&space;&plus;&space;\Delta&space;y))\approx&space;f(x,y)&plus;\frac{\partial&space;f(x,&space;y)}{\partial&space;x}\Delta&space;x&plus;\frac{\partial&space;f(x,&space;y)}{\partial&space;y}\Delta&space;y" title="f(x + \Delta x, y + \Delta y))\approx f(x,y)+\frac{\partial f(x, y)}{\partial x}\Delta x+\frac{\partial f(x, y)}{\partial y}\Delta y" /></a>  
+- 回归分析
+	- 由多个变量组成的数据中，着眼于其中一个特定的变量，用其余的变量来解释这个特定的变量，这样的方法称为**回归分析**。

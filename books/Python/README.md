@@ -9,3 +9,5 @@
 - [深度学习入门 基于Python的理论与实现](深度学习入门基于Python的理论与实现/README.md)
 - [Python神经网络编程](Python神经网络编程/README.md)
 - [Python深度学习](Python深度学习/README.md)
+- [Python深度学习实战 基于TensorFlow和Keras的聊天机器人以及人脸、物体和语音识别](Python深度学习实战基于TensorFlow和Keras的聊天机器人以及人脸物体和语音识别/README.md)
+- [Python人脸识别从入门到工程实践](Python人脸识别从入门到工程实践/README.md)

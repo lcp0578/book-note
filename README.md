@@ -179,20 +179,24 @@
 - [深度学习入门 基于Python的理论与实现](books/Python/深度学习入门基于Python的理论与实现/README.md)
 - [Python神经网络编程](books/Python/Python神经网络编程/README.md)
 - [Python深度学习](books/Python/Python深度学习/README.md)
+- [Python深度学习实战 基于TensorFlow和Keras的聊天机器人以及人脸、物体和语音识别](books/Python/Python深度学习实战基于TensorFlow和Keras的聊天机器人以及人脸物体和语音识别/README.md)
+- [Python人脸识别从入门到工程实践](books/Python/Python人脸识别从入门到工程实践/README.md)
 ### TensorFlow
-- TensorFlow 技术解析与实战
-### micro-service
-- [微服务设计](books/micro-service/微服务设计/README.md)
-- [微服务架构与实践](books/micro-service/微服务架构与实践/README.md)
-- [深入理解Apache Dubbo与实践](books/micro-service/深入理解ApacheDubbo与实践/README.md)
+- [TensorFlow 技术解析与实战](tensorflow/TensorFlow技术解析与实战/README.md)
 ### machine-learning
 - [机器学习](books/machine-learning/机器学习/README.md)
 - [图解机器学习](books/machine-learning/图解机器学习/README.md)
+- [深度学习](books/machine-learning/深度学习/README.md)
 - [Machine Learning Yearning](books/machine-learning/MachineLearningYearning/README.md)
 - [深入理解机器学习 从原理到算法](books/machine-learning/深入理解机器学习/README.md)
-- [Deep Learning 深度学习](books/machine-learning/深度学习/README.md)
 - [动手学深度学习](books/machine-learning/动手学深度学习/README.md)
+- [深度学习入门基于Python的理论与实现](books/machine-learning/深度学习入门基于Python的理论与实现/README.md)
 - [自然语言处理入门](books/machine-learning/自然语言处理入门/README.md)
+- [详解深度学习 基于TensorFlow和Keras学习RNN](books/machine-learning/详解深度学习基于TensorFlow和Keras学习RNN/README.md)
+- [深度学习图解](books/machine-learning/深度学习图解/README.md)
+- [机器学习 使用OpenCV和Python进行智能图像处理](books/machine-learning/机器学习使用OpenCV和Python进行智能图像处理/README.md)
+- [实用卷积神经网络 运用Python实现高级深度学习模型](books/machine-learning/实用卷积神经网络运用Python实现高级深度学习模型/README.md)
+- [深度学习与图像识别原理与实践](books/machine-learning/深度学习与图像识别原理与实践/README.md)
 ### Big Data 大数据
 - [大数据 互联网大规模数据挖掘与分布式处理](books/BigData/大数据互联网大规模数据挖掘与分布式处理/README.md)
 - [数据挖掘概念与技术](books/BigData/数据挖掘概念与技术/README.md)
@@ -200,6 +204,10 @@
 - [视觉计算基础](books/BigData/视觉计算基础/README.md)
 - [面向程序员的数据挖掘指南](books/BigData/面向程序员的数据挖掘指南/README.md)
 - [A Programmer's Guide to Data Mining](books/BigData/Guide2DataMining/README.md)
+### micro-service
+- [微服务设计](books/micro-service/微服务设计/README.md)
+- [微服务架构与实践](books/micro-service/微服务架构与实践/README.md)
+- [深入理解Apache Dubbo与实践](books/micro-service/深入理解ApacheDubbo与实践/README.md)
 ### Code
 - [编程珠玑 第2版 修订版](books/Code/编程珠玑/README.md)
 - [编程珠玑 续 修订版](books/Code/编程珠玑/README.md)
