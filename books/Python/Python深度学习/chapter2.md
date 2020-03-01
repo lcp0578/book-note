@@ -1,0 +1,20 @@
+## 第2章 神经网络的数学基础
+- 关于类和标签的说明
+	- 在机器学习中，分类问题中的某个**类别**叫做**类**（class）。
+	- 数据点叫做**样本**（sample）。
+	- 某个样本对应的类叫做**标签**（label）。
+- **过拟合**是指机器学习模型在新数据上的性能往往比在训练数据上要差。
+- 神经网络的数据表示
+	- 标量，scalar（0D张量）
+	- 向量，vector（1D张量）
+	- 矩阵，matrix（2D张量）
+	- 3D张量与更高维张量
+	- 关键属性
+		- **轴的个数（阶）**，在Numpy等Python库中也叫张量的ndim。
+		- **形状**。这是一个整数元组，表示张量沿每个轴的维度大小（元素个数）。
+		- **数据类型**（在Python库中通常叫做dtype）。这是张量中所包含数据的类型，例如，张量的类型可以是float32、unit8、float64等。
+	- 现实世界中的数据张量
+		- 向量数据：2D张量，形状为`(samples, features)`
+		- 时间序列数据或序列数据：3D张量，形状为`(samples, timesteps, features)`。
+		- 图像：4D张量，形状为`(samples, height, width, channels)` 或 `(samples, channels, height, width)`
+		- 视频：5D张量，形状为`(samples, frames, height, width, channels)`或`(samples, frames, channels, height, width)`
