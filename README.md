@@ -234,6 +234,7 @@
 - [图解设计模式](books/Code/图解设计模式/README.md)
 - [程序员必读之软件架构](books/Code/程序员必读之软件架构/README.md)
 - [从零开始学架构](books/Code/从零开始学架构/README.md)
+- [推荐系统原理与实践](books/Code/推荐系统原理与实践/README.md)
 ### computer-english
 - 计算机英语
 ### Git
