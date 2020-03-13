@@ -13,6 +13,7 @@
 - [PHPUnit Manual](PHPUnitManual/README.md)
 - [PHP扩展开发及内核应用](PHP扩展开发及内核应用/README.md)
 - [PHP7内核剖析](PHP7内核剖析/README.md)
+- [PHP7底层设计与实现](PHP7底层设计与实现/README.md)
 - [Mastering PHP7](Mastering_PHP_7/README.md)
 - [PHP7 Data Structures and Algorithms](PHP7DataStructuresandAlgorithms/README.md)
 - [PHP安全之道 项目安全的架构、技术与实践](PHP安全之道/README.md)
