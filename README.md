@@ -183,6 +183,7 @@
 - [Python深度学习](books/Python/Python深度学习/README.md)
 - [Python深度学习实战 基于TensorFlow和Keras的聊天机器人以及人脸、物体和语音识别](books/Python/Python深度学习实战基于TensorFlow和Keras的聊天机器人以及人脸物体和语音识别/README.md)
 - [Python人脸识别从入门到工程实践](books/Python/Python人脸识别从入门到工程实践/README.md)
+- [深入理解Python特性](books/Python/深入理解Python特性/README.md)
 ### TensorFlow
 - [TensorFlow 技术解析与实战](tensorflow/TensorFlow技术解析与实战/README.md)
 ### machine-learning
