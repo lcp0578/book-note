@@ -30,15 +30,16 @@
 - 字符串格式化
 	- “旧式”字符串格式化
 	
-    		>>> name = 'lcp0578'
-    		>>> hello, %s' % name
-			'hello, lcp0578'
+            >>> name = 'lcp0578'
+            >>> hello, %s' % name
+            'hello, lcp0578'
             >>> errorno = 2048
             >>> '%x' % errorno
             '800'
             >>>
 	- "新式“字符串格式化(Python >= 2.7)
-	
+			
+        	
 - Python之禅
 
         >>> import this
