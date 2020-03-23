@@ -1,0 +1,25 @@
+## 第1章 ArcGIS软件介绍
+- ArcGIS for Desktop
+	- ArcGIS for Desktop包括了高级的地理分离和处理能力，提供了强大的便器工具、完整的地图生产过程，以及无限的数据和地图分享体验。
+	- 主要功能
+		- 空间分析
+		- 数据管理
+		- 制图和可视化
+		- 高级编辑
+		- 地理编码
+		- 地图投影
+		- 高级影像
+		- 数据分析
+		- 可定制
+- ArcMap
+	- ArcMap是ArcGIS for Desktop的核心应用程序，它把传统的空间数据编辑、查询、显示、分析、报表和制图等GIS功能集成到一个简单的可扩展的应用框架上。ArcMap提供两种类型的操作界面--地址数据视图和地理布局视图。
+- ArcCatalog
+	- ArcCatalog是地理数据的资源管理器，用于组织和管理所有GIS数据。
+- ArcToolbox
+	- ArcToolbox是一个地理数据处理工具的集合，功能强大，涵盖数据处理、转换、制图、分析等多方面的功能。
+- ArcGlobe
+	- ArcGlobe是ArcGIS for Desktop中3D分析扩展模块中的一部分，提供了全球地理信息的连续、多分辨率的交互式浏览功能。
+- ArcScene
+	- ArcScene是ArcGIS Desktop中专门用于显示与分析三维数据的独立程序。ArcScene的功能包括浏览三维数据、创建表面、进行表面分析、模拟三维飞行等。
+- ModelBuilder
+	- ModelBuilder（模型构建器）是数据建模工具，它为设计和实现ArcGIS中各种数据处理提供了一个图形化的建模环境。
