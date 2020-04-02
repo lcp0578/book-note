@@ -97,7 +97,11 @@
 - [深入浅出HTTPS从原理到实战](books/network/深入浅出HTTPS从原理到实战/README.md)
 ### cryptography
 - [图解密码技术(第三版)](books/cryptography/图解密码技术/README.md)
-- 加密解密实战
+### Computer Graphics 计算机图形学
+- [计算机图形学原理及实践](计算机图形学原理及实践/README.md)
+- [计算机图形学(第四版)](计算机图形学/README.md)
+- [Qt 5.9 C++开发指南](Qt5.9C++开发指南/README.md)
+- [Python Qt GUI与数据可视化编程](PythonQtGUI与数据可视化编程/README.md)
 ### Computer Organization 计算机组成原理
 - [计算机组成原理与设计 硬件/软件接口](books/ComputerOrganization/计算机组成原理与设计/README.md)
 - [Computer Organization and Design (Fouth Edition)](books/ComputerOrganization/ComputerOrganizationAndDesign/README.md)
