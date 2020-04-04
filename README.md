@@ -172,6 +172,9 @@
 - [C++ Primer中文版(第五版)](books/c++/C++Primer中文版/README.md)
 - [C++编程思想](books/c++/C++编程思想/README.md)
 - [C++实践之路](books/c++/C++实践之路/README.md)
+- [Effeetive C++ 改善程序与设计的55个具体做法](books/c++/EffeetiveC++/README.md)
+- [More Effeetive C++ 35个改善编程与设计的有效方法](books/c++/MoreEffeetiveC++/README.md)
+- [深度探索C++对象模型](books/c++/深度探索C++对象模型/README.md)
 ### C#相关
 - [C#入门经典](books/C-Sharp/C-Sharp入门经典/README.md)
 - [C#高级编程](books/C-Sharp/C-Sharp高级编程/README.md)
