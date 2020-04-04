@@ -167,6 +167,7 @@
 - [C语言程序设计 进阶教程](books/c/C语言程序设计进阶教程/README.md)
 - [C Primer Plus(第6版)](books/c/CPrimerPlus/README.md)
 ### C++
+- [C++ Primer Plus(第6版)中文版](books/c++/C++PrimerPlus/README.md)
 - [C++ Primer(fourth edition)](books/c++/C++Primer/README.md)
 - [C++ Primer中文版(第五版)](books/c++/C++Primer中文版/README.md)
 - [C++编程思想](books/c++/C++编程思想/README.md)

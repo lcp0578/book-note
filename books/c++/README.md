@@ -1,5 +1,5 @@
 ## C++
-- [C++ Primer Plus(第6版)中文版](C++PrimerPlus.md)
+- [C++ Primer Plus(第6版)中文版](C++PrimerPlus/README.md)
 - [C++ Primer(fourth edition)](C++Primer/README.md)
 - [C++ Primer中文版(第五版)](C++Primer中文版/README.md)
 - [C++编程思想](C++编程思想/README.md)
