@@ -5,3 +5,4 @@
 - [第4章 复合类型](chpater4.md)
 - [第5章 循环和关系表达式](chapter5.md)
 - [第6章 分支语句和逻辑运算符](chapter6.md)
+- [第7章 函数--C++编程模块](chapter7.md)
