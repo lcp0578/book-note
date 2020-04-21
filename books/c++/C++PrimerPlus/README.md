@@ -6,3 +6,5 @@
 - [第5章 循环和关系表达式](chapter5.md)
 - [第6章 分支语句和逻辑运算符](chapter6.md)
 - [第7章 函数--C++编程模块](chapter7.md)
+- [第8章 函数探幽](chapter8.md)
+- [第9章 内存模型和名称空间](chapter9.md)
