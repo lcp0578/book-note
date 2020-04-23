@@ -8,3 +8,5 @@
 - [Effeetive C++ 改善程序与设计的55个具体做法](EffeetiveC++/README.md)
 - [More Effeetive C++ 35个改善编程与设计的有效方法](MoreEffeetiveC++/README.md)
 - [深度探索C++对象模型](深度探索C++对象模型/README.md)
+- [C++程序设计原理与实践（基础篇）](C++程序设计原理与实践基础篇/README.md)
+- [C++程序设计原理与实践（进阶篇）](C++程序设计原理与实践进阶篇/README.md)
