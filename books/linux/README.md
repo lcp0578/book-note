@@ -1,6 +1,6 @@
 ## Linux
-- Linux 私房菜 基础学习篇
-- Linux 私房菜 服务器架设篇
+- [Linux 私房菜 基础学习篇](Linux私房菜服务器架设篇/README.md)
+- [Linux 私房菜 服务器架设篇](Linux私房菜基础学习篇/README.md)
 - [Linux命令行与shell脚本编程大全(第2版)](Linux命令行与shell脚本大全/README.md)
 - [Linux Shell脚本攻略](LinuxShell脚本攻略/README.md)
 - [Linux工具快速教程](Linux工具快速教程/README.md)
