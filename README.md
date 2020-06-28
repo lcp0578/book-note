@@ -301,6 +301,7 @@
 - [Web GIS原理与应用开发](books/GIS/WebGIS原理与应用开发/README.md)
 - [ArcGIS地理信息系统教程](books/GIS/ArcGIS地理信息系统教程/README.md)
 - [ArcGIS软件与应用](books/GIS/ArcGIS软件与应用/README.md)
+- [Python与开源GIS --数据处理、空间分析与地图制图](books/GIS/Python与开源GIS/README.md)
 ### 单片机
 - [51单片机](books/51MCU.md)
 ### 嵌入式

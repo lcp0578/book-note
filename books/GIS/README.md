@@ -5,3 +5,4 @@
 - [Web GIS原理与应用开发](WebGIS原理与应用开发/README.md)
 - [ArcGIS地理信息系统教程](ArcGIS地理信息系统教程/README.md)
 - [ArcGIS软件与应用](ArcGIS软件与应用/README.md)
+- [Python与开源GIS --数据处理、空间分析与地图制图](Python与开源GIS/README.md)
