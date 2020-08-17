@@ -11,3 +11,4 @@
 - [第10章 对象和类](chapter10.md)
 - [第11章 使用类](chapter11.md)
 - [第12章 类和动态内存分配](chapter12.md)
+- [第13章 类继承](chapter13.md)
