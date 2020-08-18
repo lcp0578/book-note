@@ -12,3 +12,4 @@
 - [第11章 使用类](chapter11.md)
 - [第12章 类和动态内存分配](chapter12.md)
 - [第13章 类继承](chapter13.md)
+- [第14章 C++中的代码重用](chapter14.md)
