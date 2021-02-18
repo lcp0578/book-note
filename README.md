@@ -136,6 +136,7 @@
 - [数据结构与算法分析--Java语言描述](books/algorithm/数据结构与算法分析Java语言描述/README.md)
 - [数据结构、算法与应用--C++语言描述](books/algorithm/数据结构算法与应用/README.md)
 - [大话数据结构](books/algorithm/大话数据结构/README.md)
+- [labuladong的算法小抄](books/algorithm/labuladong的算法小抄/README.md)
 ### Go
 - [Go语言学习笔记](books/Go/Go语言学习笔记/README.md)
 - [Go语言实战](books/Go/Go语言实战/README.md) 
