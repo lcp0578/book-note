@@ -6,3 +6,6 @@
 - [你不知道的JavaScript 中卷](你不知道的JavaScript中/README.md)
 - [你不知道的JavaScript 下卷](你不知道的JavaScript下/README.md)
 - [编写可维护的JavaScript](编写可维护的JavaScript/README.md)
+- [Vue.js实战](Vuejs实战/README.md)
+- [深入浅出webpack](深入浅出webpack/README.md)
+- [深入理解ES6](深入理解ES6/README.md)
