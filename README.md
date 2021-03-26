@@ -47,6 +47,9 @@
 - [你不知道的JavaScript 中卷](books/javascript/你不知道的JavaScript中/README.md)
 - [你不知道的JavaScript 下卷](books/javascript/你不知道的JavaScript下/README.md)
 - [编写可维护的JavaScript](books/javascript/编写可维护的JavaScript/README.md)
+- [Vue.js实战](books/javascript/Vuejs实战/README.md)
+- [深入浅出webpack](books/javascript/深入浅出webpack/README.md)
+- [深入理解ES6](books/javascript/深入理解ES6/README.md)
 ### MySQL
 - [MySQL5权威指南](books/MySQL/MySQL5权威指南/README.md)
 - [高性能MySQL](books/MySQL/高性能MySQL/README.md)
