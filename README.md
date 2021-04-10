@@ -173,6 +173,7 @@
 - [C语言程序设计 进阶教程](books/c/C语言程序设计进阶教程/README.md)
 - [C Primer Plus(第6版)](books/c/CPrimerPlus/README.md)
 ### C++
+- [C++编程自学宝典](books/c++/C++编程自学宝典/README.md)
 - [C++ Primer Plus(第6版)中文版](books/c++/C++PrimerPlus/README.md)
 - [C++ Primer(fourth edition)](books/c++/C++Primer/README.md)
 - [C++ Primer中文版(第五版)](books/c++/C++Primer中文版/README.md)
@@ -185,6 +186,7 @@
 - [C++程序设计原理与实践（基础篇）](books/c++/C++程序设计原理与实践基础篇/README.md)
 - [C++程序设计原理与实践（进阶篇）](books/c++/C++程序设计原理与实践进阶篇/README.md)
 - [Linux多线程服务端编程 使用muduo C++网络库](books/c++/Linux多线程服务端编程/README.md)
+- [C++ Templates 第二版](books/c++/C++Templates/README.md)
 ### C#相关
 - [C#入门经典](books/C-Sharp/C-Sharp入门经典/README.md)
 - [C#高级编程](books/C-Sharp/C-Sharp高级编程/README.md)
