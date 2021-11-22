@@ -310,6 +310,7 @@
 - [ArcGIS软件与应用](books/GIS/ArcGIS软件与应用/README.md)
 - [Python与开源GIS --数据处理、空间分析与地图制图](books/GIS/Python与开源GIS/README.md)
 - [三维数字地球引擎设计](books/GIS/三维数字地球引擎设计/README.md)
+- [PostGIS in Action Third Edition](books/GIS/PostGISinAction/README.md)
 ### 单片机
 - [51单片机](books/51MCU.md)
 ### 嵌入式
