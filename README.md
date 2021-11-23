@@ -278,6 +278,7 @@
 - [Doctrine2 ORM Documentation](books/symfony/Doctrine2ORMDocumentation/README.md)
 - [The Silex Book](books/symfony/TheSilexBook/README.md)
 - [Symfony Cookbook](books/symfony/SymfonyCookbook/README.md)
+- [Symfony 5: The Fast Track](books/Symfony5TheFastTrack/README.md)
 ### CakePHP
 - [Learn CakePHP](books/CakePHP/LearnCakePHP/README.md)
 ### Lua
