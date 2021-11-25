@@ -1,0 +1,15 @@
+## 第2章 HTTP应用：写一个完整的博客后端
+- `gin` HTTP web框架
+- `viper` 文件配置解决方案
+- `gorm` ORM
+- `https://github.com/natefinch/lumberjack` 日志组件
+- swagger
+- `github.com/go-playground/validator` 入参校验
+- JWT: API访问控制`github.com/dgrijalva/jwt-go`
+- `github.com/uber-go/ratelimit` 限流控制
+- Jaeger 分布式链路追踪
+- fsnotify 文件监听，做配置热更新
+- 编译程序应用
+- 优雅的重启与更新
+	- Kubernetes
+	- Docker
