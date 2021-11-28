@@ -221,6 +221,7 @@
 - [机器学习 使用OpenCV和Python进行智能图像处理](books/machine-learning/机器学习使用OpenCV和Python进行智能图像处理/README.md)
 - [实用卷积神经网络 运用Python实现高级深度学习模型](books/machine-learning/实用卷积神经网络运用Python实现高级深度学习模型/README.md)
 - [深度学习与图像识别原理与实践](books/machine-learning/深度学习与图像识别原理与实践/README.md)
+- [神经网络与深度学习](books/machine-learning/神经网络与深度学习/README.md)
 ### Big Data 大数据
 - [大数据 互联网大规模数据挖掘与分布式处理](books/BigData/大数据互联网大规模数据挖掘与分布式处理/README.md)
 - [数据挖掘概念与技术](books/BigData/数据挖掘概念与技术/README.md)
