@@ -12,3 +12,4 @@
 - [Python深度学习实战 基于TensorFlow和Keras的聊天机器人以及人脸、物体和语音识别](Python深度学习实战基于TensorFlow和Keras的聊天机器人以及人脸物体和语音识别/README.md)
 - [Python人脸识别从入门到工程实践](Python人脸识别从入门到工程实践/README.md)
 - [深入理解Python特性](深入理解Python特性/README.md)
+- [Python科学计算入门](Python科学计算入门/README.md)
