@@ -6,12 +6,12 @@
 
 ## 书单
 ### 水利知识
-- [水利概论](books/water/水利概论/README.md)
-- [水文分析与计算](books/water/水文分析与计算/README.md)
-- [水文模型](books/water/水文模型/README.md)
-- [水利计算](books/water/水利计算/README.md)
-- [水文情报预报](books/water/水文情报预报/README.md)
-- [生态水文学](books/water/生态水文学/README.md)
+- [水利概论](books/Water/水利概论/README.md)
+- [水文分析与计算](books/Water/水文分析与计算/README.md)
+- [水文模型](books/Water/水文模型/README.md)
+- [水利计算](books/Water/水利计算/README.md)
+- [水文情报预报](books/Water/水文情报预报/README.md)
+- [生态水文学](books/Water/生态水文学/README.md)
 ### mathematics
 - [程序员数学](books/mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
