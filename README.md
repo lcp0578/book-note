@@ -214,6 +214,7 @@
 - [Python人脸识别从入门到工程实践](books/Python/Python人脸识别从入门到工程实践/README.md)
 - [深入理解Python特性](books/Python/深入理解Python特性/README.md)
 - [Python科学计算入门](books/Python/Python科学计算入门/README.md)
+- [Python科学计算](books/Python/Python科学计算/README.md)
 ### TensorFlow
 - [TensorFlow 技术解析与实战](tensorflow/TensorFlow技术解析与实战/README.md)
 ### machine-learning

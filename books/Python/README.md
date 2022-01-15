@@ -13,3 +13,4 @@
 - [Python人脸识别从入门到工程实践](Python人脸识别从入门到工程实践/README.md)
 - [深入理解Python特性](深入理解Python特性/README.md)
 - [Python科学计算入门](Python科学计算入门/README.md)
+- [Python科学计算](Python科学计算/README.md)
