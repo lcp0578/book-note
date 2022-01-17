@@ -1,1 +1,11 @@
 ## 第5章 基于Matplotlib的数据可视化
+- Matplotlib是用于在Python中绘制图表的软件库。
+- 主要的二维绘图方案
+	- plot 折线图
+	- loglog 双对数曲线图
+	- scatter 散点图
+	- bar 条形图
+	- errorbar 误差条形图
+	- hist 直方图
+	- pie 饼形图
+- 使用Matplotlib还可以绘制三维图表。
