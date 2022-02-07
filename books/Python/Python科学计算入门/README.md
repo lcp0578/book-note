@@ -4,3 +4,4 @@
 - [第3章 基于NumPy的数组运算](chapter3.md)
 - [第4章 基于SymPy的代数计算](chapter4.md)
 - [第5章 基于Matplotlib的数据可视化](chapter5.md)
+- [第6章 基于NumPy/SciPy的数值计算及其应用](chapter6.md)
