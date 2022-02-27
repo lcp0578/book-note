@@ -14,3 +14,4 @@
 - [深入理解Python特性](深入理解Python特性/README.md)
 - [Python科学计算入门](Python科学计算入门/README.md)
 - [Python科学计算](Python科学计算/README.md)
+- [利用Python进行数据分析](利用Python进行数据分析/README.md)
