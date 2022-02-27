@@ -4,4 +4,5 @@
 - matplotlib
 - IPython
 - Jupyter
-- 
+- scikit-learn
+- statsmodels
