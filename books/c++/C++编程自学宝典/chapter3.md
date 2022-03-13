@@ -54,3 +54,7 @@
 	- 联合体是所有成员占用同一内存的结构体，这种类型的大小是其最大成员的尺寸。因为联合体只能保存数据的一个元素，它是一种通过多张方式解析数据的机制。
 - C++提供了一种名为`typeid`的运算符，它将返回程序运行时某个变量的类型信息。运行时类型信息(Runtime Type Information, RTTI)对于使用多态机制中的自定义类型非常重要。
 - 转型
+	- `const_cast`
+	- `static_cast`
+	- `reinterpret_cast`
+	- `dynamic_cast`
