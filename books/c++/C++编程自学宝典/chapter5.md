@@ -97,4 +97,91 @@
 - 可变参数模板
 - 运算符重载
 	- C++提供了关键字`operator`用于声明运算符函数而不使用函数调用语法，而是使用与运算符相关的语法。
+- 函数对象
+	- 头文件`<functional>`中包含多种可以当做函数对象使用的类型
+		- 算数运算: `divides`、`minus`、`modulus`、`mutiplies`、`negate`、`plus`
+		- 位运算：`bit_and`、`bit_not`、`bit_or`、`bit_xor`
+		- 比较运算：`equal_to`、`greater`、`greater_equal`、`less`、`less_equals`、`not_equal_to`
+		- 逻辑运算:`logical_and`、`logical_not`、`logical_or`
 - lambda表达式用在将要使用函数对象的地方创建一个匿名函数对象，这可以让代码更易读。
+- 综合示例
+
+		#include <iostream>
+		#include <string>
+		#include <windows.h>
+		#include <vector>
+		#include <tuple>
+		#include <iomanip>
+		#include <algorithm>
+		
+		using namespace std;
+		
+		struct file_size {
+			unsigned int high;
+			unsigned int low;
+		};
+		
+		using file_info = tuple<string, file_size>;
+		
+		void files_in_folder(const char* folderPath, vector<file_info>& files) {
+			string folder(folderPath);
+			folder += "*";
+			WIN32_FIND_DATAA findfiledata{};
+			void* hFind = FindFirstFileA(folder.c_str(), &findfiledata);
+			cout << findfiledata.cFileName << endl;
+			if (hFind != INVALID_HANDLE_VALUE)
+			{
+				do {
+					string findItem(folderPath); //等价于 string findItem = folderPath;
+					findItem += "";
+					findItem += findfiledata.cFileName;
+					if ((findfiledata.dwFileAttributes & FILE_ATTRIBUTE_DIRECTORY) != 0)
+					{
+						string folder(findfiledata.cFileName);
+						if (folder != "." && folder != "..") {
+							files_in_folder(findItem.c_str(), files);
+						}
+					}
+					else {
+						file_size fs{};
+						fs.high = findfiledata.nFileSizeHigh;
+						fs.low = findfiledata.nFileSizeLow;
+						files.push_back(make_tuple(findItem, fs));
+					}
+				} while (FindNextFileA(hFind, &findfiledata));
+				FindClose(hFind);
+			}
+		}
+		
+		ostream& operator<<(ostream& os, const file_size fs) {
+			int flags = os.flags();
+			unsigned long long ll = fs.low + ((unsigned long long)fs.high << 32);
+			os << hex << ll;
+			os.setf(flags);
+			return os;
+		}
+		bool operator>(const file_size& lhs, const file_size& rhs)
+		{
+			if (lhs.high > rhs.high) return true;
+			if (lhs.high == rhs.high) {
+				if (lhs.low > rhs.low) return true;
+			}
+			return false;
+		}
+		int main(int argc, char* argv[])
+		{
+			//if (argc < 2) return 1;
+			string dir2("D:");
+			vector<file_info> files;
+			cout << dir2.c_str() << endl;
+			files_in_folder(dir2.c_str(), files);
+		
+			sort(files.begin(), files.end(),
+				[](const file_info& lhs, const file_info& rhs)
+				{return get<1>(rhs) > get<1>(lhs);
+				});
+			for (auto file : files) {
+				cout << setw(16) << get<1>(file) << " " << get<0>(file) << endl;
+			}
+			return 0;
+		}
