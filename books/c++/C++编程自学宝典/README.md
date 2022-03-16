@@ -4,3 +4,4 @@
 - [第3章 C++类型探秘](chapter3.md)
 - [第4章 内存、数组和指针](chapter4.md)
 - [第5章 函数](chapter5.md)
+- [第6章 类](chapter6.md)
