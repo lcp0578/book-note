@@ -19,11 +19,12 @@
 			namespace QT_NAMESPACE {
 			namespace Ui { class MainWindow; }
 			}
--信号与槽关联是用`QObject::connect()`函数实现的，其基本格式是：
+- 信号与槽关联是用`QObject::connect()`函数实现的，其基本格式是：
 
 			QObject::connect(sender, SIGNAL(signal()), receiver, SLOT(slot()));
 	connect()是QObject类的一个静态函数，而QObject是所有Qt类的基类，在实际调用时可以忽略前面的限定符，所以可以直接写为：
 
 			connect(sender, SIGNAL(signal()), receiver, SLOT(slot()));
+	SIGNAL和SLOT是Qt的宏，用于指明信号和槽，并将它们的参数转换为相应的字符串。
 
 
