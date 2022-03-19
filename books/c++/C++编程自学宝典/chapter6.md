@@ -19,3 +19,10 @@
 			mytype t1 = 10.0; //不能通过编译，无法转换成mytype
 			mytype t2(10.0); //通过编译
 - 移动语义
+- 对象和指针
+- 智能指针
+	- 标准库有3个智能指针类
+		- unique_ptr
+		- shared_ptr
+		- weak_ptr
+- 模板

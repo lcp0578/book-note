@@ -26,5 +26,12 @@
 
 			connect(sender, SIGNAL(signal()), receiver, SLOT(slot()));
 	SIGNAL和SLOT是Qt的宏，用于指明信号和槽，并将它们的参数转换为相应的字符串。
+- Qt Creator快捷键
+	- `F4` Switch Header/Source在同名头文件和源程序文件之间切换
+	- `F2` Follow Symbol Under Cursor 跟踪光标下的符号，若是变量，可跟踪到变量声明的地方；若是函数体或函数声明，可在两者之间切换
+	- `F1` Context Help 为光标所在的符号显示帮助文件的内容
+- 查看帮助文档
+	- Qt Creator `Help` -> `context`
+	- Qt Assistant帮助系统
 
 
