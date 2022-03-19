@@ -5,3 +5,4 @@
 - [第4章 内存、数组和指针](chapter4.md)
 - [第5章 函数](chapter5.md)
 - [第6章 类](chapter6.md)
+- [第7章 面向对象编程简介](chapter7.md)
