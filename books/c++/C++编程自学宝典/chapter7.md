@@ -149,3 +149,65 @@
 			}
 		}
 - mixin类(混入类)
+
+		#include <iostream>
+		#include <vector>
+		#include <string>
+		
+		using namespace std;
+		
+		template <typename BASE>
+		class mixin : public BASE
+		{
+		public:
+			void something()
+			{
+				cout << "mixin do something" << endl;
+				BASE::something();
+				cout << "mixin something else" << endl;
+			}
+		};
+		
+		template <typename BASE>
+		class mixin2 : public BASE
+		{
+		public:
+			void something()
+			{
+				cout << "mixin2 do something" << endl;
+				BASE::something();
+				cout << "mixin2 something else" << endl;
+			}
+		};
+		
+		
+		class impl
+		{
+		public:
+			void something()
+			{
+				cout << "impl do something" << endl;
+			}
+		};
+		
+		int main(int argc, char* argv[])
+		{
+			mixin<impl> obj;
+			obj.something();
+			/*
+			mixin do something
+			impl do something
+			mixin something else
+			*/
+			mixin2<mixin<impl>> obj2;
+			obj2.something();
+			/*
+			mixin2 do something
+			mixin do something
+			impl do something
+			mixin something else
+			mixin2 something else
+			*/
+			return 0;
+		}
+#### 多态应用
