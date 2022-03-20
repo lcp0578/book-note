@@ -69,3 +69,83 @@
 	- C++提供了一种执行运行时检查的转型运算符，并且这类运行时类型检查被称为`dynamic_cast`，如果对象可以被转型为所需的类型，那么该操作将成功执行并返回有效的指针。如果对象无法通过请求的指针访问，则转换失败，运算符将返回`nullptr`。
 - 智能指针和虚方法
 - 接口
+
+		#include <iostream>
+		#include <vector>
+		#include <string>
+		
+		using namespace std;
+		
+		#define interface struct
+		
+		interface IPrint
+		{
+			virtual void set_page(/*size, orientation etc*/) = 0;
+			virtual void print_page(const string& str) = 0;
+		};
+		
+		interface IScan
+		{
+			virtual void set_page(/*resolution etc*/) = 0;
+			virtual string scan_page() = 0;
+		};
+		
+		class inkjet_printer : public IPrint, public IScan
+		{
+		public:
+			virtual void IPrint::set_page(/*size, orientation etc*/) override
+			{
+				//设置页面属性
+			}
+			virtual void print_page(const string& str) override
+			{
+				cout << str << endl;
+			}
+			virtual void IScan::set_page(/*resolution etc*/) override
+			{
+				//设置页面属性
+			}
+			virtual string scan_page() override
+			{
+				static int page_no;
+				string str("page ");
+				str += to_string(++page_no);
+				return str;
+			}
+		};
+		
+		void print_doc(IPrint* printer, vector<string> doc);
+		
+		void print_doc(IPrint* printer, vector<string> doc)
+		{
+		}
+		
+		void scan_doc(IScan* scanner, int num_pages);
+		
+		void scan_doc(IScan* scanner, int num_pages)
+		{
+		}
+		
+		
+		
+		int main(int argc, char* argv[])
+		{
+			inkjet_printer inkjet;
+			IPrint* printer = &inkjet;
+			printer->set_page(/*属性*/);
+			vector<string> doc{ "page 1", "page 2", "page 3" };
+			print_doc(printer, doc);
+		
+			IScan* scanner = &inkjet;
+			scanner->set_page(/*属性*/);
+			scan_doc(scanner, 5);
+		
+			IPrint* printer2 = dynamic_cast<IPrint*>(scanner);
+			if (printer2 != nullptr)
+			{
+				printer2->set_page(/*属性*/);
+				vector<string> doc{ "page 4", "page 5", "page 6" };
+				print_doc(printer2, doc);
+			}
+		}
+- mixin类(混入类)
