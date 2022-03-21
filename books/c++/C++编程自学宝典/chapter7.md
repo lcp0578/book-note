@@ -211,3 +211,153 @@
 			return 0;
 		}
 ### 多态应用
+
+	#include <iostream>
+	#include <string>
+	#include <vector>
+	#include <fstream>
+	#include <memory>
+	
+	using namespace std;
+	
+	#define interface struct
+	
+	interface IWork
+	{
+		virtual const char* get_name() = 0;
+		virtual const char* get_position() = 0;
+		virtual void do_work() = 0;
+	};
+	
+	interface IManage
+	{
+		virtual const vector<shared_ptr<IWork>>& get_team() = 0;
+		virtual void manage_team() = 0;
+	};
+	
+	interface IDevelop
+	{
+		virtual void write_code() = 0;
+	};
+	
+	class worker : public IWork
+	{
+		string name;
+		string position;
+	public:
+		worker() = delete;
+		worker(const char* n, const char* p) : name(n), position(p) {}
+		virtual ~worker() {};
+	
+		virtual const char* get_name() override
+		{
+			return this->name.c_str();
+		}
+	
+		virtual const char* get_position() override
+		{
+			return this->position.c_str();
+		}
+	
+		virtual void do_work() override
+		{
+			cout << "worker do_work" << endl;
+		}
+	};
+	
+	class manager : public worker, public IManage
+	{
+		vector<shared_ptr<IWork>> team;
+	public:
+		manager() = delete;
+		manager(const char* n, const char* p) : worker(n, p) {}
+		const vector<shared_ptr<IWork>>& get_team()
+		{
+			return team;
+		}
+		virtual void manage_team() override
+		{
+			cout << "manages a team" << endl;
+		}
+		void add_team_member(IWork* worker)
+		{
+			team.push_back(shared_ptr<IWork>(worker));
+		}
+		virtual void do_work() override
+		{
+			this->manage_team();
+		}
+	};
+	
+	class project_manager : public manager
+	{
+	public:
+		project_manager() = delete;
+		project_manager(const char* n) : manager(n, "Project Manager") {}
+		virtual void manage_team() override
+		{
+			cout << "manages team of developers" << endl;
+		}
+	};
+	
+	void print_team(IWork* mgr)
+	{
+		cout << mgr->get_name() << " is " << mgr->get_position() << " and ";
+		IManage* manager = dynamic_cast<IManage*>(mgr);
+		if (manager != nullptr)
+		{
+			cout << " manage a team of:" << endl;
+			for (auto team_member : manager->get_team())
+			{
+				cout << team_member->get_name() << " " << team_member->get_position() << endl;
+			}
+		}
+		else
+		{
+			cout << "is not a manager" << endl;
+		}
+	}
+	
+	class cpp_developer : public worker, public IDevelop
+	{
+	public:
+		cpp_developer() = delete;
+		cpp_developer(const char* n) : worker(n, "C++ Dev") {};
+		void write_code()
+		{
+			cout << "Writing C++ ..." << endl;
+		}
+		virtual void do_work() override
+		{
+			this->write_code();
+		}
+	};
+	
+	class database_admin : public worker, public IDevelop
+	{
+	public:
+		database_admin() = delete;
+		database_admin(const char* n) : worker(n, "DBA") {};
+		void write_code()
+		{
+			cout << "Writing SQL ..." << endl;
+		}
+		virtual void do_work() override
+		{
+			this->write_code();
+		}
+	};
+	int main(int argc, const char* argv[])
+	{
+		project_manager pm("Agnes");
+		/*pm.add_team_member(new worker("Bill", "Developer"));
+		pm.add_team_member(new worker("Chris", "Developer"));
+		pm.add_team_member(new worker("Dave", "Developer"));
+		pm.add_team_member(new worker("Edith", "DBA"));*/
+		pm.add_team_member(new cpp_developer("Bill"));
+		pm.add_team_member(new cpp_developer("Chris"));
+		pm.add_team_member(new cpp_developer("Dave"));
+		pm.add_team_member(new database_admin("Edith"));
+		print_team(&pm);
+		return 0;
+	}
