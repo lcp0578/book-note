@@ -6,3 +6,4 @@
 - [第5章 函数](chapter5.md)
 - [第6章 类](chapter6.md)
 - [第7章 面向对象编程简介](chapter7.md)
+- [第8章 标准库容器](chapter8.md)
