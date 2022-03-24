@@ -222,6 +222,20 @@
 	
 	#define interface struct
 	
+	interface IWork; //前向说明
+	
+	interface ISerializer 
+	{
+		virtual void write_string(const string& line) = 0;
+		virtual void write_worker(IWork* worker) = 0;
+		virtual void write_workers(const vector<unique_ptr<IWork>>& workers) = 0;
+	};
+	
+	interface ISerializable 
+	{
+		virtual void serialize(ISerializer *stm) = 0;
+	};
+	
 	interface IWork
 	{
 		virtual const char* get_name() = 0;
@@ -229,9 +243,45 @@
 		virtual void do_work() = 0;
 	};
 	
+	class file_writer : public ISerializer
+	{
+		ofstream stm;
+	public:
+		file_writer() = delete;
+		file_writer(const char* file) { stm.open(file, ios::out); }
+		~file_writer() { close(); }
+		void close() { stm.close(); }
+		virtual void write_worker(IWork* worker) override
+		{
+			ISerializable* object = dynamic_cast<ISerializable*>(worker);
+			if (object != nullptr)
+			{
+				ISerializer* serializer = dynamic_cast<ISerializer*>(this);
+				serializer->write_string(typeid(*worker).raw_name());
+				object->serialize(serializer);
+			}
+		}
+	
+		virtual void write_workers(const vector<unique_ptr<IWork>>& workers) override
+		{
+			write_string("[[");
+			for (const unique_ptr<IWork>& member : workers)
+			{
+				write_worker(member.get());
+			}
+			write_string("]]");
+		}
+	
+		virtual void write_string(const string& line) override
+		{
+			stm << line << endl;
+		}
+	};
+	
+	
 	interface IManage
 	{
-		virtual const vector<shared_ptr<IWork>>& get_team() = 0;
+		virtual const vector<unique_ptr<IWork>>& get_team() = 0;
 		virtual void manage_team() = 0;
 	};
 	
@@ -240,7 +290,7 @@
 		virtual void write_code() = 0;
 	};
 	
-	class worker : public IWork
+	class worker : public IWork, public ISerializable
 	{
 		string name;
 		string position;
@@ -263,15 +313,21 @@
 		{
 			cout << "worker do_work" << endl;
 		}
+	
+		virtual void serialize(ISerializer* stm) override
+		{
+			stm->write_string(name);
+			stm->write_string(position);
+		}
 	};
 	
 	class manager : public worker, public IManage
 	{
-		vector<shared_ptr<IWork>> team;
+		vector<unique_ptr<IWork>> team;
 	public:
 		manager() = delete;
 		manager(const char* n, const char* p) : worker(n, p) {}
-		const vector<shared_ptr<IWork>>& get_team()
+		const vector<unique_ptr<IWork>>& get_team()
 		{
 			return team;
 		}
@@ -281,11 +337,17 @@
 		}
 		void add_team_member(IWork* worker)
 		{
-			team.push_back(shared_ptr<IWork>(worker));
+			team.push_back(unique_ptr<IWork>(worker));
 		}
 		virtual void do_work() override
 		{
 			this->manage_team();
+		}
+	
+		virtual void serialize(ISerializer* stm) override
+		{
+			worker::serialize(stm);
+			stm->write_workers(this->team);
 		}
 	};
 	
@@ -298,6 +360,11 @@
 		{
 			cout << "manages team of developers" << endl;
 		}
+	
+		virtual void serialize(ISerializer* stm) override
+		{
+			manager::serialize(stm);
+		}
 	};
 	
 	void print_team(IWork* mgr)
@@ -307,9 +374,10 @@
 		if (manager != nullptr)
 		{
 			cout << " manage a team of:" << endl;
-			for (auto team_member : manager->get_team())
+			const vector<unique_ptr<IWork>>& team = manager->get_team();
+			for (unsigned idx = 0; idx < team.size(); ++idx)
 			{
-				cout << team_member->get_name() << " " << team_member->get_position() << endl;
+				cout << team[idx]->get_name() << " " << team[idx]->get_position() << endl;
 			}
 		}
 		else
@@ -331,6 +399,11 @@
 		{
 			this->write_code();
 		}
+	
+		virtual void serialize(ISerializer* stm) override
+		{
+			worker::serialize(stm);
+		}
 	};
 	
 	class database_admin : public worker, public IDevelop
@@ -346,18 +419,57 @@
 		{
 			this->write_code();
 		}
+		virtual void serialize(ISerializer* stm) override
+		{
+			worker::serialize(stm);
+		}
 	};
-	int main(int argc, const char* argv[])
+	
+	void serialize(const char* file)
 	{
 		project_manager pm("Agnes");
-		/*pm.add_team_member(new worker("Bill", "Developer"));
-		pm.add_team_member(new worker("Chris", "Developer"));
-		pm.add_team_member(new worker("Dave", "Developer"));
-		pm.add_team_member(new worker("Edith", "DBA"));*/
 		pm.add_team_member(new cpp_developer("Bill"));
 		pm.add_team_member(new cpp_developer("Chris"));
 		pm.add_team_member(new cpp_developer("Dave"));
 		pm.add_team_member(new database_admin("Edith"));
 		print_team(&pm);
+	
+		cout << endl << "writing to " << file << endl;
+	
+		file_writer writer(file);
+		ISerializer *ser = dynamic_cast<ISerializer*>(&writer);
+		ser->write_worker(&pm);
+	
+	}
+	
+	void usage()
+	{
+		cout << "Usage: team_builder file [r|w]" << endl;
+	}
+	int main(int argc, const char* argv[])
+	{
+		//project_manager pm("Agnes");
+		///*pm.add_team_member(new worker("Bill", "Developer"));
+		//pm.add_team_member(new worker("Chris", "Developer"));
+		//pm.add_team_member(new worker("Dave", "Developer"));
+		//pm.add_team_member(new worker("Edith", "DBA"));*/
+		//pm.add_team_member(new cpp_developer("Bill"));
+		//pm.add_team_member(new cpp_developer("Chris"));
+		//pm.add_team_member(new cpp_developer("Dave"));
+		//pm.add_team_member(new database_admin("Edith"));
+		//print_team(&pm);
+	
+		if (argc < 2)
+		{
+			usage();
+			return 0;
+		}
+	
+		bool write = true;
+		const char* file = argv[1];
+		if (argc > 2) write = (argv[2][0] == 'w');
+	
+		cout << (write ? "Write " : "Read ") << file << endl << endl;
+		if (write) serialize(file);
 		return 0;
 	}
