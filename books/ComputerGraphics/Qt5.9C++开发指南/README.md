@@ -5,4 +5,5 @@
 - [第4章 常用界面设计组件](chapter4.md)
 - [第5章 Model/View结构](chapter5.md)
 - [第6章 对话框与多窗体设计](chapter6.md)
-- [第7张 文件系统和文件读写](chapter7.md)
+- [第7章 文件系统和文件读写](chapter7.md)
+- [第8章 绘图](chapter8.md)
