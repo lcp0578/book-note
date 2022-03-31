@@ -7,3 +7,4 @@
 - [第6章 对话框与多窗体设计](chapter6.md)
 - [第7章 文件系统和文件读写](chapter7.md)
 - [第8章 绘图](chapter8.md)
+- [第9章 Qt Charts](chapter9.md)
