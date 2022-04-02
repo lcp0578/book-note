@@ -1,0 +1,22 @@
+## 第14章 网络编程
+### 主机信息查询
+- `QHostInfo`和`QNetworkInterface`类，查询MAC地址、IP、DNS等信息。
+### TCP通信
+- `QTcpServer`是从`QObject`继承的类，它主要用于服务器端建立网络监听，创建网络`Socket`连接。
+- `QTcpSocket`是从`QIODevice`间接继承的类，所以具有流读写的功能。
+	- `QIODevice`
+		- `QAbstractSocket`
+			- `QTcpSocket`
+				- `QSctpSocket`
+				- `QSslSocket`
+			- `QUdpSocket`
+### `QUdpSocket`实现UDP通信
+- UDP消息传播模式
+	- 单播(unicast)
+	- 广播(broadcast)
+	- 组播(multicast)
+### 基于HTTP协议的网络应用程序
+- `QNetworkRequest`类通过一个URL地址发起网络协议请求，也保存网络请求的信息，目前支持HTTP、FTP和局部文件URLs的下载或上传。
+- `QNetworkAccessManager`类用于协调网络操作。在`QNetworkRequest`发起一个网络请求后，`QNetworkAccessManager`类负责发送网络请求，创建网络响应。
+- `QNetworkReply`类表示网络请求的响应，由`QNetworkAccessManager`在发送一个网络请求后创建一个网络响应。`QNetworkReply`提供的信号`finished()`、`readyRead()`和`downloadProcess()`可以监测网络相应的执行情况，执行相应操作。
+- `QNetworkReply`是`QIODevice`的子类，所以`QNetworkReply`支持流读写功能，也支持异步或同步工作模式。
