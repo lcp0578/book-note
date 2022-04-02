@@ -10,3 +10,4 @@
 - [第9章 Qt Charts](chapter9.md)
 - [第10章 Data Visualization](chapter10.md)
 - [第11章 数据库](chapter11.md)
+- [第12章 自定义插件和库](chapter12.md)
