@@ -1,0 +1,18 @@
+## 第4章 表达式
+- 基本概念
+	- 一元运算符(unary operator)
+	- 二元运算符(binary operator)
+	- 组合运算符和运算对象
+		- 优先级(precedence)
+		- 结合律(associativity)
+		- 运算对象的求值顺序(order of evaluation)
+	- 左值和右值
+	- 成员访问运算符
+		- `ptr->mem` 等价于 `(*ptr).mem`
+- 类型转换
+	- 命名的强制类型转换, `cast-name<type>(expression)`
+		- `static_cast` 任何具有明确定义的类型转换，只要不包含底层`const`
+		- `const_cast`只能改变运算对象的底层`const`
+		- `dynamic_cast` 运行时类型识别
+		- `reinterpret_cast` 通常为运算对象的位模式提供较低层次上的重新解释。
+	- `reinterpret_cast`本质上依赖于机器。要想安全地使用`reinterpret_cast`必须对涉及的类型和编译器实现转换的过程都非常了解。
