@@ -1,0 +1,39 @@
+## 第5章 语句
+- 语句作用域
+- 条件语句
+	- `if` 语句
+	- `switch` 语句
+		- `case`标签必须是整型常量表达式
+- 迭代语句
+	- `while` 语句
+	- 传统的 `for` 语句
+	- 范围 `for` 语句
+	- `do while` 语句
+- 跳转语句
+	- `break` 语句
+	- `continue` 语句
+	- `goto` 语句
+- `try` 语句块和异常处理
+	- `throw` 表达式(throw expression),异常检测部分使用`throw`表达式来表示它遇到了无法处理的问题。我们说`throw`引发(raise)了异常。
+	- `try` 语句块(try block),异常处理部分使用`try`语句块以关键字`try`开始，并以一个或多个`catch`子句(catch clause)结束。`try`语句块中代码抛出的异常通常会被某个`catch`子句处理。因为`catch`子句“处理”异常，所以它们也被称作异常处理代码(exception handler)。
+		- 如果一段程序没有`try`语句块或者没找到任何匹配的`catch`子句，且发生了异常，系统会调用`terminate`的标准库函数，并终止当前程序的执行。导致程序非正常退出。
+	- 一套异常类(exception class)，用于在`throw`表达式和相关的`catch`子句之间传递异常的具体信息。
+- 标准异常
+	- `exception` 头文件定义了最通用的异常类`exception`。它只报告异常的发生，不提供任何额外信息。
+	- `stdexcept` 头文件定义了集中常用的异常类
+		- `exception` 最常见的问题
+		- `runtime_error` 只有在运行时才能检测出的问题
+			- `range_error` 运行时错误：生成的结果超出了有意义的值域范围
+			- `overflow_error` 运行时错误：计算上溢
+			- `underflow_error` 运行时错误：计算下溢
+		- `logic_error` 程序逻辑错误
+			- `domain_error` 逻辑错误：参数对应的结果值不存在
+			- `invalid_argument` 逻辑错误：无效参数
+			- `length_error` 逻辑错误：视图创建一个超出该类型最大长度的对象
+			- `out_of_range` 逻辑错误：使用一个超出有效范围的值
+	- `new`头文件定义了`bad_alloc`异常类型
+	- `type_info`头文件定义了`bad_cast`异常类型
+- 标准库异常类只定义了几种运算，包括创建或拷贝异常类型的对象，以及为异常类型的对象赋值。
+	- 我们只能以默认初始化的方式初始化`exception`、`bad_alloc`和`bad_cast`对象，不允许为这些对象提供初始值。
+	- 其他异常类型的行为恰好相反：应该使用`string`对象或者C风格字符串初始化这些类型的对象，但是不允许使用默认初始化的方式。当创建此类对象时，必须提供初始值，该初始值含有错误相关的信息。
+- 异常类型只定义了一个名为`what`的成员函数，该函数没有任何参数，返回值是一个指向C风格字符串的`const char*`。该字符串的目的是提供关于异常的一些文本信息。

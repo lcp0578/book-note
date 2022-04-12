@@ -4,6 +4,7 @@
 - [第2章 变量和基本类型](chapter2.md)
 - [第3章 字符串、向量和数组](chapter3.md)
 - [第4章 表达式](chapter4.md)
+- [第5章 语句](chapter5.md)
 - [第6章 函数](chapter6.md)
 - [第7章 类](chapter7.md)
 #### 第Ⅱ部分 C++标准库
