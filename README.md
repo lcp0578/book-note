@@ -13,6 +13,8 @@
 - [水文情报预报](books/Water/水文情报预报/README.md)
 - [生态水文学](books/Water/生态水文学/README.md)
 - [水文现代化体系建设与实践](books/Water/水文现代化体系建设与实践/README.md)
+- [水文径流数据随机时空插值方法](books/Water/水文径流数据随机时空插值方法/README.md)
+- [水文学(第二版)](books/Water/水文学/README.md)
 ### mathematics
 - [程序员数学](books/mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
