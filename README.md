@@ -29,6 +29,9 @@
 - [数学女孩2费马大定理](books/mathematics/数学女孩2费马大定理/README.md)
 - [数学女孩3哥德尔不完备定理](books/mathematics/数学女孩3哥德尔不完备定理/README.md)
 - [数学女孩4随机算法](books/mathematics/数学女孩4随机算法/README.md)
+### 计算机技术与软件专业技术资格(水平)考试
+- [系统分析师考试全程指导](books/ruankao/系统分析师考试全程指导/README.md)
+- [系统分析师2014至2019年试题分析与解答](books/ruankao/系统分析师2014至2019年试题分析与解答/README.md)
 ### PHP
 - [深入PHP面向对象、模式与实践(第3版)](books/php/深入PHP面向对象、模式与实践(第3版)/README.md)
 - [PHP编程实战](books/php/PHP编程实战/README.md)
