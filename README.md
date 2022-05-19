@@ -421,6 +421,10 @@
 - [OpenResty从入门到实战](books/geektime/OpenResty从入门到实战/README.md)
 - [Vue开发实战](books/geektime/Vue开发实战/README.md)
 - [一个草根创业者的40岁人生复盘](books/geektime/一个草根创业者的40岁人生复盘/README.md)
+- [超级访谈：对话张雪峰](books/geektime/超级访谈对话张雪峰/README.md)
+- [Tony Bai Go语言第一课](books/geektime/Go语言第一课/README.md)
+- [RPC实战与核心原理](books/geektime/RPC实战与核心原理/README.md)
+- [罗剑锋的C++实战笔记](books/geektime/罗剑锋的C++实战笔记/README.md)
 ### 吴军作品集
 - [态度](books/wujun/态度/README.md)
 - [见识](books/wujun/见识/README.md)

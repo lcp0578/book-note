@@ -32,3 +32,7 @@
 - [OpenResty从入门到实战](OpenResty从入门到实战/README.md)
 - [Vue开发实战](Vue开发实战/README.md)
 - [一个草根创业者的40岁人生复盘](一个草根创业者的40岁人生复盘/README.md)
+- [超级访谈：对话张雪峰](超级访谈对话张雪峰/README.md)
+- [Tony Bai Go语言第一课](Go语言第一课/README.md)
+- [RPC实战与核心原理](RPC实战与核心原理/README.md)
+- [罗剑锋的C++实战笔记](罗剑锋的C++实战笔记/README.md)
