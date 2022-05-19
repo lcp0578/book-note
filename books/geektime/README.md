@@ -31,3 +31,4 @@
 - [NLP实战高手课](NLP实战高手课/README.md)
 - [OpenResty从入门到实战](OpenResty从入门到实战/README.md)
 - [Vue开发实战](Vue开发实战/README.md)
+- [一个草根创业者的40岁人生复盘](一个草根创业者的40岁人生复盘/README.md)

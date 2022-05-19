@@ -420,6 +420,7 @@
 - [NLP实战高手课](books/geektime/NLP实战高手课/README.md)
 - [OpenResty从入门到实战](books/geektime/OpenResty从入门到实战/README.md)
 - [Vue开发实战](books/geektime/Vue开发实战/README.md)
+- [一个草根创业者的40岁人生复盘](books/geektime/一个草根创业者的40岁人生复盘/README.md)
 ### 吴军作品集
 - [态度](books/wujun/态度/README.md)
 - [见识](books/wujun/见识/README.md)
