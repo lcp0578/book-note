@@ -17,6 +17,12 @@
 - [水文学(第二版)](books/Water/水文学/README.md)
 - [水文计算手册](books/Water/水文计算手册/README.md)
 - [水文计算手册编制说明](books/Water/水文计算手册编制说明/README.md)
+- [流域水文学](books/Water/流域水文学/README.md)
+- [水文气象学](books/Water/水文气象学/README.md)
+- [水文水利计算](books/Water/水文水利计算/README.md)
+- [水文统计学](books/Water/水文统计学/README.md)
+- [水文学原理](books/Water/水文学原理/README.md)
+- [水文预报](books/Water/水文预报/README.md)
 ### mathematics
 - [程序员数学](books/mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
