@@ -1,1 +1,13 @@
 ## Python深度学习实战 基于TensorFlow和Keras的聊天机器人以及人脸、物体和语音识别
+- 第1章 TensorFlow基础
+- 第2章 理解并运用Keras
+- 第3章 多层感知机
+- 第4章 TensorFlow中的回归到MLP
+- 第5章 Keras中的回归到MLP
+- 第6章 卷积神经网络
+- 第7章 TensorFlow中的CNN
+- 第8章 Keras中的CNN
+- 第9章 RNN与LSTM
+- 第10章 语音-文本转换及其逆过程
+- 第11章 创建聊天机器人
+- 第12章 人脸检测与识别
