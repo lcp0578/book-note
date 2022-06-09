@@ -7,3 +7,4 @@
 - [第4章 变换向量和图形](chapter4.md)
 - [第5章 使用矩阵计算变换](chapter5.md)
 - [第6章 高维泛化](chapter6.md)
+- [第7章 求解线性方程组](chapter7.md)
