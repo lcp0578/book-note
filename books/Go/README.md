@@ -18,3 +18,5 @@
 - [Go语言高级编程](Go语言高级编程/README.md)
 - [Go语言编程之旅](Go语言编程之旅/README.md)
 - [Go语言设计与实现](Go语言设计与实现/README.md)
+- [Go语言精进之路1](Go语言精进之路1/README.md)
+- [Go语言精进之路2](Go语言精进之路2/README.md)

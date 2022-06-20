@@ -182,6 +182,8 @@
 - [Go语言高级编程](books/Go/Go语言高级编程/README.md)
 - [Go语言编程之旅](books/Go/Go语言编程之旅/README.md)
 - [Go语言设计与实现](books/Go/Go语言设计与实现/README.md)
+- [Go语言精进之路1](books/Go/Go语言精进之路1/README.md)
+- [Go语言精进之路2](books/Go/Go语言精进之路2/README.md)
 ### 区块链
 - [区块链+ 智能社会进阶与场景应用](books/blockchain/区块链智能社会进阶与场景应用/README.md)
 - [区块链技术及应用](books/blockchain/区块链技术及应用/README.md)
