@@ -16,3 +16,4 @@
 - [飞桨PaddlePaddle深度学习实战](飞桨PaddlePaddle深度学习实战/README.md)
 - [机器学习-周志华](机器学习周志华/README.md)
 - [机器学习公式详解](机器学习公式详解/README.md)
+- [强化学习教程](强化学习教程/README.md)
