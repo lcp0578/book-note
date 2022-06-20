@@ -15,3 +15,4 @@
 - [神经网络与深度学习](神经网络与深度学习/README.md)
 - [飞桨PaddlePaddle深度学习实战](飞桨PaddlePaddle深度学习实战/README.md)
 - [机器学习-周志华](机器学习周志华/README.md)
+- [机器学习公式详解](机器学习公式详解/README.md)

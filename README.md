@@ -257,6 +257,7 @@
 - [神经网络与深度学习](books/machine-learning/神经网络与深度学习/README.md)
 - [飞桨PaddlePaddle深度学习实战](books/machine-learning/飞桨PaddlePaddle深度学习实战/README.md)
 - [机器学习-周志华](books/machine-learning/机器学习周志华/README.md)
+- [机器学习公式详解](books/machine-learning/机器学习公式详解/README.md)
 ### Big Data 大数据
 - [大数据 互联网大规模数据挖掘与分布式处理](books/BigData/大数据互联网大规模数据挖掘与分布式处理/README.md)
 - [数据挖掘概念与技术](books/BigData/数据挖掘概念与技术/README.md)
