@@ -23,6 +23,7 @@
 - [水文统计学](books/Water/水文统计学/README.md)
 - [水文学原理](books/Water/水文学原理/README.md)
 - [水文预报](books/Water/水文预报/README.md)
+- [水力学数学模型](books/Water/水力学数学模型/README.md)
 ### mathematics
 - [程序员数学](books/mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
