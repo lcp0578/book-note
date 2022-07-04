@@ -18,12 +18,26 @@
 	- Qt提供一个`Q_PROPERTY()`宏可以定义属性，它也是基于元对象系统实现的。
 	- 宏`Q_CLASSINFO()`可以为类的元对象定义附加信息。
 - 信号与槽
+	- 在槽函数里，使用`QObject::sender()` 可以获取信号发射者的指针。如果知道信号发射者的类型，可以将指针投射为确定的类型，然后使用这个确定类的接口函数。
 ### Qt全局定义
 - `<QtGlobal>`头文件包含了Qt类库的一些全局定义，包括基本数据类型、函数和宏，一般的Qt类的头文件都会包含该文件，所以不用显示包含这个头文件也可以使用其中的定义。
 - 数据类型定义
 	- 为了确保在各个平台上各数据类型都有统一确定的长度，Qt为各种常见数据类型定义了类型符号。
 - 函数
 - 宏定义
+	- `QT_VERSION`这个宏展开为数值形式0xMMNNPP(MM = major, NN = minor, PP = patch)表示Qt编译器ibanben，例如Qt编译器版本为Qt 5.9.1，则`QT_VERSION`为0x050901。
+	- `QT_VERSION_CHECK` 这个宏展开为Qt版本号的一个整数表示，例如
+
+			if(QT_VERSION >= QT_VERSIOB_CHECK(5, 0, 0))
+	- `QT_VERSIOB_STR` 这个宏展开为Qt版本号的字符串
+	- `QT_BYTE_ORDER`、`QT_BIG_ENDIAN`、`QT_LITTLE_ENDIAN`字节序
+	- `Q_DECL_IMPORT`和`Q_DECL_EXPORT` 在使用或设计共享库时，用于导入或导出库的内容
+	- `Q_DECL_OVERRIDE`在类定义中，用于重载一个虚函数。
+	- `Q_DECL_FINAL`这个宏讲一个虚函数定于为最终级别。不能被重载，或定义一个类不能再被继承。
+	- `Q_UNUSED(name)` 用于在函数中定义不在函数体里使用的参数。
+	- `foreach(variable, container)` 用于容器类的遍历
+	- `forever` 用于构造一个无限循环
+	- `qDebug(const char *message, ...)` 在debugger窗体显示信息，如果编译器设置了`Qt_NO_DEBUG_OUTPUT`，则不作任何输出。
 ### 容器类
 - 顺序容器类
 	- `QList`
