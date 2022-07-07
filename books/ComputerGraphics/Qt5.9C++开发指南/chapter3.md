@@ -34,7 +34,7 @@
 	- `Q_DECL_IMPORT`和`Q_DECL_EXPORT` 在使用或设计共享库时，用于导入或导出库的内容
 	- `Q_DECL_OVERRIDE`在类定义中，用于重载一个虚函数。
 	- `Q_DECL_FINAL`这个宏讲一个虚函数定于为最终级别。不能被重载，或定义一个类不能再被继承。
-	- `Q_UNUSED(name)` 用于在函数中定义不在函数体里使用的参数。
+	- `Q_UNUSED(name)` 在函数中定义但不在函数体里使用的参数，使用其避免编译器警告。
 	- `foreach(variable, container)` 用于容器类的遍历
 	- `forever` 用于构造一个无限循环
 	- `qDebug(const char *message, ...)` 在debugger窗体显示信息，如果编译器设置了`Qt_NO_DEBUG_OUTPUT`，则不作任何输出。
