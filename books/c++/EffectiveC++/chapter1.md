@@ -36,3 +36,45 @@
 		std::vector<int>::const_iterator cIter = vec.begin();
 		*cIter = 10;  //错误！*cIter是const
 		++cIter;  //没问题，改变cIter
+- 令函数返回一个常量值，往往可以降低因客户错误而造成的意外，而又不至于放弃安全性和高效性。
+- 将某些东西声明为const可帮助编译器侦测出错误用法。const可以被施加于任何作用域内的对象、函数参数、函数返回类型、成员函数本体。
+- 编译器强制实施bitwise constness,但你编写程序时应该使用“概念上的常量性”(conceptual constness)。
+- 当const和non-const成员函数有着实质等价的实现时，令non-const版本调用const版本可避免代码重复。
+
+### 条款04：确定对象被使用前已先被初始化(Make sure that objects are initalized before they're used)
+- 永远在使用对象之前先将它初始化。对于无任何成员的内置类型，你必须手工完成此事。
+- 至于内置类型以外的任何其他东西，初始化责任落在构造函数(constructors)身上。规则很简单：确保每一个构造函数都将对象的每一个成员初始化。
+- 这个规则很容易奉行，重要的是别混淆了赋值(assignment)和初始化(initialization)。
+
+		class PhoneNumber { ... }
+		class ABEntry {
+		public:
+			ABEntry(const std:string& name, const std:string& address, const std::list<PhoneNumber>& phones);
+		private:
+			std::string theName;
+			std::string theAddress;
+			std::list<PhoneNumber> thePhones;
+			int numTimesConsulted;
+		};
+		ABEntry::ABEntry(const std::string& name, const std::string& address, const std::list<PhoneNumber>& phones)
+		{
+			theName = name; //这些都是赋值(assignments)而非初始化(initializations)
+			theAddress = address;
+			thePhones = phones;
+			numTimesConsulted = 0;
+		}
+- ABEntry构造函数的一个较佳写法是，使用所谓的member initialization list(成员初值列)替换赋值动作：
+
+		ABEntry(const std:string& name, const std:string& address, const std::list<PhoneNumber>& phones) : theName(name), theAddress(address), thePhones(phones), numTimesConsulted(0) //现在，这些都是初始化(initialization)
+		{} //现在，构造函数本体不必有任何动作
+- 这个构造函数和上一个的最终结果相同，但通常效率较高。基于赋值的那个版本首先调用default构造函数为theName、theAddress和thePhones设初值，然后立刻再对它们赋予新值。
+- C++有着十分固定的“成员初始化次序”。是的，次序总是相同：base classes更早于其derived class被初始化，而class的成员变量总是一起声明次序被初始化。
+- 既然这样，为避免在对象初始化之前过早地使用它们，你需要做三件事。
+	- 第一,手工初始化内置型non-member对象
+	- 第二，使用成员初值列(member initialization lists)对付对象的所有成分。
+	- 最后，在“初始化次序不确定性”（这对不同编译单元所定义的non-local static对象是一种折磨）氛围下加强你的设计。
+- 请记住
+	- 为内置型对象进行手工初始化，因为C++不保证初始化它们。
+	- 构造函数最好使用成员初值列(member initialization list)，而不要在构造函数本体内使用赋值操作(assignment)。初值列列的成员变量，其排列次序应该和它们在class中声明次序相同。
+	- 为免除“跨编译单元之初始化次序”问题，请以local static对象替换non-local static对象。
+
