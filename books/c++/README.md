@@ -13,3 +13,4 @@
 - [C++程序设计原理与实践（进阶篇）](C++程序设计原理与实践进阶篇/README.md)
 - [Linux多线程服务端编程 使用muduo C++网络库](Linux多线程服务端编程/README.md)
 - [C++ Templates 第二版](C++Templates/README.md)
+- [C/C++代码调试的艺术](C_C++代码调试的艺术/README.md)

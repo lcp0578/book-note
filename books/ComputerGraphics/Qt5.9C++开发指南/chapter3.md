@@ -25,7 +25,7 @@
 	- 为了确保在各个平台上各数据类型都有统一确定的长度，Qt为各种常见数据类型定义了类型符号。
 - 函数
 - 宏定义
-	- `QT_VERSION`这个宏展开为数值形式0xMMNNPP(MM = major, NN = minor, PP = patch)表示Qt编译器ibanben，例如Qt编译器版本为Qt 5.9.1，则`QT_VERSION`为0x050901。
+	- `QT_VERSION`这个宏展开为数值形式0xMMNNPP(MM = major, NN = minor, PP = patch)表示Qt编译器版本，例如Qt编译器版本为Qt 5.9.1，则`QT_VERSION`为0x050901。
 	- `QT_VERSION_CHECK` 这个宏展开为Qt版本号的一个整数表示，例如
 
 			if(QT_VERSION >= QT_VERSIOB_CHECK(5, 0, 0))
