@@ -25,3 +25,14 @@
 	- 如果关键字const出现在星号左边，表示被指物是常量
 	- 如果出现在星号右边，表示指针自身是常量
 	- 如果出现在星号两边，表示被指物和指针两者都是常量。
+- STL迭代器系以指针为根据塑模出来，所以迭代器的作用就像个`T*`指针。声明迭代器为`const`就像声明指针为`const`一样(即声明一个`T* const`指针)，表示这个迭代器不得指向不同的东西，但它所指的东西的值是可以改动的。如果你希望迭代器所指的东西不可被改动(即希望STL模拟一个`const T*`的指针)，你需要的是`const_iterator`。
+
+		std::vector<int> vec;
+		...
+		const std::vector<int>::iterator iter = vec.begin();
+		*iter = 10;  //没问题，改变iter所指物
+		++iter;  //错误！iter是const
+		
+		std::vector<int>::const_iterator cIter = vec.begin();
+		*cIter = 10;  //错误！*cIter是const
+		++cIter;  //没问题，改变cIter
