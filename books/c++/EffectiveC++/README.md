@@ -4,3 +4,5 @@
 	- 条款02：尽量以`const`,`enum`,`inline`替换`#define`(Prefer consts,enums,and inlines to #defines)
 	- 条款03：尽可能使用const(Use const whenever possible)
 	- 条款04：确定对象被使用前已先被初始化(Make sure that objects are initalized before they're used)
+- [2 构造/析构/赋值运算(Constructors,Destructors,and Assignment Operators)](chapter2.md)
+	- 条款05：了解C++默默编写并调用哪些函数(Know what functions C++ silently writes and calls)
