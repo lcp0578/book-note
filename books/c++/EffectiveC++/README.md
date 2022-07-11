@@ -6,3 +6,5 @@
 	- 条款04：确定对象被使用前已先被初始化(Make sure that objects are initalized before they're used)
 - [2 构造/析构/赋值运算(Constructors,Destructors,and Assignment Operators)](chapter2.md)
 	- 条款05：了解C++默默编写并调用哪些函数(Know what functions C++ silently writes and calls)
+	- 条款06：若不想使用编译器自动生成的函数，就该明确拒绝(Explicitly disallow the use of complier-generated functions you do not want.)
+	- 条款07: 为多态基类声明virtual析构函数(Declare destructors virtual in polymorphic base classes.)
