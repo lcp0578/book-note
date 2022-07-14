@@ -9,3 +9,5 @@
 	- 条款06：若不想使用编译器自动生成的函数，就该明确拒绝(Explicitly disallow the use of complier-generated functions you do not want.)
 	- 条款07: 为多态基类声明virtual析构函数(Declare destructors virtual in polymorphic base classes.)
 	- 条款08:别让异常逃离析构函数(Prevent exceptions from leaving destructors.)
+	- 条款09：绝不在构造和析构过程中调用virtual函数(Never call virtual functions during construction or destruction.)
+	- 条款10:令operator= 返回一个reference to *this(Have assignment operators return a reference to *this.)

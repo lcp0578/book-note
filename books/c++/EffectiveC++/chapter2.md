@@ -22,3 +22,9 @@
 - 由于base class构造函数的执行更早于derived class构造函数，当base class构造函数执行时derived class的成员变量尚未初始化。
 - 在derived对象的base class构造期间，对象类型是base class而不是derived class。不只virtual函数会被编译器解析至(resolve to)base class，若使用运行期类型信息(runtime type information,例如dynamic_case和typeid)，也会把对象视为base class类型。
 - 在构造和析构期间不要调用virtual函数，因为这类调用从不下降至derived class（比起当前执行构造函数和析构函数的那层）。
+
+### 条款10:令operator= 返回一个reference to *this(Have assignment operators return a reference to *this.)
+- 为了实现“连锁赋值”，赋值操作符必须返回一个reference指向操作符的左侧实参。
+- 令赋值(assignment)操作符返回一个reference to *this.
+
+
