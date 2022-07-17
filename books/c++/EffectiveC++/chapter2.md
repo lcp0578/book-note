@@ -27,4 +27,6 @@
 - 为了实现“连锁赋值”，赋值操作符必须返回一个reference指向操作符的左侧实参。
 - 令赋值(assignment)操作符返回一个reference to *this.
 
+### 条款11：在operator=中处理“自我赋值”(Handle assignment to selft in operator=.)
+
 

@@ -11,3 +11,4 @@
 	- 条款08:别让异常逃离析构函数(Prevent exceptions from leaving destructors.)
 	- 条款09：绝不在构造和析构过程中调用virtual函数(Never call virtual functions during construction or destruction.)
 	- 条款10:令operator= 返回一个reference to *this(Have assignment operators return a reference to *this.)
+	- 条款11：在operator=中处理“自我赋值”(Handle assignment to selft in operator=.)
