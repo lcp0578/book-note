@@ -12,3 +12,6 @@
 	- 条款09：绝不在构造和析构过程中调用virtual函数(Never call virtual functions during construction or destruction.)
 	- 条款10:令operator= 返回一个reference to *this(Have assignment operators return a reference to *this.)
 	- 条款11：在operator=中处理“自我赋值”(Handle assignment to selft in operator=.)
+	- 条款12：复制对象时勿忘其每个成分(Copy all parts of an object.)
+- [3 资源管理(Resource Management)](chapter3.md)
+	- 条款13：以对象管理资源(Use objects to manage resources)

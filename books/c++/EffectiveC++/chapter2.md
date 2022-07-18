@@ -28,5 +28,11 @@
 - 令赋值(assignment)操作符返回一个reference to *this.
 
 ### 条款11：在operator=中处理“自我赋值”(Handle assignment to selft in operator=.)
+- 确保当对象自我赋值时operator=有良好行为。其中技术包括比较“来源对象”和“目标对象”的地址、精心周到的语句顺序、以及copy-and-swap。
+- 确定任何函数如果操作一个以上的对象，而其中多个对象是同一个对象时，其行为仍然正确。
+
+### 条款12：复制对象时勿忘其每个成分(Copy all parts of an object.)
+- Coping函数应该确保复制“对象内的所有成员变量”及“所有base class成分”。
+- 不要尝试以某个copying函数实现另一个copying函数。应该将功能机能放进第三个函数中，并由两个copying函数共同调用。
 
 
