@@ -15,3 +15,5 @@
 	- 条款12：复制对象时勿忘其每个成分(Copy all parts of an object.)
 - [3 资源管理(Resource Management)](chapter3.md)
 	- 条款13：以对象管理资源(Use objects to manage resources)
+	- 条款14：在资源管理类中小心copying行为(Think carefully about copying behavior in resource-managing classes.)
+	- 条款15：在资源管理类中提供对原始资源的访问(Provide access to raw resources in resource-managing classes.)
