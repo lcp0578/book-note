@@ -17,3 +17,16 @@
 - 就像（几乎）所有智能指针一样，`tr1::shared_ptr`和`auto_ptr`也重载了指针取值(point dereferencing)操作符(operator->和operator*)，它们运行隐式转换至底部原始指针。
 - APIs往往要求访问原始资源（raw resources），所以每一个RAII class应该提供一个“取得其所管理之资源”的办法。
 - 对原始资源的访问可能经由显式转换或隐式转换。一般而言显式转换比较安全，但隐式转换对客户比较方便。
+
+### 条款16：成对使用new和delete时要采取相同形式(Use the same form in corresponding uses of new and delete.)
+- 如果你在new表达式中使用`[]`，必须在相应的delete表达式中也是用`[]`。你在new表达式中不使用`[]`，一定不要在相应的delete表达式中使用`[]`。
+- 正确的代码
+
+		std::string* stringPtr1 = new std::string;
+		std::string* stringPtr2 = new std::string[100];
+		...
+		delete stringPtr1; //删除一个对象
+		delete []stringPtr2; //删除一个由对象组成的数组
+
+### 条款17：以独立语句将newed对象置入智能指针(Store newed objects in smart points in standalone statements.)
+- 以独立语句将newed对象存储于（置入）智能指针内。如果不这样做，一旦异常被抛出，有可能导致难以察觉的资源泄露

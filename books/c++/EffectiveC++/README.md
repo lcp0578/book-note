@@ -17,3 +17,5 @@
 	- 条款13：以对象管理资源(Use objects to manage resources)
 	- 条款14：在资源管理类中小心copying行为(Think carefully about copying behavior in resource-managing classes.)
 	- 条款15：在资源管理类中提供对原始资源的访问(Provide access to raw resources in resource-managing classes.)
+	- 条款16：成对使用new和delete时要采取相同形式(Use the same form in corresponding uses of new and delete.)
+	- 条款17：以独立语句将newed对象置入智能指针(Store newed objects in smart points in standalone statements.)
