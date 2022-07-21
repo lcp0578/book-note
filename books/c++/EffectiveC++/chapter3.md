@@ -30,3 +30,10 @@
 
 ### 条款17：以独立语句将newed对象置入智能指针(Store newed objects in smart points in standalone statements.)
 - 以独立语句将newed对象存储于（置入）智能指针内。如果不这样做，一旦异常被抛出，有可能导致难以察觉的资源泄露
+- 示例代码
+
+		processWidget(std::shared_ptr<Widget>(new Widget), priority()); //可能引发资源泄露
+		
+		std::tr1::shared_ptr<Widget> pw(new Widget); //在单独语句内以智能指针存储newed所得对象。
+		processWidget(pw, priority()); //这个调用动作绝不至于造成泄露
+
