@@ -22,3 +22,6 @@
 - [4 设计与声明(Designs and Declarations.)](chapter4.md)
 	- 条款18：让接口容易被正确使用，不易被误用(Make interfaces easy to use correctly and hard to use incorrectly.)
 	- 条款19：设计class犹如设计type (Treat class design as type design.)
+	- 条款20：宁以pass-by-reference-to-const替换pass-by-value(Prefer pass-by-reference-to-const to pass-by-value.)
+	- 条款21：必须返回对象时，别妄想返回其reference(Don't try to return a reference when you must return an object.)
+	- 条款22：将成员变量声明为private(Declare data members private.)

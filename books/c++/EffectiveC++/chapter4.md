@@ -7,3 +7,17 @@
 
 ### 条款19：设计class犹如设计type (Treat class design as type design.)
 - Class的设计就是type的设计。在定义一个新type之前，请确定你已经考虑过本条款涵盖的所有讨论主题。
+
+### 条款20：宁以pass-by-reference-to-const替换pass-by-value(Prefer pass-by-reference-to-const to pass-by-value.)
+- 缺省情况下C++以by value方式（一个继承自C的方式）传递对象值（或来自）函数。除非你另外指定，否则函数参数都是以实际实参的复件（副本）为初值，而调用端所获得的亦是函数返回值的一个复件。这些复件（副本）系有对象的copy构造函数产出，这可能使得pass-by-value成为昂贵的（费时的）操作。
+- 尽量以pass-by-reference-to-const替换pass-by-value。前者通常比较高效，并可避免切割问题（slicing problem）.
+- 以上规则并不适用于内置类型，以及STL的迭代器和函数对象。对它们而言，pass-by-vaule往往比较适当。
+
+### 条款21：必须返回对象时，别妄想返回其reference(Don't try to return a reference when you must return an object.)
+- 绝不要返回pointer或reference指向一个local stack对象，或返回reference指向一个heap-allocated对象，或返回pointer或reference指向一个local static对象而有可能同时需要多个这样的对象。
+- 条款04已经为“在单线程环境中合理返回reference指向一个local static对象”提供了一份设计实例。
+
+### 条款22：将成员变量声明为private(Declare data members private.)
+- 将成员变量隐藏在函数接口的背后，可以为“所有可能的实现”提供弹性。
+- 切记将成员变量声明为private。这可赋予客户访问数据的一致性、可细微划分访问控制、允诺约束条件获得保证，并提供class作者以充分的实现弹性。
+- protected并不比publi更具封装性。
