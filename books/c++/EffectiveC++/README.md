@@ -21,3 +21,4 @@
 	- 条款17：以独立语句将newed对象置入智能指针(Store newed objects in smart points in standalone statements.)
 - [4 设计与声明(Designs and Declarations.)](chapter4.md)
 	- 条款18：让接口容易被正确使用，不易被误用(Make interfaces easy to use correctly and hard to use incorrectly.)
+	- 条款19：设计class犹如设计type (Treat class design as type design.)
