@@ -494,3 +494,4 @@
 - [曾国藩家书](books/other/曾国藩家书/README.md)
 - [500强企业的101个经典管理定律](books/other/500强企业的101个经典管理定律/README.md)
 - [执行力如何带出嗷嗷叫的团队](books/other/执行力如何带出嗷嗷叫的团队/README.md)
+- [我曾走在崩溃的边缘](books/other/我曾走在崩溃的边缘/README.md)
