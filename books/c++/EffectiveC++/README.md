@@ -28,3 +28,6 @@
 	- 条款23：宁以non-member、non-friend替换member函数(Prefer non-member non-friend functions to member functions.)
 	- 条款24：若所有参数皆需要类型转换，请为此采用non-member函数(Declare non-member functions when type conversions should apply to all parameters.)
 	- 条款25：考虑写出一个不抛异常的swap函数(Consider support for an non-throwing swap.)
+- [5 实现(Implementations)](chapter5.md)
+	- 条款26：尽可能延后变量定义式的出现时间(Postpone variable definitions as long as possible.)
+	- 条款27：尽量少做转型动作(Minimize casting.)
