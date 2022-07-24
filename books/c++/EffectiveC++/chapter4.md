@@ -27,3 +27,10 @@
 
 ### 条款24：若所有参数皆需要类型转换，请为此采用non-member函数(Declare non-member functions when type conversions should apply to all parameters.)
 - 如果你需要为某个函数的所有参数（包括被this指针所指的那个银鱼参数）进行类型转换，那么这个函数必须是个non-member。
+
+### 条款25：考虑写出一个不抛异常的swap函数(Consider support for an non-throwing swap.)
+- “以指针指向一个对象，内含真正数据”，这种设计的常见表现形式是所谓的“pimpl手法”(pointer to implementation)
+- 当`std::swap`对你的类型效率不高时，提供一个swap函数，并确定这个函数不抛出异常。
+- 如果你提供一个member swap，也该提供一个non-member swap来调用前者。对于classes（而非templates），也请特化`std::swap`
+- 调用swap时应针对`std::swap`使用`using`声明式，然后调用swap并不带任何“命名空间资格修饰”。
+- 为“用户定义类型”进行std templates全特化是好的，但千万不要尝试在std内加入某些对std而言全新的东西。

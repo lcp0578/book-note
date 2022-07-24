@@ -27,3 +27,4 @@
 	- 条款22：将成员变量声明为private(Declare data members private.)
 	- 条款23：宁以non-member、non-friend替换member函数(Prefer non-member non-friend functions to member functions.)
 	- 条款24：若所有参数皆需要类型转换，请为此采用non-member函数(Declare non-member functions when type conversions should apply to all parameters.)
+	- 条款25：考虑写出一个不抛异常的swap函数(Consider support for an non-throwing swap.)
