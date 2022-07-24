@@ -20,4 +20,10 @@
 ### 条款22：将成员变量声明为private(Declare data members private.)
 - 将成员变量隐藏在函数接口的背后，可以为“所有可能的实现”提供弹性。
 - 切记将成员变量声明为private。这可赋予客户访问数据的一致性、可细微划分访问控制、允诺约束条件获得保证，并提供class作者以充分的实现弹性。
-- protected并不比publi更具封装性。
+- protected并不比public更具封装性。
+
+### 条款23：宁以non-member、non-friend替换member函数(Prefer non-member non-friend functions to member functions.)
+- 宁可拿non-member non-friend函数替换member函数。这样可以增加封装性、包裹弹性(packaging flexibility)和机能补充性。
+
+### 条款24：若所有参数皆需要类型转换，请为此采用non-member函数(Declare non-member functions when type conversions should apply to all parameters.)
+- 如果你需要为某个函数的所有参数（包括被this指针所指的那个银鱼参数）进行类型转换，那么这个函数必须是个non-member。
