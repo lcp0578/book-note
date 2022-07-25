@@ -25,3 +25,16 @@
 - 第一，成员变量的封装性最多只等于“返回其reference”的函数的访问级别。
 - 第二，如果const成员函数传出一个reference，后者所指数据与对象自身有关联，而它又被存储于对象之外，那么这个函数的调用者可以修改那笔数据，这正是bitwise constness的一个附带结果。
 - 避免返回handles（包括reference、指针、迭代器）指向对象内部。遵守这个条款可增加封装性，帮助const成员函数的行为像个const，并将发生“需吊号码牌”（dangling handles）的可能性将至最低。
+
+### 条款29：为“异常安全”而努力是值得的(Strive for exception-safe code.)
+- 当异常被抛出时，带有异常安全性的函数会：
+	- 不泄露任何资源
+	- 不允许数据败坏
+- 异常安全函数(Exception-safe functions)即使发生异常也不会泄露资源或允许任何数据结构败坏。这样的函数区分为三种可能的保证：基本型、强烈型、不抛异常型。
+- “强烈保证”往往能够以copy-and-swap实现出来，但“强烈保证”并非对所有函数都可实现或具备现实意义。
+- 函数提供的“异常安全保证”通常最高值等于其所调用之各个函数的“异常安全保证”中的最弱者。
+
+### 条款30：透彻了解inlining的里里外外(Understand the ins and outs of inlining.)
+- 将大多数inlining限制在小型、被频繁调用的函数身上。这可使日后的调试过程和二进制升级（binary upgradability）更容易，也可使潜在的代码膨胀问题最小化，使程序的速度提升机会最大化。
+- 不要只因为function templates出现在头文件，就将它们声明为inline。
+
