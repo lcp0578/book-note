@@ -31,3 +31,4 @@
 - [5 实现(Implementations)](chapter5.md)
 	- 条款26：尽可能延后变量定义式的出现时间(Postpone variable definitions as long as possible.)
 	- 条款27：尽量少做转型动作(Minimize casting.)
+	- 条款28：避免返回handles指向对象内部成分(Avoid returning "handles" to object internals.)
