@@ -226,7 +226,7 @@
 - [Linux多线程服务端编程 使用muduo C++网络库](books/c++/Linux多线程服务端编程/README.md)
 - [C++ Templates 第二版](books/c++/C++Templates/README.md)
 - [C/C++代码调试的艺术](books/c++/C_C++代码调试的艺术/README.md)
-- [C++并发编程实战（第2版）]((books/c++/C++并发编程实战/README.md)
+- [C++并发编程实战（第2版）](books/c++/C++并发编程实战/README.md)
 ### C#相关
 - [C#入门经典](books/C-Sharp/C-Sharp入门经典/README.md)
 - [C#高级编程](books/C-Sharp/C-Sharp高级编程/README.md)
