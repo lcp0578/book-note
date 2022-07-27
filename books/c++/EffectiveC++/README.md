@@ -34,3 +34,6 @@
 	- 条款28：避免返回handles指向对象内部成分(Avoid returning "handles" to object internals.)
 	- 条款29：为“异常安全”而努力是值得的(Strive for exception-safe code.)
 	- 条款30：透彻了解inlining的里里外外(Understand the ins and outs of inlining.)
+	- 条款31：将文件间的编译依存关系将至最低(Minimize compilation dependencies between files.)
+- [6 继承与面向对象设计(Inheritance and Object-Oriented Design.)](chapter6.md)
+	- 条款32：确定你的public继承塑模出is-a关系(Make sure public inheritance models "is-a".)

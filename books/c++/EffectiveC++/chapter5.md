@@ -38,3 +38,11 @@
 - 将大多数inlining限制在小型、被频繁调用的函数身上。这可使日后的调试过程和二进制升级（binary upgradability）更容易，也可使潜在的代码膨胀问题最小化，使程序的速度提升机会最大化。
 - 不要只因为function templates出现在头文件，就将它们声明为inline。
 
+### 条款31：将文件间的编译依存关系将至最低(Minimize compilation dependencies between files.)
+- 设计策略
+	- 如果使用object reference或object pointers可以完成任务，就不要使用objects。你可以只靠一个类型声明式就定义出指向该类型的references和pointers；但如果定义某类型的objects，就需要用到该类型的定义式。
+	- 如果能够，尽量以class声明式替换class定义式。注意，当你声明一个函数而它用到某个class时，你并不需要该class的定义；纵使函数以by value方式传递该类型的参数（或返回值）亦然。
+	- 为声明式和定义式提供不同的头文件。
+- 支持“编译依存性最小化”的一般构想是：相依与声明式，不要相依于定义式。基于此构想的两个手段是Handle classes和Interface classes。
+- 程序库头文件应该以“完全且仅有声明式”（full and declaration-only forms）的形式存在。这种做法不论是否涉及templates都适用。
+
