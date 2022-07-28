@@ -37,3 +37,4 @@
 	- 条款31：将文件间的编译依存关系将至最低(Minimize compilation dependencies between files.)
 - [6 继承与面向对象设计(Inheritance and Object-Oriented Design.)](chapter6.md)
 	- 条款32：确定你的public继承塑模出is-a关系(Make sure public inheritance models "is-a".)
+	- 条款33：避免遮掩继承而来的名称(Aviod hiding inherited names.)
