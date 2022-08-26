@@ -219,7 +219,7 @@
 - [Essential C++ 中文版](books/c++/EssentialC++/README.md)
 - [Effective C++ -- 改善程序与设计的55个具体做法](books/c++/EffectiveC++/README.md)
 - [More Effective C++ -- 35个改善编程与设计的有效方法](books/c++/MoreEffectiveC++/README.md)
-- [Effective Modern C++ -- 42招独家技巧帮助你改善C++11和C++14的高效用法](EffectiveModernC++/README.md)
+- [Effective Modern C++ -- 42招独家技巧帮助你改善C++11和C++14的高效用法](books/c++/EffectiveModernC++/README.md)
 - [深度探索C++对象模型](books/c++/books/c++/深度探索C++对象模型/README.md)
 - [C++程序设计原理与实践（基础篇）](books/c++/C++程序设计原理与实践基础篇/README.md)
 - [C++程序设计原理与实践（进阶篇）](books/c++/C++程序设计原理与实践进阶篇/README.md)
