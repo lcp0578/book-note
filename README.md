@@ -322,6 +322,8 @@
 ### Node js
 - [深入浅出NodeJS](books/nodejs/深入浅出NodeJS/README.md)
 - [Node.js项目实践 构建可扩展的Web应用](books/nodejs/Node.js项目实践/README.md)
+- [Node.js实战](books/nodejs/Node.js实战/README.md)
+- [Electron实战 -- 入门、进阶与性能优化](books/nodejs/Electron实战/README.md)
 ### symfony
 - [A Year With Symfony](books/symfony/AYearWithSymfony/README.md)
 - [Mastering Symfony](books/symfony/MasteringSymfony/README.md)
