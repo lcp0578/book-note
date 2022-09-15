@@ -5,3 +5,7 @@
 	- 条款3：绝对不要以多态（polymorphically）方式处理数组 (Never treat arrays polmorphically.)
 	- 条款4：非必要不提供default constructors. (Avoid gratuitous default constructors.)
 - [操作符(Operators)](chapter2.md)
+	- 条款5：对定制的“类型转换函数”保持警觉(Be wary of user-defined conversion functions.)
+	- 条款6：区别increment/decrement操作符的前置(prefix)和后置(postfix)形式(Distinguish between prefix and postfix forms of increment and decrement operators.)
+	- 条款7：千万不要重载`&&`，`||`和`,`操作符(Never overload &&, ||, or ,.)
+	- 条款8：了解各种不同意义的`new`和`delete`(Understand the different meanings of new and delete.)
