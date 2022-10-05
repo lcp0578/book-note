@@ -17,3 +17,5 @@
 	- 条款13：以by reference方式捕捉exceptions (Catch exceptions by reference.)
 	- 条款14：明智运用exception specifications (Use exception specifications judiciously.)
 	- 条款15：了解异常处理(exception handling)的成本 (Understand the costs of exception handling.)
+- 效率（Efficiency）
+	- 条款16：谨记80-20法则（Remember the 80-20 rule.）
