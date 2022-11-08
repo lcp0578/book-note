@@ -8,3 +8,4 @@
 - [Python与开源GIS --数据处理、空间分析与地图制图](Python与开源GIS/README.md)
 - [三维数字地球引擎设计](三维数字地球引擎设计/README.md)
 - [PostGIS in Action Third Edition](PostGISinAction/README.md)
+- [osgb倾斜摄影数据标准协议](osgb倾斜摄影数据标准协议/README.md)
