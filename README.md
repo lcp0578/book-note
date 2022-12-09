@@ -81,6 +81,7 @@
 - [你不知道的JavaScript 下卷](books/javascript/你不知道的JavaScript下/README.md)
 - [编写可维护的JavaScript](books/javascript/编写可维护的JavaScript/README.md)
 - [Vue.js实战](books/javascript/Vuejs实战/README.md)
+- [Vue.js设计与实现](books/javascript/Vue.js设计与实现/README.md)
 - [深入浅出webpack](books/javascript/深入浅出webpack/README.md)
 - [深入理解ES6](books/javascript/深入理解ES6/README.md)
 ### MySQL
