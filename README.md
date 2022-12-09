@@ -137,9 +137,6 @@
 ### Computer Graphics 计算机图形学
 - [计算机图形学原理及实践](books/ComputerGraphics/计算机图形学原理及实践/README.md)
 - [计算机图形学(第四版)](books/ComputerGraphics/计算机图形学/README.md)
-- [Qt 5.9 C++开发指南](books/ComputerGraphics/Qt5.9C++开发指南/README.md)
-- [Qt5.12实战](books/ComputerGraphics/Qt5.12实战/README.md)
-- [Python Qt GUI与数据可视化编程](books/ComputerGraphics/PythonQtGUI与数据可视化编程/README.md)
 - [计算机图形学编程（使用OpenGL和C++）](books/ComputerGraphics/计算机图形学编程/README.md)
 - [OpenGL超级宝典(第7版)](books/ComputerGraphics/OpenGL超级宝典/README.md)
 - [OpenGL编程指南(原书第9版)](books/ComputerGraphics/OpenGL编程指南/README.md)
@@ -232,6 +229,10 @@
 - [C++ Templates 第二版](books/c++/C++Templates/README.md)
 - [C/C++代码调试的艺术](books/c++/C_C++代码调试的艺术/README.md)
 - [C++并发编程实战（第2版）](books/c++/C++并发编程实战/README.md)
+### Qt相关
+- [Qt 5.9 C++开发指南](books/Qt/Qt5.9C++开发指南/README.md)
+- [Qt5.12实战](books/Qt/Qt5.12实战/README.md)
+- [Python Qt GUI与数据可视化编程](books/Qt/PythonQtGUI与数据可视化编程/README.md)
 ### C#相关
 - [C#入门经典](books/C-Sharp/C-Sharp入门经典/README.md)
 - [C#高级编程](books/C-Sharp/C-Sharp高级编程/README.md)
