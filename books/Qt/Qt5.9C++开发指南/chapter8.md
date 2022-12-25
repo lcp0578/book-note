@@ -42,4 +42,16 @@
 		- 支持拖放操作；
 		- 支持组合，可以是父子项关系组合，也可以是通过QGraphicsItemGroup类进行组合。
 - Graphics View的坐标系统
+	- Graphics View系统有3个有效的坐标系：
+		- 图形项坐标：图形项使用自己的局部坐标(Item Coordinates)，通常以其中心为(0,0)，也是各种坐标变换的中心。
+		- 视图坐标：视图坐标(View Coordinates)就是窗口界面(widget)的物理坐标，单位是像素。
+		- 场景坐标：场景是所有图形项的基础坐标，场景坐标(Scene Coordinates)描述了每个顶层图形项的位置。
+	- 坐标映射
+		- 在`QGraphicsView`的视口上单击鼠标时，通过函数`QGraphicsView::mapToScene()`可以将视图坐标映射为场景坐标，然后用`QGraphicsScene:itemAt`函数可以获取场景中鼠标光标处的图形项。
 - Graphics View相关的类
+	- 视图类QGraphicsScene
+		- QGraphicsView的视口坐标等于显示设备的物理坐标，但是也可以对QGraphicsView的坐标进行平移、旋转、缩放等变换。
+	- 场景类 QGraphicsScene
+		- QGraphicsScene是用于管理图形项的场景，是图形项的容器，有添加、删除图形项的函数，管理图形项的各种函数。
+	- 图形项类 QGraphicsItem
+		- QGraphicsItem是所有图形项的基类，用户也可以从QGraphicsItem继承定义自己的图形项。 
