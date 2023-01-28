@@ -278,6 +278,7 @@
 - [机器学习公式详解](books/machine-learning/机器学习公式详解/README.md)
 - [强化学习教程](books/machine-learning/强化学习教程/README.md)
 - [演化学习:理论与算法进展](books/machine-learning/演化学习理论与算法进展/README.md)
+- [人工智能：现代方法（第4版）](books/machine-learning/人工智能现代方法/README.md)
 ### Big Data 大数据
 - [大数据 互联网大规模数据挖掘与分布式处理](books/BigData/大数据互联网大规模数据挖掘与分布式处理/README.md)
 - [数据挖掘概念与技术](books/BigData/数据挖掘概念与技术/README.md)
