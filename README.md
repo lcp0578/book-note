@@ -316,9 +316,9 @@
 - [从零开始学架构](books/Code/从零开始学架构/README.md)
 - [推荐系统原理与实践](books/Code/推荐系统原理与实践/README.md)
 ### computer-english
-- 计算机英语
+- [计算机英语](books/computer-english/ComputerEnglish/README.md)
 ### Git
-- Git权威指南
+- [Git权威指南](books/Git/Git权威指南/README.md)
 - [Pro Git](books/Git/ProGit/README.md)
 ### Web安全
 - [白帽子讲web安全](books/WebSecurity/白帽子讲web安全/README.md)
