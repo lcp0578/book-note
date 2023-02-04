@@ -16,3 +16,5 @@
 - [C++ Templates 第二版](C++Templates/README.md)
 - [C/C++代码调试的艺术](C_C++代码调试的艺术/README.md)
 - [C++并发编程实战（第2版）](C++并发编程实战/README.md)
+- [现代C++语言核心特性解析](现代C++语言核心特性解析/README.md)
+- [C++新经典:模板与泛型编程](C++新经典模板与泛型编程/README.md)

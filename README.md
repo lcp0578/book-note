@@ -229,6 +229,8 @@
 - [C++ Templates 第二版](books/c++/C++Templates/README.md)
 - [C/C++代码调试的艺术](books/c++/C_C++代码调试的艺术/README.md)
 - [C++并发编程实战（第2版）](books/c++/C++并发编程实战/README.md)
+- [现代C++语言核心特性解析](books/c++/现代C++语言核心特性解析/README.md)
+- [C++新经典:模板与泛型编程](books/c++/C++新经典模板与泛型编程/README.md)
 ### Qt相关
 - [Qt 5.9 C++开发指南](books/Qt/Qt5.9C++开发指南/README.md)
 - [Qt5.12实战](books/Qt/Qt5.12实战/README.md)
