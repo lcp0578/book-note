@@ -98,6 +98,7 @@
 - [Redis3.0中文版](books/Redis/Redis3.0中文版/README.md)
 - [Redis源码日志](books/Redis/Redis源码日志/README.md)
 - [Redis深度历险 核心原理与深度实践](books/Redis/Redis深度历险/README.md)
+- [Redis开发与运维](books/Redis/Redis开发与运维/README.md)
 ### Mongodb
 - [Mongodb教程](books/Mongodb/Mongodb教程.md)
 ### Nginx
@@ -108,6 +109,7 @@
 - [Linux 私房菜 基础学习篇](books/linux/Linux私房菜服务器架设篇/README.md)
 - [Linux 私房菜 服务器架设篇](books/linux/Linux私房菜基础学习篇/README.md)
 - [Linux命令行与shell脚本编程大全(第2版)](books/linux/Linux命令行与shell脚本编程大全/README.md)
+- [Linux命令行与shell脚本编程大全(第4版)](books/linux/Linux命令行与shell脚本编程大全4/README.md)
 - [Linux Shell脚本攻略](books/linux/LinuxShell脚本攻略/README.md)
 - [Linux工具快速教程](books/linux/Linux工具快速教程/README.md)
 - [Linux程序设计(第4版)](books/linux/Linux程序设计/README.md)
@@ -195,6 +197,7 @@
 - [Go语言设计与实现](books/Go/Go语言设计与实现/README.md)
 - [Go语言精进之路1](books/Go/Go语言精进之路1/README.md)
 - [Go语言精进之路2](books/Go/Go语言精进之路2/README.md)
+- [Go语言学习指南 惯例模式与编程实践](books/Go/Go语言学习指南/README.md)
 ### 区块链
 - [区块链+ 智能社会进阶与场景应用](books/blockchain/区块链智能社会进阶与场景应用/README.md)
 - [区块链技术及应用](books/blockchain/区块链技术及应用/README.md)
@@ -258,6 +261,7 @@
 - [程序员数学 用Python学透线性代数和微积分](books/Python/程序员数学用Python学透线性代数和微积分/README.md)
 - [Pandas数据预处理详解](books/Python/Pandas数据预处理详解/README.md)
 - [NumPy数据处理详解](books/Python/NumPy数据处理详解/README.md)
+- [Python进阶编程 编写更高效、优雅的Python代码](books/Python/Python进阶编程/README.md)
 ### TensorFlow
 - [TensorFlow 技术解析与实战](tensorflow/TensorFlow技术解析与实战/README.md)
 ### machine-learning
@@ -317,6 +321,7 @@
 - [程序员必读之软件架构](books/Code/程序员必读之软件架构/README.md)
 - [从零开始学架构](books/Code/从零开始学架构/README.md)
 - [推荐系统原理与实践](books/Code/推荐系统原理与实践/README.md)
+- [软件开发的201个原则](books/Code/软件开发的201个原则/README.md)
 ### computer-english
 - [计算机英语](books/computer-english/ComputerEnglish/README.md)
 ### Git

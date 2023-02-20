@@ -18,3 +18,4 @@
 - [程序员数学 用Python学透线性代数和微积分](程序员数学用Python学透线性代数和微积分/README.md)
 - [Pandas数据预处理详解](Pandas数据预处理详解/README.md)
 - [NumPy数据处理详解](NumPy数据处理详解/README.md)
+- [Python进阶编程 编写更高效、优雅的Python代码](Python进阶编程/README.md)
