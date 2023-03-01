@@ -2,7 +2,7 @@
 - [第1章 Qt概述](chapter1.md)
 - [第2章 搭建Qt 5.12开发环境](chapter2.md)
 - [第3章 Qt编程基础](chapter3.md)
-- 第4章 Qt对话框程序设计
+- [第4章 Qt对话框程序设计](chapter4.md)
 - 第5章 Qt控件设计
 - 第6章 Qt数据库编程
 - 第7章 Qt调用Windows下的动态链接库
