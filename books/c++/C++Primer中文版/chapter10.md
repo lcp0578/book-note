@@ -16,6 +16,8 @@
 	- `copy`
 	- `replace`
 	- `replace_copy`
+- 重排容器元素的算法
+	- `sort`
 	- `unique`
 #### 定制操作
 - 排序算法
