@@ -14,10 +14,10 @@
 - `pair`类型
 #### 关联容器操作
 
-set<string>::value_type v1;//v1是一个string
-set<string>::key_type v2;//v2是一个string
-map<string, int>::value_tpe v3;//v3是一个pair<const string，int>
-map<string, int>::key_type v4; //v4是一个string
-map<string, int>::mapped_type v5; //v5是一个int
+	set<string>::value_type v1;//v1是一个string
+	set<string>::key_type v2;//v2是一个string
+	map<string, int>::value_tpe v3;//v3是一个pair<const string，int>
+	map<string, int>::key_type v4; //v4是一个string
+	map<string, int>::mapped_type v5; //v5是一个int
 #### 无序容器
 - 如果关键字类型固有就是无序的，或者性能测试发现问题可以用哈希技术解决，就可以使用无序容器。
