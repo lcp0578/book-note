@@ -33,6 +33,7 @@
 - [地下水运动数学模型](books/Water/地下水运动数学模型/README.md)
 - [地下水与土壤水运动数学模型和数值方法](books/Water/地下水与土壤水运动数学模型和数值方法/README.md)
 - [水沙输移数学模型](books/Water/水沙输移数学模型/README.md)
+- [水利数字孪生技术研究与实践](books/Water/水利数字孪生技术研究与实践/README.md)
 ### mathematics
 - [程序员数学](books/mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
