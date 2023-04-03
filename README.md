@@ -34,6 +34,7 @@
 - [地下水与土壤水运动数学模型和数值方法](books/Water/地下水与土壤水运动数学模型和数值方法/README.md)
 - [水沙输移数学模型](books/Water/水沙输移数学模型/README.md)
 - [水利数字孪生技术研究与实践](books/Water/水利数字孪生技术研究与实践/README.md)
+- [数字流域模型](books/Water/数字流域模型README.md)
 ### mathematics
 - [程序员数学](books/mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
@@ -50,6 +51,7 @@
 - [数学女孩3哥德尔不完备定理](books/mathematics/数学女孩3哥德尔不完备定理/README.md)
 - [数学女孩4随机算法](books/mathematics/数学女孩4随机算法/README.md)
 - [刘嘉概率论通识讲义](books/mathematics/刘嘉概率论通识讲义/README.md)
+- [数值计算方法](books/mathematics/数值计算方法/README.md)
 ### WebGL & three.js
 - [Three.js开发指南 基于WebGL和HTML5在网页上渲染3D图形和动画(原书第3版)](books/WebGL/Threejs开发指南/README.md)
 - [计算机图形学入门 3D渲染指南](books/WebGL/计算机图形学入门/README.md)
@@ -242,6 +244,7 @@
 - [C++并发编程实战（第2版）](books/c++/C++并发编程实战/README.md)
 - [现代C++语言核心特性解析](books/c++/现代C++语言核心特性解析/README.md)
 - [C++新经典:模板与泛型编程](books/c++/C++新经典模板与泛型编程/README.md)
+- [C++数值算法(第2版)](books/c++/C++数值算法/README.md)
 ### Qt相关
 - [Qt 5.9 C++开发指南](books/Qt/Qt5.9C++开发指南/README.md)
 - [Qt5.12实战](books/Qt/Qt5.12实战/README.md)
