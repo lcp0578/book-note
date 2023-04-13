@@ -36,6 +36,7 @@
 - [水利数字孪生技术研究与实践](books/Water/水利数字孪生技术研究与实践/README.md)
 - [数字流域模型](books/Water/数字流域模型/README.md)
 - [疏勒河数字孪生流域建设关键技术研究](books/Water/疏勒河数字孪生流域建设关键技术研究/README.md)
+- [数字孪生数据创建平台--MicroStation基础应用](books/Water/数字孪生数据创建平台MicroStation基础应用/README.md)
 ### mathematics
 - [程序员数学](books/mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
