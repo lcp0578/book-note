@@ -30,3 +30,4 @@
 - [数字流域模型](数字流域模型/README.md)
 - [疏勒河数字孪生流域建设关键技术研究](疏勒河数字孪生流域建设关键技术研究/README.md)
 - [数字孪生数据创建平台--MicroStation基础应用](数字孪生数据创建平台MicroStation基础应用/README.md)
+- [水利水电工程BIM实施指南](水利水电工程BIM实施指南/README.md)
