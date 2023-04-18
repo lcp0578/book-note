@@ -403,6 +403,7 @@
 - [三维数字地球引擎设计](books/GIS/三维数字地球引擎设计/README.md)
 - [PostGIS in Action Third Edition](books/GIS/PostGISinAction/README.md)
 - [osgb倾斜摄影数据标准协议](books/GIS/osgb倾斜摄影数据标准协议/README.md)
+- [遥感与图像解译](books/GIS/遥感与图像解译/README.md)
 ### 单片机
 - [51单片机](books/51MCU.md)
 ### 嵌入式
