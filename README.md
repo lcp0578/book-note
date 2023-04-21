@@ -56,6 +56,7 @@
 - [数学女孩4随机算法](books/mathematics/数学女孩4随机算法/README.md)
 - [刘嘉概率论通识讲义](books/mathematics/刘嘉概率论通识讲义/README.md)
 - [数值计算方法](books/mathematics/数值计算方法/README.md)
+- [吴军数学通识讲义](books/mathematics/吴军数学通识讲义/README.md)
 ### WebGL & three.js
 - [Three.js开发指南 基于WebGL和HTML5在网页上渲染3D图形和动画(原书第3版)](books/WebGL/Threejs开发指南/README.md)
 - [计算机图形学入门 3D渲染指南](books/WebGL/计算机图形学入门/README.md)
