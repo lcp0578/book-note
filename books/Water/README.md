@@ -32,3 +32,5 @@
 - [数字孪生数据创建平台--MicroStation基础应用](数字孪生数据创建平台MicroStation基础应用/README.md)
 - [水利水电工程BIM实施指南](水利水电工程BIM实施指南/README.md)
 - [Autodesk Revit 中文版实操实练](AutodeskRevit中文版实操实练/README.md)
+- [河道及近海水流的数值模拟](河道及近海水流的数值模拟/README.md)
+- [水动力学和水质--河流、湖泊及河口数值模拟](水动力学和水质河流湖泊及河口数值模拟/README.md)
