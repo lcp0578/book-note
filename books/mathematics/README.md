@@ -22,3 +22,4 @@
 - [程序员的数学基础--Python实战](程序员的数学基础/README.md)
 - [机器学习线性代数基础--Python语言描述](机器学习线性代数基础/README.md)
 - [数学建模算法与应用](数学建模算法与应用/README.md)
+- [Mathematics for Machine Learning](MathematicsForMachineLearning/README.md)
