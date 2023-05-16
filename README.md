@@ -171,6 +171,7 @@
 - [OpenGL超级宝典(第7版)](books/ComputerGraphics/OpenGL超级宝典/README.md)
 - [OpenGL编程指南(原书第9版)](books/ComputerGraphics/OpenGL编程指南/README.md)
 - [Shader开发实战](books/ComputerGraphics/Shader开发实战/README.md)
+- [Real Time Rendering Fourth Edition](books/ComputerGraphics/RealTimeRenderingFourthEdition/README.md)
 ### Computer Organization 计算机组成原理
 - [计算机组成原理与设计 硬件/软件接口](books/ComputerOrganization/计算机组成原理与设计/README.md)
 - [Computer Organization and Design (Fouth Edition)](books/ComputerOrganization/ComputerOrganizationAndDesign/README.md)
