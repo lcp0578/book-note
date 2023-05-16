@@ -34,3 +34,4 @@
 - [Autodesk Revit 中文版实操实练](AutodeskRevit中文版实操实练/README.md)
 - [河道及近海水流的数值模拟](河道及近海水流的数值模拟/README.md)
 - [水动力学和水质--河流、湖泊及河口数值模拟](水动力学和水质河流湖泊及河口数值模拟/README.md)
+- [OpenFOAM从入门到精通](OpenFOAM从入门到精通/README.md)
