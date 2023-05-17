@@ -23,7 +23,7 @@
 - [水文统计学](books/Water/水文统计学/README.md)
 - [水文学原理](books/Water/水文学原理/README.md)
 - [水文预报](books/Water/水文预报/README.md)
-- [水力学](books/Water/水力学/README.md)
+- [水力学（第3版）](books/Water/水力学/README.md)
 - [水力学数学模型](books/Water/水力学数学模型/README.md)
 - [实用水文统计](books/Water/实用水文统计/README.md)
 - [水文信息采集与处理](books/Water/水文信息采集与处理/README.md)
