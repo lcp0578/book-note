@@ -82,6 +82,10 @@
 ### 计算机技术与软件专业技术资格(水平)考试
 - [系统分析师考试全程指导](books/ruankao/系统分析师考试全程指导/README.md)
 - [系统分析师2014至2019年试题分析与解答](books/ruankao/系统分析师2014至2019年试题分析与解答/README.md)
+- [系统分析师考试--论文试题分类分析与范文](books/ruankao/系统分析师考试论文试题分类分析与范文/README.md)
+- [系统架构设计师2013到2018年试题分析与解答](books/ruankao/系统架构设计师2013到2018年试题分析与解答/README.md)
+- [系统架构设计师教程](books/ruankao/系统架构设计师教程/README.md)
+- [系统架构设计师考试全程指导](books/ruankao/系统架构设计师考试全程指导/README.md)
 ### PHP
 - [深入PHP面向对象、模式与实践(第3版)](books/php/深入PHP面向对象、模式与实践(第3版)/README.md)
 - [PHP编程实战](books/php/PHP编程实战/README.md)
