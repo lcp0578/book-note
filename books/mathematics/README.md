@@ -25,3 +25,4 @@
 - [数学建模算法与应用](数学建模算法与应用/README.md)
 - [Mathematics for Machine Learning](MathematicsForMachineLearning/README.md)
 - [Python数学实验与建模](Python数学实验与建模/README.md)
+- [Python编程与数值方法](Python编程与数值方法/README.md)
