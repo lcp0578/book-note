@@ -1,7 +1,7 @@
 ## Python与开源GIS --数据处理、空间分析与地图制图
 - [第1章 引言](chapter1.md)
 - [第2章 使用GDAL操作栅格数据](chapter2.md)
-- 第3章 使用OGR库操作矢量数据
+- [第3章 使用OGR库操作矢量数据](chapter3.md)
 - 第4章 空间参考与坐标转换
 - 第5章 矢量数据的空间分析：使用Shapely
 - 第6章 使用SpatiaLite空间数据库
