@@ -1,0 +1,12 @@
+## 第2章 数据处理与可视化
+- NumPy 提供了两种基本的对象：ndarray(n-dimensional array object)和ufunc(universal function object)。
+	- ndarray是存储单一数据类型的多维数组。
+	- ufunc则是能够对数组进行处理的通用函数。
+- Pandas(panel data，面板数据)是在NumPy的基础上开发的，是Python最强大的数据分析和探索工具之一
+	- 作为金融数据分析工具而开发
+	- 支持类似于SQL语句的模型
+	- 支持时间序列分析
+	- 该工具库可以帮助数据分析师轻松地解决数据的预处理问题，如数据类型的转换、缺失值的处理、描述性统计分析、数据的汇总等。
+- Matplotlib是Python强大的数据可视化工具库，类似于MATLAB语言。
+	- Matplotlib提供了一整套与MATLAB相似的命令API，十分适合进行交互式制图，而且也可以方便地将它作为绘图控件，嵌入GUI应用程序中。
+- scipy.stats模块包含了多种概率分布的随机变量，随机变量分为连续型和离散型两种。
