@@ -2,7 +2,7 @@
 - [第1章 引言](chapter1.md)
 - [第2章 使用GDAL操作栅格数据](chapter2.md)
 - [第3章 使用OGR库操作矢量数据](chapter3.md)
-- 第4章 空间参考与坐标转换
+- [第4章 空间参考与坐标转换](chapter4.md)
 - 第5章 矢量数据的空间分析：使用Shapely
 - 第6章 使用SpatiaLite空间数据库
 - 第7章 GIS制图：使用Mapnik进行地图制图
