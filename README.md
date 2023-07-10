@@ -304,6 +304,7 @@
 - [Pandas数据预处理详解](books/Python/Pandas数据预处理详解/README.md)
 - [NumPy数据处理详解](books/Python/NumPy数据处理详解/README.md)
 - [Python进阶编程 编写更高效、优雅的Python代码](books/Python/Python进阶编程/README.md)
+- [流畅的Python（第2版）](books/Python/流畅的Python/README.md)
 ### TensorFlow
 - [TensorFlow 技术解析与实战](tensorflow/TensorFlow技术解析与实战/README.md)
 ### machine-learning
