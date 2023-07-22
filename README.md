@@ -47,6 +47,15 @@
 - [洪水风险分析及风险图绘制实例](books/Water/洪水风险分析及风险图绘制实例/README.md)
 - [中小河流洪水预警指标确定与预报技术研究](books/Water/中小河流洪水预警指标确定与预报技术研究/README.md)
 - [自由表面水流数值模拟技术研究](books/Water/自由表面水流数值模拟技术研究/README.md)
+- 全国水文勘测技术培训
+	- [水文学概论](books/Water/全国水文勘测技术培训/水文学概论/README.md)
+	- [水力学基础](books/Water/全国水文勘测技术培训/水力学基础/README.md)
+	- [水文情报预报](books/Water/全国水文勘测技术培训/水文情报预报/README.md)
+	- [水文水资源分析计算](books/Water/全国水文勘测技术培训/水文水资源分析计算/README.md)
+	- [水文测验](books/Water/全国水文勘测技术培训/水文测验/README.md)
+	- [水文测量](books/Water/全国水文勘测技术培训/水文测量/README.md)
+	- [实用水文统计](books/Water/全国水文勘测技术培训/实用水文统计/README.md)
+	- [水文资料整编](books/Water/全国水文勘测技术培训/水文资料整编/README.md)
 ### mathematics
 - [程序员数学](books/mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
