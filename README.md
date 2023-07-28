@@ -56,7 +56,7 @@
 	- [水文测量](books/Water/全国水文勘测技术培训/水文测量/README.md)
 	- [实用水文统计](books/Water/全国水文勘测技术培训/实用水文统计/README.md)
 	- [水文资料整编](books/Water/全国水文勘测技术培训/水文资料整编/README.md)
-- [防洪保护区洪水风险图标志及洪水风险区规划关键技术](books/Water/防洪保护区洪水风险图标志及洪水风险区规划关键技术/README.md)
+- [防洪保护区洪水风险图编制及洪水风险区规划关键技术](books/Water/防洪保护区洪水风险图编制及洪水风险区规划关键技术/README.md)
 - [中小河流溃堤洪水风险分析与预警](books/Water/中小河流溃堤洪水风险分析与预警/README.md)
 ### mathematics
 - [程序员数学](books/mathematics/程序员的数学/README.md)
