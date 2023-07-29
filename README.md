@@ -10,7 +10,6 @@
 - [水文分析与计算](books/Water/水文分析与计算/README.md)
 - [水文模型](books/Water/水文模型/README.md)
 - [水利计算](books/Water/水利计算/README.md)
-- [水文情报预报](books/Water/水文情报预报/README.md)
 - [生态水文学](books/Water/生态水文学/README.md)
 - [水文现代化体系建设与实践](books/Water/水文现代化体系建设与实践/README.md)
 - [水文径流数据随机时空插值方法](books/Water/水文径流数据随机时空插值方法/README.md)
