@@ -502,6 +502,11 @@
 - [Unreal Engine 4从入门到精通](books/UE/UnrealEngine4从入门到精通/README.md)
 - [Unreal Engine 4 游戏开发指南](books/UE/UnrealEngine4游戏开发指南/README.md)
 - [Unreal Engine 4可视化设计：交互可视化、动画与渲染开发艺](books/UE/UnrealEngine4可视化设计/README.md)
+## [注册测绘师](books/cehui/README.md)
+- [测绘综合能力体系和题解(上册)](books/cehui/测绘综合能力体系和题解上册/README.md)
+- [测绘综合能力体系和题解(下册)](books/cehui/测绘综合能力体系和题解下册/README.md)
+- [测绘管理与法律法规系统和题解](books/cehui/测绘管理与法律法规系统和题解/README.md)
+- [测绘案例分析体系和题解](books/cehui/测绘案例分析体系和题解/README.md)
 ### 极客时间课程学习
 ###### 账号176
 - [罗剑锋的C++实战笔记](罗剑锋的C++实战笔记/README.md)
