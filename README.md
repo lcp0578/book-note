@@ -27,7 +27,6 @@
 - [实用水文统计](books/Water/实用水文统计/README.md)
 - [水文信息采集与处理](books/Water/水文信息采集与处理/README.md)
 - [现代水文学](books/Water/现代水文学/README.md)
-- [水文水资源分析计算](books/Water/水文水资源分析计算/README.md)
 - [工程水文学(第5版)](books/Water/工程水文学/README.md)
 - [地下水运动数学模型](books/Water/地下水运动数学模型/README.md)
 - [地下水与土壤水运动数学模型和数值方法](books/Water/地下水与土壤水运动数学模型和数值方法/README.md)
