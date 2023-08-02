@@ -507,6 +507,7 @@
 - [测绘管理与法律法规系统和题解](books/cehui/测绘管理与法律法规系统和题解/README.md)
 - [测绘案例分析体系和题解](books/cehui/测绘案例分析体系和题解/README.md)
 - [测绘管理与法律法规](books/cehui/测绘管理与法律法规/README.md)
+- [测绘技术基础](books/cehui/测绘技术基础/README.md)
 ### 极客时间课程学习
 ###### 账号176
 - [罗剑锋的C++实战笔记](罗剑锋的C++实战笔记/README.md)
