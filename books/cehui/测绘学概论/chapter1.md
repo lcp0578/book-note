@@ -19,6 +19,11 @@
 ####  1.4 测绘学的现代发展
 - 全球卫星导航系统GNSS(Global Navigation Satellite System)
 - 航天遥感技术RS(Remote Sensing)
+- 数字地图制图技术(Digital Cartography)
+- 地理信息系统技术GIS(Geographic Information System)
+- 3S集成技术，即GPS、RS、GIS技术的集成。
+- 卫星重力探测技术(Satellite Gravimetry)
+- 虚拟现实模型技术(Virtual Reality Technology)
 ####  1.5 测绘学的科学地位和作用
 - 1.5.1 在科学研究中的作用
 - 1.5.2 在国民经济建设中的作用
