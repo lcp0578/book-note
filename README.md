@@ -422,6 +422,7 @@
 - [软件工程项目管理：功能点分析方法与实践](books/software/软件工程项目管理功能点分析方法与实践/README.md)
 - [An Elegant Puzzle：Systems of Engineering Management](books/software/AnElegantPuzzle/README.md)
 - [软件工程导论(第6版)](books/software/软件工程导论第6版/README.md)
+- [软件开发与测试文档编写指南](books/software/软件开发与测试文档编写指南/README.md)
 ### Java
 - [Clean Code](books/Java/CleanCode/README.md)
 - [Java技术手册](books/Java/Java技术手册/README.md)
