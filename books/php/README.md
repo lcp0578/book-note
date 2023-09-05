@@ -1,5 +1,4 @@
 ## PHP
-
 - [深入PHP面向对象、模式与实践(第3版)](深入PHP面向对象、模式与实践(第3版)/README.md)
 - [PHP编程实战](PHP编程实战/README.md)
 - [PHP实战](PHP实战/README.md)
@@ -17,3 +16,8 @@
 - [Mastering PHP7](Mastering_PHP_7/README.md)
 - [PHP7 Data Structures and Algorithms](PHP7DataStructuresandAlgorithms/README.md)
 - [PHP安全之道 项目安全的架构、技术与实践](PHP安全之道/README.md)
+- [The Art of Modern PHP 8](TheArtOfModernPHP8/README.md)
+- [PHP 8 Quick Scripting Reference](PHP8QuickScriptingReference/README.md)
+- [PHP 8 Objects, Patterns, and Practice](PHP8ObjectsPatternsAndPractice/README.md)
+- [Learn PHP 8 2nd edition](LearnPHP8/README.md)
+- [Front Line PHP 8](FrontLinePHP/README.md)
