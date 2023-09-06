@@ -120,6 +120,11 @@
 - [Mastering PHP7](books/php/Mastering_PHP_7/README.md)
 - [PHP7 Data Structures and Algorithms](books/php/PHP7DataStructuresandAlgorithms/README.md)
 - [PHP安全之道 项目安全的架构、技术与实践](books/php/PHP安全之道/README.md)
+- [The Art of Modern PHP 8](books/php/TheArtOfModernPHP8/README.md)
+- [PHP 8 Quick Scripting Reference](books/php/PHP8QuickScriptingReference/README.md)
+- [PHP 8 Objects, Patterns, and Practice](books/php/PHP8ObjectsPatternsAndPractice/README.md)
+- [Learn PHP 8 2nd edition](books/php/LearnPHP8/README.md)
+- [Front Line PHP 8](books/php/FrontLinePHP/README.md)
 ### HTML & CSS
 - [HTML5与CSS3设计模式](books/html5css3/HTML5与CSS3设计模式/README.md)
 ### JavaScript
