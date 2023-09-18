@@ -292,6 +292,7 @@
 - [现代C++语言核心特性解析](books/c++/现代C++语言核心特性解析/README.md)
 - [C++新经典:模板与泛型编程](books/c++/C++新经典模板与泛型编程/README.md)
 - [C++数值算法(第2版)](books/c++/C++数值算法/README.md)
+- [C++ Core Guidelines](books/c++/CppCoreGuidelines/README.md)
 ### Qt相关
 - [Qt 5.9 C++开发指南](books/Qt/Qt5.9C++开发指南/README.md)
 - [Qt5.12实战](books/Qt/Qt5.12实战/README.md)

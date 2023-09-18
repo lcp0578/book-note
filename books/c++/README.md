@@ -19,3 +19,4 @@
 - [现代C++语言核心特性解析](现代C++语言核心特性解析/README.md)
 - [C++新经典:模板与泛型编程](C++新经典模板与泛型编程/README.md)
 - [C++数值算法(第2版)](C++数值算法/README.md)
+- [C++ Core Guidelines](CppCoreGuidelines/README.md)
