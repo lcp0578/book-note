@@ -57,6 +57,7 @@
 - [防洪保护区洪水风险图编制及洪水风险区规划关键技术](books/Water/防洪保护区洪水风险图编制及洪水风险区规划关键技术/README.md)
 - [中小河流溃堤洪水风险分析与预警](books/Water/中小河流溃堤洪水风险分析与预警/README.md)
 - [水资源规划及管理](books/Water/水资源规划及管理/README.md)
+- [数字孪生流域50问](books/Water/数字孪生流域50问/README.md)
 ### mathematics
 - [程序员数学](books/mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
