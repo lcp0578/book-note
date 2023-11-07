@@ -215,6 +215,7 @@
 - [数据库系统概念(原书第6版)](books/database/数据库系统概念/README.md)
 - [数据库系统：设计、实现与管理(基础篇)(原书第6版)](books/database/数据库系统：设计、实现与管理/README.md)
 - [数据库系统实现](books/database/数据库系统实现/README.md)
+- [精通Neo4j](books/database/精通Neo4j/README.md)
 ### compiler-theory
 - [编译原理（第2版）](books/compiler-theory/编译原理（第2版）/README.md)
 - [现代编译原理：C语言描述（修订版）](books/compiler-theory/现代编译原理：C语言描述（修订版）/README.md)
