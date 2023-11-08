@@ -31,3 +31,25 @@
 			- Neo4j
 			- OrientDB
 			- Titan
+- 图数据库的应用领域
+	- 社交领域
+	- 知识图谱
+	- 金融风控
+	- 零售领域
+	- 工业制造领域
+	- 电信领域
+	- 机器学习和AI
+	- 健康和医疗领域
+	- 公共安全领域
+- 图数据模型
+	- 属性图（Property Graphs）
+	- 超图（Hypergraphs）
+	- 三元组（Triples）
+- Neo4j概述
+	- Neo4j是一个用Java实现的开源NoSQL图数据库。
+- Neo4j版本全貌
+	- Neo4j AuraDB:适合学习和应用。
+	- Neo4j Desktop:适合学习和开发。
+	- Neo4j Sandbox:适合学习和练习。
+	- Neo4j 社区版:适合应用和部署。
+	- Neo4j 企业版:适合实际业务。
