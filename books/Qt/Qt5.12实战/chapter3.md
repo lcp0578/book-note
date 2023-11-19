@@ -1,4 +1,17 @@
 ## 第3章 Qt编程基础
+#### Qt5模块(https://doc.qt.io/qt-5/qtmodules.html)
+- Qt5模块分为Essentials Modules和Add-on Modules两部分。
+- 基础模块 Essentials Modules
+	- Qt Core,提供核心的非GUI功能，所有模块都需要这个模块。
+	- Qt GUI，提供GUI程序的基本功能，包括与窗口系统的集成、事件处理、OpenGL和OpenGL ES集成、2D图像、字体、拖放等。
+	- Qt Multimedia，提供适配、音频、收音机以及摄像头等功能。
+	- Qt Network，提供跨平台的网络功能。
+	- Qt QML，提供了QML（一种脚本语言，也提供了JavaScript的交互机制）使用的C++ API。
+	- Qt Quick，允许Qt/C++程序中嵌入Qt Quick（一种基于Qt的高度动画的用户界面，适合于移动平台开发）。
+	- Qt SQL，允许使用SQL访问数据库。
+	- Qt Test，提供Qt程序的单元测试功能。
+	- Qt WebKit，基于WebKit2的实现以及一套全新的QML API。
+- 扩展模块 Add-on Modules
 #### 字节数组类QByteArray
 - 字节数组类QByteArray提供一个字节数组，用于存储原始字节。
 
