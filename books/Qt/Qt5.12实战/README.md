@@ -4,7 +4,7 @@
 - [第3章 Qt编程基础](chapter3.md)
 - [第4章 Qt对话框程序设计](chapter4.md)
 - [第5章 Qt控件设计](chapter5.md)
-- 第6章 Qt数据库编程
+- [第6章 Qt数据库编程](chapter6.md)
 - 第7章 Qt调用Windows下的动态链接库
 - 第8章 在Qt中使用Linux的静态库和动态库
 - 第9章 Qt文件编程
