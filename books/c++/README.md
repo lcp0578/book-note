@@ -21,3 +21,4 @@
 - [C++数值算法(第2版)](C++数值算法/README.md)
 - [C++ Core Guidelines](CppCoreGuidelines/README.md)
 - [极简C++](极简C++/README.md)
+- [C++之旅（第3版）](C++之旅/README.md)
