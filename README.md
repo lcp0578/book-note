@@ -298,6 +298,7 @@
 - [极简C++](books/c++/极简C++/README.md)
 - [C++之旅（第3版）](books/c++/C++之旅/README.md)
 - [Easy C++ ](books/c++/EasyC++/README.md)
+- [现代C++软件架构](books/c++/现代C++软件架构/README.md)
 ### Qt相关
 - [Qt 5.9 C++开发指南](books/Qt/Qt5.9C++开发指南/README.md)
 - [Qt5.12实战](books/Qt/Qt5.12实战/README.md)

@@ -23,3 +23,4 @@
 - [极简C++](极简C++/README.md)
 - [C++之旅（第3版）](C++之旅/README.md)
 - [Easy C++ ](EasyC++/README.md)
+- [现代C++软件架构](现代C++软件架构/README.md)
