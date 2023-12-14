@@ -5,3 +5,4 @@
 - [第2章 Hello,World!](chapter2.md)
 - [第3章 对象、类型和值](chapter3.md)
 - [第4章 计算](chapter4.md)
+- [第5章 错误](chapter5.md)
