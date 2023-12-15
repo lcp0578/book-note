@@ -6,3 +6,4 @@
 - [第3章 对象、类型和值](chapter3.md)
 - [第4章 计算](chapter4.md)
 - [第5章 错误](chapter5.md)
+- [第6章 编写一个程序](chapter6.md)
