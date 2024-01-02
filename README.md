@@ -304,6 +304,7 @@
 - [Qt5.12实战](books/Qt/Qt5.12实战/README.md)
 - [Python Qt GUI与数据可视化编程](books/Qt/PythonQtGUI与数据可视化编程/README.md)
 - [QML和Qt Quick快速入门](books/Qt/QML和QtQuick快速入门/README.md)
+- [Qt 6 C++开发指南](books/Qt/Qt6C++开发指南/README.md)
 ### C#相关
 - [C#入门经典](books/C-Sharp/C-Sharp入门经典/README.md)
 - [C#高级编程](books/C-Sharp/C-Sharp高级编程/README.md)

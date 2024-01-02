@@ -3,3 +3,4 @@
 - [Qt5.12实战](Qt5.12实战/README.md)
 - [Python Qt GUI与数据可视化编程](PythonQtGUI与数据可视化编程/README.md)
 - [QML和Qt Quick快速入门](QML和QtQuick快速入门/README.md)
+- [Qt 6 C++开发指南](Qt6C++开发指南/README.md)
