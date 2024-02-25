@@ -63,6 +63,7 @@
 - [程序员数学](books/mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
 - [程序员数学3-线性代数](books/mathematics/程序员的数学-3-线性代数/README.md)
+- [程序员的数学4-图论入门](books/mathematics/程序员的数学-4-图论入门/README.md)
 - [思考的乐趣 Matrix67数学笔记](books/mathematics/思考的乐趣/README.md)
 - [具体数学 计算机科学基础（第2版）](books/mathematics/具体数学/README.md)
 - [深度学习的数学](books/mathematics/深度学习的数学/README.md)
