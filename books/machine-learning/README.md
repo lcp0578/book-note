@@ -20,3 +20,4 @@
 - [演化学习:理论与算法进展](演化学习理论与算法进展/README.md)
 - [人工智能：现代方法（第4版）](人工智能现代方法/README.md)
 - [知识图谱--认知智能理论与实战](知识图谱/README.md)
+- [Artificial Intelligence for Beginners - A Curriculum](AI_For_Beginners/README.md)
