@@ -174,6 +174,7 @@
 		- 定制应用软件
 #### 2.4 嵌入式系统及软件
 - 2.4.1 嵌入式系统的组成及特点
+	- 嵌入式系统是以应用为中心、以计算机技术为基础，并将可配置与可裁剪的软、硬件集成于一体的专用计算机系统，需要满足应用对功能、可靠性、成本、体积和功耗等方面的严格要求。
 	- 一般嵌入式系统组成如下：
 		- 嵌入式处理器
 		- 相关支撑硬件
@@ -199,6 +200,8 @@
 		- 操作系统层
 		- 中间件(Middleware)层
 		- 应用层
+	- 嵌入式系统软件组成架构
+	![EOS](EOS.png)
 	- 嵌入式软件的主要特点如下：
 		- 可裁剪性
 		- 可配置性
@@ -231,6 +234,14 @@
 	- 信号变换
 	- 复用技术和多址技术
 	- 5G通信网络
+		- 基于OFDM优化的波形和多址接入
+		- 实现可扩展的OFDM间隔参数配置
+		- OFDM加窗提高多路传输效率
+		- 灵活框架设计
+		- 大规模MIMO
+		- 毫米波
+		- 频谱共享
+		- 先进的信道编码设计
 - 2.5.3 网络技术
 	- 网络通常按照网络的覆盖区域和通信截止等特征来分类
 		- 局域网(LAN)
@@ -254,6 +265,56 @@
 		- 会话层
 		- 表示层
 		- 应用层
+	- IOS/OSI模型与TCP/IP模型的对比
+
+	<table>
+		<tr>
+			<th>ISO/OSI模型</th>
+			<th colspan="5">TCP/IP协议</th>
+			<th colspan="2">TCP/IP模型</th>
+		</tr>
+		<tr>
+			<td>应用层</td>
+			<td rowspan="3">文件传输协议 FTP</td>
+			<td rowspan="3">远程登录协议Telnet</td>
+			<td rowspan="3">电子邮件协议 SMTP</td>
+			<td rowspan="3">网络文件服务协议 NFS</td>
+			<td rowspan="3">网络管理协议 SNMP</td>
+			<td rowspan="3" colspan="2">应用层</td>
+		</tr>
+		<tr>
+			<td>表示层</td>
+		</tr>
+		<tr>
+			<td>会话应用层</td>
+		</tr>
+		<tr>
+			<td>传输层</td>
+			<td colspan="2">TCP</td>
+			<td colspan="3">UDP</td>
+			<td colspan="2">传输层</td>
+		</tr>
+		<tr>
+			<td>网络层</td>
+			<td colspan="2">IP</td>
+			<td >ICMP</td>
+			<td colspan="2">ARP RARP</td>
+			<td colspan="2">网际层</td>
+		</tr>
+		<tr>
+			<td>数据链路层</td>
+			<td rowspan="2">Enternet IEEE 802.3</td>
+			<td rowspan="2">FDDI</td>
+			<td rowspan="2">Token-Ring/IEEE 802.3 硬件层</td>
+			<td colspan="2" rowspan="2">ARCnet</td>
+			<td rowspan="2">PPP/SLIP</td>
+			<td>网络接口层</td>
+		</tr>
+		<tr>
+			<td>物理层</td>
+			<td>硬件层</td>
+		</tr>
+	</table>
 - 2.5.5 网络工程
 	- 网络规划
 	- 网络设计
