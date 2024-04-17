@@ -4,3 +4,4 @@
 - [第3章 操作系统知识](chapter3.md)
 - [第4章 数据库技术基础](chapter4.md)
 - [第8章 项目管理](chapter8.md)
+- [第9章 UML建模和设计模式](chapter9.md)
