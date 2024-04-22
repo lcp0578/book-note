@@ -6,3 +6,4 @@
 - [第8章 项目管理](chapter8.md)
 - [第9章 UML建模和设计模式](chapter9.md)
 - [第10章 嵌入式技术](chapter10.md)
+- [第11章 软件架构设计](chapter11.md)
