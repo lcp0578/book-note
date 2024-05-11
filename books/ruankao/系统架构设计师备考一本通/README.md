@@ -4,6 +4,7 @@
 - [第3章 操作系统知识](chapter3.md)
 - [第4章 数据库技术基础](chapter4.md)
 - [第5章 计算机网络](chapter5.md)
+- [第6章 信息安全和网络安全](chapter6.md)
 - [第8章 项目管理](chapter8.md)
 - [第9章 UML建模和设计模式](chapter9.md)
 - [第10章 嵌入式技术](chapter10.md)
