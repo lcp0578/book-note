@@ -361,6 +361,7 @@
 - [演化学习:理论与算法进展](books/machine-learning/演化学习理论与算法进展/README.md)
 - [人工智能：现代方法（第4版）](books/machine-learning/人工智能现代方法/README.md)
 - [知识图谱--认知智能理论与实战](books/machine-learning/知识图谱/README.md)
+- [知识图谱实战 -- 构建方法与行业应用](books/machine-learning/知识图谱实战/README.md)
 - [Artificial Intelligence for Beginners - A Curriculum](books/machine-learning/AI_For_Beginners/README.md)
 ### Big Data 大数据
 - [大数据 互联网大规模数据挖掘与分布式处理](books/BigData/大数据互联网大规模数据挖掘与分布式处理/README.md)
