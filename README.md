@@ -449,6 +449,7 @@
 - [An Elegant Puzzle：Systems of Engineering Management](books/software/AnElegantPuzzle/README.md)
 - [软件工程导论(第6版)](books/software/软件工程导论第6版/README.md)
 - [软件开发与测试文档编写指南](books/software/软件开发与测试文档编写指南/README.md)
+- [ENGINEERING SOFTWARE PRODUCTS(现代软件工程)](books/software/现代软件工程/README.md)
 ### Java
 - [Clean Code](books/Java/CleanCode/README.md)
 - [Java技术手册](books/Java/Java技术手册/README.md)

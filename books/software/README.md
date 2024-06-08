@@ -10,3 +10,4 @@
 - [An Elegant Puzzle：Systems of Engineering Management](AnElegantPuzzle/README.md)
 - [软件工程导论(第6版)](软件工程导论第6版/README.md)
 - [软件开发与测试文档编写指南](软件开发与测试文档编写指南/README.md)
+- [ENGINEERING SOFTWARE PRODUCTS(现代软件工程)](现代软件工程/README.md)
