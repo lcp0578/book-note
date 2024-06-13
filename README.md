@@ -59,6 +59,7 @@
 - [水资源规划及管理](books/Water/水资源规划及管理/README.md)
 - [数字孪生流域50问](books/Water/数字孪生流域50问/README.md)
 - [BIM+水利工程项目管理实训](books/Water/BIM水利工程项目管理实训/README.md)
+- [水利水电工程BIM数字化应用](books/Water/水利水电工程BIM数字化应用/README.md)
 ### mathematics
 - [程序员数学](books/mathematics/程序员的数学/README.md)
 - [程序员数学2-概率统计](books/mathematics/程序员的数学-2-概率统计/README.md)
