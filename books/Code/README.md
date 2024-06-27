@@ -25,3 +25,4 @@
 - [推荐系统原理与实践](推荐系统原理与实践/README.md)
 - [软件开发的201个原则](软件开发的201个原则/README.md)
 - [Software Architecture in Practice 4th edition](SoftwareArchitectureInPractice4th/README.md)
+- [软件建模与设计 -- UML、用例、模式和软件体系结构](软件建模与设计/README.md)

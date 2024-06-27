@@ -403,6 +403,7 @@
 - [推荐系统原理与实践](books/Code/推荐系统原理与实践/README.md)
 - [软件开发的201个原则](books/Code/软件开发的201个原则/README.md)
 - [Software Architecture in Practice 4th edition](books/Code/SoftwareArchitectureInPractice4th/README.md)
+- [软件建模与设计 -- UML、用例、模式和软件体系结构](books/Code/软件建模与设计/README.md)
 ### computer-english
 - [计算机英语](books/computer-english/ComputerEnglish/README.md)
 ### Git
