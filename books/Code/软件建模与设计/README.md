@@ -10,3 +10,5 @@
 - [第7章 静态建模](chapter7.md)
 - [第8章 对象和类组织](chapter8.md)
 - [第9章 动态交互建模](chapter9.md)
+- [第10章 有限状态机](chapter10.md)
+- [第11章 状态相关的动态交互建模](chapter11.md)
