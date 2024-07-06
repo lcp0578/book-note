@@ -1,0 +1,29 @@
+## 第6章 CAP
+- CAP理论
+	- 第一版：
+		- any distributed system cannot guaranty C, A, abd P simultaneously。
+		- 对于一个分布式计算系统，不可能同时满足一致性(Consistence)、可用性(Availability)、分区容错性(Partition Tolerance)三个设计约束。
+	- 第二版：
+		- in a distributed system(a collection of interconnected nodes that share data.),you can only have two out of the following three guarantees across a write/read:COnsistency, Availability, and partition Tolerance - one of them must be sacrificed.
+		- 在一个分布式系统（指互相连接并共享数据的节点的集合）中，当涉及读写操作时，只能保证一致性(Consistence)、可用性(Availability)、分区容错性(Partition Tolerance)三者中的两个，另外一个必须被牺牲。
+	- 一致性(Consistency)
+		- 第一版解释：
+			- All nodes see the same data at the same time.
+			- 所有节点在同一时刻都能看到相同的数据。
+		- 第二版解释：
+			- A read is guaranteed to return the most recent write for a given client.
+			- 对某个指定的客户端来说，读操作保证能够返回最新的写操作的结果。
+	- 可用性(Availability)
+		- 第一版解释：
+			- Every request gets a response on success/failure.
+			- 每个请求都能得到成功或失败的响应。
+		- 第二版解释：
+			- A non-failing node will return a reasonable response within a reasonable amount of time(no error or timeout).
+			- 非故障的节点在合理的时间内返回合理的响应（不是错误和超时的响应）。
+	- 分区容忍性(Partition Tolerance)
+		- 第一版解释：
+			- System continues to work despite message loss or partial failure.
+			- 尽管出现消息丢失或分区错误，但系统能继续运行。
+		- 第二版解释：
+			- The system will continue to function when network partitions occur.
+			- 当出现网络分区后，系统能够继续“履行职责”。
