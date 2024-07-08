@@ -527,6 +527,7 @@
 - [大型网站技术架构](books/performance/大型网站技术架构/README.md)
 ### 分布式
 - [从Paxos到ZooKeeper](books/distributed/从Paxos到ZooKeeper/README.md)
+- [分布式系统概念与设计 第五版](books/distributed/分布式系统概念与设计/README.md)
 ### Windows
 - [Windows核心编程（第5版）](books/Windows/Windows核心编程/README.md)
 - [MFC Windows程序设计(第2版)](books/Windows/MFCWindows程序设计/README.md)
