@@ -1,0 +1,11 @@
+## 1 Why React?
+- A JavaScript library for building user interfaces.
+- React is divided into two major APIs:
+	- The React Component API: These are the parts of the page that are rendered by the React DOM.
+	- React DOM: This is the API that’s used to perform the rendering on a web page.
+- Within a React component, we have the following areas to think about: 
+	- Data: This is data that comes from somewhere (the component doesn’t care where) and is rendered by the component.
+	- Lifecycle: For example, one phase of the lifecycle is when the component is about to be rendered. Within a React component, methods or hooks respond to the component’s entering and exiting phases of the React rendering process as they happen over time.
+	- Events: These are the code that we write to respond to user interactions.
+	- JSX: This is the syntax commonly used for describing UI structures in React components. Even though JSX is closely associated with React, it can also be used alongside other JavaScript frameworks and libraries.
+- The syntax used by React components is called JSX (short for JavaScript XML, also known as JavaScript Syntax Extension).
