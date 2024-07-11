@@ -1,3 +1,13 @@
 ## 3 Understanding React Components and Hooks
-- **Properties** allow us to pass data to components, while **state** enables components to manage and 
-update their internal data dynamically
+- **Properties** allow us to pass data to components, while **state** enables components to manage and update their internal data dynamically.
+- In React, **component properties**, commonly known as **props**, allow us to pass data from a parent component to its child components. Props provide a way to customize and configure components, making them flexible and reusable. Props are **read-only**, meaning that the child component should not modify them directly. Instead, the parent component can update the props value and trigger a re-render of the child component with the updated data.
+- To define state in a React component, you should use the useState hook inside of the component. You can then access and modify the state within the component’s methods or JSX code. When the state is updated, React will automatically re-render the component and its child components to reflect the changes.
+- The most commonly used built-in Hooks are:
+	- `useState`: This hook allows you to add state to a functional component. It returns an array with two elements: the current state value and a function to update the state.
+	- `useEffect`: This hook lets you perform side effects in your components, such as fetching data, subscribing to events, or manually manipulating the DOM. It runs after every render by default and can be used to handle component lifecycle events like when the component is mounted, updated, or unmounted.
+	- `useContext`: This hook allows you to consume values from a React context. It provides a way to access context values without nesting multiple components.
+	- `useCallback` and `useMemo`: These Hooks are used for performance optimization. useCallback memoizes a function, preventing it from being recreated on every render, while useMemo memoizes a value, recomputing it only when its dependencies change.
+- Any given state value should have an initial value so that the component can render correctly the first time. To re-render functional components that use state Hooks, you can use the setter functions that useState returns to update your state values as needed.
+- useCallback hook. This hook is used to memoize the function, meaning that it will only be created once and will not be recreated on subsequent 
+renders unless the dependencies change. The useCallback accepts two arguments: the first is the function we want to memorize and the second is the list of dependencies that will be used to identify when React should re-create this function instead of using the memorized version. The fetchUser function is passed an empty array ([]) as the dependency list. This means that the function will only be created once during the initial render and won’t be recreated on subsequent renders.
+- Sometimes your component can listen for some events and you should delete all listeners before unmounting the component to avoid memory leaks.
