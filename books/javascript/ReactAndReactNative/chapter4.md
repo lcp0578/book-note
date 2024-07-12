@@ -1,0 +1,16 @@
+## 4 Event Handling in the React Way
+- View the official React documentation for the full list of supported event property names at https://react.dev/reference/react-dom/components/common.
+- When you assign an event handler function to an element in JSX, React doesn’t actually attach an event listener to the underlying DOM element. Instead, it adds the function to an internal mapping of functions. There’s a single event listener on the document for the page. As events bubble up through the DOM tree to the document, the React handler checks to see whether any components have matching handlers.
+- `Synthetic events` serve two purposes in React:
+	- They provide a consistent event interface, normalizing browser inconsistencies.
+	- They contain information that’s necessary for propagation to work.
+- The event object in React has properties and methods similar to those in native JavaScript events. You can access properties such as `event.target` to retrieve the DOM element that triggered the event, or `event.currentTarget` to refer to the element to which the event handler is attached.
+- Additionally, the event object provides methods like `event.preventDefault()` to prevent the default behavior associated with the event, such as form submissions or link clicks. You can also use `event.stopPropagation()` to stop the event from propagating further up the component tree, preventing event bubbling.
+- In React, event propagation is based on the component hierarchy rather than the DOM hierarchy. When an event occurs in a child component, React captures the event at the root of the component tree and then traverses down to the specific component that triggered the event. This approach, known as event delegation, simplifies event handling by centralizing the event logic at the root of the component tree.
+- React’s event delegation provides several benefits. 
+	- First, it reduces the number of event listeners attached to individual DOM elements, resulting in improved performance. 
+	- Second, it allows you to handle events for dynamically created or removed elements without worrying about attaching or detaching event listeners manually.
+- When the garbage collector is running, none of your JavaScript code is able to run. This is why it’s important to be memory-efficient; frequent garbage collection means less CPU time for code that responds to user interactions.
+- React deals with this problem by allocating a **synthetic instance pool**. Whenever an event is triggered, it takes an instance from the pool and populates its properties. When the event handler has finished running, the **synthetic event** instance is released back into the pool.
+	- This prevents the garbage collector from running frequently when a lot of events are triggered. The pool keeps a reference to the synthetic event instances, so they’re never eligible for garbage collection. React never has to allocate new instances either.
+	- However, there is one gotcha that you need to be aware of. It involves accessing the synthetic event instances from asynchronous code in your event handlers. This is an issue because, as soon as the handler has finished running, the instance goes back into the pool. When it goes back into the pool, all of its properties are cleared.
