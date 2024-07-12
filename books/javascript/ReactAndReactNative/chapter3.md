@@ -11,3 +11,4 @@
 - useCallback hook. This hook is used to memoize the function, meaning that it will only be created once and will not be recreated on subsequent 
 renders unless the dependencies change. The useCallback accepts two arguments: the first is the function we want to memorize and the second is the list of dependencies that will be used to identify when React should re-create this function instead of using the memorized version. The fetchUser function is passed an empty array ([]) as the dependency list. This means that the function will only be created once during the initial render and won’t be recreated on subsequent renders.
 - Sometimes your component can listen for some events and you should delete all listeners before unmounting the component to avoid memory leaks.
+- By using `useRef` to access the DOM node, we can interact with the underlying DOM elements directly without triggering re-renders of the component.
