@@ -94,7 +94,7 @@
 ### WebGL & three.js
 - [Three.js开发指南 基于WebGL和HTML5在网页上渲染3D图形和动画(原书第3版)](books/WebGL/Threejs开发指南/README.md)
 - [计算机图形学入门 3D渲染指南](books/WebGL/计算机图形学入门/README.md)
-- [计算机图形学基于与应用--基于WebGL](books/WebGL/计算机图形学基于与应用/README.md)
+- [计算机图形学基础与应用--基于WebGL](books/WebGL/计算机图形学基础与应用/README.md)
 - [WebGL编程指南](books/WebGL/WebGL编程指南/README.md)
 - [Three.js前端三维图形开发案例集锦](books/WebGL/Threejs前端三维图形开发案例集锦/README.md)
 - [WebGL 3D开发实战详解 第2版](books/WebGL/WebGL3D开发实战详解/README.md)
