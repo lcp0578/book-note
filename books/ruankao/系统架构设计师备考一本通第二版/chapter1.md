@@ -1,0 +1,11 @@
+## 第1章 计算机组成与结构
+- 运算器由
+	- 算术逻辑单元(Arithmetic and Logic Unit, ALU)，实现对数据的算术和逻辑运算。
+	- 累加寄存器(Accumulator, AC)，运算结果或源操作数的存放区
+	- 数据缓冲寄存器(Data Register, DR)，暂时存放内存的指令或数据
+	- 状态条件寄存器(Program Status Word, PSW)，保存指令运行结果的条件码内容，如溢出标志等。
+- 控制器由
+	- 指令寄存器(Instruction Register, IR)，暂存CPU执行指令
+	- 程序计数器(Program Counter, PC)，存放指令执行地址
+	- 地址寄存器(Address Register, AR)，保存当前CPU所访问的内存地址
+	- 指令译码器(Instruction Decoder, ID)，分析指令操作码

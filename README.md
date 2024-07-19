@@ -110,6 +110,7 @@
 - [系统架构设计师考试全程指导](books/ruankao/系统架构设计师考试全程指导/README.md)
 - [系统架构设计师考试32小时通关 第2版](books/ruankao/系统架构设计师考试32小时通关第2版/README.md)
 - [系统架构设计师备考一本通](books/ruankao/系统架构设计师备考一本通/README.md)
+- [系统架构设计师备考一本通（第二版）](books/ruankao/系统架构设计师备考一本通第二版/README.md)
 - [系统架构设计师考试大纲 第二版](books/ruankao/系统架构设计师考试大纲第二版/README.md)
 ### PHP
 - [深入PHP面向对象、模式与实践(第3版)](books/php/深入PHP面向对象、模式与实践(第3版)/README.md)
