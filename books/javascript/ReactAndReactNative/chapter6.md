@@ -28,7 +28,7 @@
 		- The second way uses a generic array type, Array<elemType>:
 
 				let list: Array<number> = [1, 2, 3];
-	- **tuple**: Tuple types allow you to express an array where the type of a fixed number of ele￾ments is known but does not need to be the same. For example, you may want to represent a value as a pair of a string and a number:
+	- **tuple**: Tuple types allow you to express an array where the type of a fixed number of elements is known but does not need to be the same. For example, you may want to represent a value as a pair of a string and a number:
 
 			let x: [string, number];
 			x = ["hello", 10]; // OK
@@ -54,7 +54,7 @@
 			Chapter 6 95
 			let surelyNotAString: string = notSure; // Error, 'unknown' is not 
 			assignable to 'string'
-		- In this example, we can’t assign notSure to surelyNotAString without a type-check, because notSure is of the unknown type. This helps prevent errors because we can’t in￾advertently perform operations on variables of the unknown type without first checking their types.
+		- In this example, we can’t assign notSure to surelyNotAString without a type-check, because notSure is of the unknown type. This helps prevent errors because we can’t in advertently perform operations on variables of the unknown type without first checking their types.
 		- A common use case for unknown is in a catch clause, where the type of the error object is not known:
 
 				try {
@@ -123,3 +123,8 @@
 			 y: 20,
 			};
 			const id: ID = 100;
+- Type-checking props in React components
+- Typing state
+- Typing event handlers
+- Typing context
+- Typing refs
