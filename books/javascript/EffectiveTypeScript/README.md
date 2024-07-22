@@ -1,0 +1,1 @@
+## Effective TypeScript Second Edition

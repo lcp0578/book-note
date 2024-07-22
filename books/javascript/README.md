@@ -11,3 +11,4 @@
 - [深入浅出webpack](深入浅出webpack/README.md)
 - [深入理解ES6](深入理解ES6/README.md)
 - [React and React Native Fifth Edition](ReactAndReactNative/README.md)
+- [Effective TypeScript Second Edition](EffectiveTypeScript/README.md)

@@ -150,6 +150,7 @@
 - [深入浅出webpack](books/javascript/深入浅出webpack/README.md)
 - [深入理解ES6](books/javascript/深入理解ES6/README.md)
 - [React and React Native Fifth Edition](books/javascript/ReactAndReactNative/README.md)
+- [Effective TypeScript Second Edition](books/javascript/EffectiveTypeScript/README.md)
 ### MySQL
 - [MySQL5权威指南](books/MySQL/MySQL5权威指南/README.md)
 - [高性能MySQL](books/MySQL/高性能MySQL/README.md)
