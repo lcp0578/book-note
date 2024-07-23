@@ -6,3 +6,4 @@
 - [4 Event Handling in the React Way](chapter4.md)
 - [5 Crafting Resable Components](chapter5.md)
 - [6 Type-Checking and Validation with TypeScript](chapter6.md)
+- [7 Handing Navigation with Routes](chapter7.md)
