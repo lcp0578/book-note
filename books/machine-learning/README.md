@@ -22,3 +22,4 @@
 - [知识图谱--认知智能理论与实战](知识图谱/README.md)
 - [知识图谱实战 -- 构建方法与行业应用](知识图谱实战/README.md)
 - [Artificial Intelligence for Beginners - A Curriculum](AI_For_Beginners/README.md)
+- [智能文本处理实战](智能文本处理实战/README.md)
