@@ -370,6 +370,7 @@
 - [知识图谱实战 -- 构建方法与行业应用](books/machine-learning/知识图谱实战/README.md)
 - [Artificial Intelligence for Beginners - A Curriculum](books/machine-learning/AI_For_Beginners/README.md)
 - [智能文本处理实战](books/machine-learning/智能文本处理实战/README.md)
+- [Practical Natural Language - Processing A Comprehensive Guide to Building Real-World NLP Systems](books/machine-learning/PracticalNaturalLanguage/README.md)
 ### Big Data 大数据
 - [大数据 互联网大规模数据挖掘与分布式处理](books/BigData/大数据互联网大规模数据挖掘与分布式处理/README.md)
 - [数据挖掘概念与技术](books/BigData/数据挖掘概念与技术/README.md)
