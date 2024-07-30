@@ -1,0 +1,2 @@
+## Foreword
+- The field of natural language processing (NLP) has undergone a dramatic shift in recent years, both in terms of methodology and in terms of the applications supported. Methodological advances have ranged from new ways of representing documents to new techniques for language synthesis.
