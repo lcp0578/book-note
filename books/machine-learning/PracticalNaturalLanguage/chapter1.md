@@ -1,0 +1,20 @@
+## CHAPTER 1 NLP: A Primer
+- NLP Tasks
+	- Language modeling
+		- This is the task of predicting what the next word in a sentence will be based on the history of previous words. The goal of this task is to learn the probability of a sequence of words appearing in a given language. Language modeling is useful for building solutions for a wide variety of problems, such as speech recognition, optical character recognition, handwriting recognition, machine translation, and spelling correction.
+	- Text classification
+		- This is the task of bucketing the text into a known set of categories based on its content. Text classification is by far the most popular task in NLP and is used in a variety of tools, from email spam identification to sentiment analysis.
+	- Information extraction
+		- As the name indicates, this is the task of extracting relevant information from text, such as calendar events from emails or the names of people mentioned in a social media post.
+	- Information retrieval
+		- This is the task of finding documents relevant to a user query from a large collection. Applications like Google Search are well-known use cases of information retrieval.
+	- Conversational agent
+		- This is the task of building dialogue systems that can converse in human languages. Alexa, Siri, etc., are some common applications of this task.
+	- Text summarization
+		- This task aims to create short summaries of longer documents while retaining the core content and preserving the overall meaning of the text.
+	- Question answering
+		- This is the task of building a system that can automatically answer questions posed in natural language.
+	- Machine translation
+		- This is the task of converting a piece of text from one language to another. Tools like Google Translate are common applications of this task.
+	- Topic modeling
+		- This is the task of uncovering the topical structure of a large collection of documents. Topic modeling is a common text-mining tool and is used in a wide range of domains, from literature to bioinformatics.
