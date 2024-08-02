@@ -18,3 +18,11 @@
 		- This is the task of converting a piece of text from one language to another. Tools like Google Translate are common applications of this task.
 	- Topic modeling
 		- This is the task of uncovering the topical structure of a large collection of documents. Topic modeling is a common text-mining tool and is used in a wide range of domains, from literature to bioinformatics.
+- How NLP, ML, and DL are related
+	- Deep learning refers to the branch of machine learning that is based on artificial neural network architectures.
+	![AI.png](images/AI.png)
+- Approaches to NLP
+	- The different approaches used to solve NLP problems commonly fall into three categories: heuristics, machine learning, and deep learning.
+	- Heuristics-Based NLP
+	- Machine Learning for NLP
+		- Any machine learning approach for NLP, supervised or unsupervised, can be described as consisting of three common steps: extracting features from text, using the feature representation to learn a model, and evaluating and improving the model.
