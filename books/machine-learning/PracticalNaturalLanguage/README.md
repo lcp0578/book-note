@@ -3,3 +3,4 @@
 - [Preface](Preface.md)
 #### PART Ⅰ Foundations
 - [CHAPTER 1 NLP: A Primer](chpater1.md)
+- [CHAPTER 2 NLP Pipeline](chapter2.md)
