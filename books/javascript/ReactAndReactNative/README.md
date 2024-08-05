@@ -8,3 +8,4 @@
 - [6 Type-Checking and Validation with TypeScript](chapter6.md)
 - [7 Handing Navigation with Routes](chapter7.md)
 - [8 Code Splitting Using Lazy Components and Suspense](chapter8.md)
+- [9 User Interface Framework Components](chapter9.md)
