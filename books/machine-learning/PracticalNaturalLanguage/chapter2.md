@@ -31,3 +31,10 @@
 		- Normalization, language detection, code mixing, transliteration, etc.
 	- Advanced processing
 		- POS tagging, parsing, coreference resolution, etc.
+	- Common pre-processing steps on a blob of text
+	![pre-processing](images/pre-processing.png)
+	- Advanced pre-processing setps on a blob of text
+	![Advanced_pre-processing](images/Advanced_pre-processing.png)
+- Feature Engineering
+	- Feature engineering for classical NLP versus DL-Based NLP
+	![ClassicalNLP](images/ClassicalNLP.png)
