@@ -4,3 +4,4 @@
 - [第2章 系统配置和性能评价](chapter2.md)
 - [第3章 操作系统知识](chapter3.md)
 - [第4章 数据库技术基础](chapter4.md)
+- [第5章 计算机网络](chapter5.md)
