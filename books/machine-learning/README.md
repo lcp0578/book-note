@@ -24,3 +24,5 @@
 - [Artificial Intelligence for Beginners - A Curriculum](AI_For_Beginners/README.md)
 - [智能文本处理实战](智能文本处理实战/README.md)
 - [Practical Natural Language - Processing A Comprehensive Guide to Building Real-World NLP Systems](PracticalNaturalLanguage/README.md)
+- [AI for Absolute Beginners](AIforAbsoluteBeginners/README.md)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3nd Edition](Hands-OnMachineLearning/README.md)
