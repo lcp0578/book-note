@@ -26,3 +26,4 @@
 - [Practical Natural Language - Processing A Comprehensive Guide to Building Real-World NLP Systems](PracticalNaturalLanguage/README.md)
 - [AI for Absolute Beginners](AIforAbsoluteBeginners/README.md)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3nd Edition](Hands-OnMachineLearning/README.md)
+- [Approaching (Almost) Any Machine Learning Problem](ApproachingAlmostAnyMachineLearningProblem/README.md)
