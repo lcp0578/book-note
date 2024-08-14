@@ -10,3 +10,4 @@
 - [8 Code Splitting Using Lazy Components and Suspense](chapter8.md)
 - [9 User Interface Framework Components](chapter9.md)
 - [10 High-Performance State Updates](chapter10.md)
+- [11 Fetching Data from a Server](chapter11.md)
