@@ -374,6 +374,9 @@
 - [AI for Absolute Beginners](books/machine-learning/AIforAbsoluteBeginners/README.md)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3nd Edition](books/machine-learning/Hands-OnMachineLearning/README.md)
 - [Approaching (Almost) Any Machine Learning Problem](books/machine-learning/ApproachingAlmostAnyMachineLearningProblem/README.md)
+- [Math and Architectures of Deep Learning](books/machine-learning/MathAndArchitecturesOfDeepLearning/README.md)
+- [Generative Deep Learning 2nd Edition](books/machine-learning/GenerativeDeepLearning2ndEdition/README.md)
+- [Evolutionary Deep Learning](books/machine-learning/EvolutionaryDeepLearning/README.md)
 ### Big Data 大数据
 - [大数据 互联网大规模数据挖掘与分布式处理](books/BigData/大数据互联网大规模数据挖掘与分布式处理/README.md)
 - [数据挖掘概念与技术](books/BigData/数据挖掘概念与技术/README.md)
