@@ -1,0 +1,24 @@
+## 12 State Management in React
+- **Global state** is a data management approach that allows state to be accessible and modifiable across different levels and components of your application. This solution overcomes the limitations of local state, facilitating data exchange between components and improving state manageability 
+in large-scale projects.
+- A **state manager** is a tool that helps organize and manage state in an application, especially when it comes to complex interactions and extensive data. It provides a **centralized repository** for all your application’s state and manages its updates in an orderly and predictable manner. In practice, state managers are often represented as npm packages installed as project dependencies. However, it is also possible to manage the global state independently without any libraries using React’s API.
+- React Context API and useReducer
+	- The **React Context API** is designed to pass data through the component tree without the need to pass props at every level. 
+	- The combination of the Context API and useReducer provides a powerful mechanism for creating and managing the global state of an application. This approach is convenient for small applications, where ready-made and larger state management solutions might be redundant. However, it’s also worth noting that this solution doesn’t completely solve the performance issue, as any change in the theme in the useTheme example or the counter in the counter example will cause the provider, and thus the entire component tree, to re-render. This can be avoided, but it requires additional logic and coding
+- Redux
+	- It is one of the most popular tools for managing state in complex JavaScript applications, especially when used with React. Redux provides predictable state management by maintaining the application’s state in a single global object, simplifying the tracking of changes and data management.
+	- Redux is based on three core principles: 
+		- a single source of truth (one global state), 
+		- the state is read-only (immutable), 
+		- changes are made using pure functions (reducers).
+	- Implementing asynchronous operations in the Redux world is a complex issue, as out of the box it offers nothing but middleware, which is used by third-party solutions. One such solution is redux-thunk.
+	- redux-thunk is a middleware that allows you to call action creator functions that return a function instead of an action object. This provides the ability to delay the dispatch of an action or dispatch multiple actions by making asynchronous requests.
+	- Redux is well suited for managing complex global state in applications. It offers powerful debugging tools, such as time travel. Redux also facilitates the testing of state and logic due to the clear separation between data and its processing.
+	- To integrate **Redux** with **React**, the **React-Redux** library is used. It provides Provider components, and the useSelector and useDispatch hooks, which allow easy connection of the Redux store to your React application.
+- MobX
+	- MobX is a state management library that provides reactive and flexible interaction with data. Its main idea is to make the application state as simple and transparent as possible, working through small objects and classes that can be created as many times as desired and nested within each other.
+	- Technically, the library allows for creating not just one global state but many small objects directly linked to some functionality of the application, which gives a significant advantage when working with large applications.
+	- In MobX, the state of the application is managed using observable method, which automatically track changes and inform related computed values and reactions. This allows the application to automatically update in response to state changes, simplifying the data flow and increasing flexibility.
+	- MobX is well suited for applications that require high performance and simplicity in managing complex data dependencies. It offers an elegant and intuitive way to handle complex state, allowing developers to focus on business logic rather than state management.
+	- One drawback of this library is the considerable freedom it provides in organizing state, which can lead to difficulties and scalability issues in inexperienced hands. For example, MobX allows direct manipulation of object data, which can trigger component updates, but this can also lead to unexpected state changes in large projects and debugging challenges. Similarly, this freedom often results in small, clean MobX classes becoming tightly coupled, making testing and project development more challenging.
+	- To integrate **MobX** with **React**, the **mobx-react** library is used, which provides the observer function. This allows React components to automatically react to changes in observed data.
