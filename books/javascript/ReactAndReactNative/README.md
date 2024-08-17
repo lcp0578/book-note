@@ -12,3 +12,4 @@
 - [10 High-Performance State Updates](chapter10.md)
 - [11 Fetching Data from a Server](chapter11.md)
 - [12 State Management in React](chapter12.md)
+- [13 Server-Side Rendering](chapter13.md)
