@@ -1,3 +1,14 @@
 ## 13 Server-Side Rendering
 - server-side rendering (SSR)
 - single-page application (SPA)
+- content delivery network (CDN)
+- static site generation (SSG)
+	- The logic of SSG is to render all static pages on a server during the project build process. As a result, we get many HTML pages ready for immediate delivery upon request.
+- incremental static generation (ISR)
+	- ISR combines the principles of SSG and SSR with caching functionality.
+- Next.js
+	- This framework is known for its flexibility and powerful features. Next.js started with SSR but now supports both SSR and SSG, including ISR support. Recently, Next.js has been working extensively on a new concept for implementing applications using server components, which we will discuss at the end of the chapter.
+- Gatsby
+	- Gatsby’s main distinction is its strong focus on generating static sites using data from various sources (such as CMS or Markdown). While there are not as many differences from Next.js as there used to be, it remains a fairly popular solution.
+- Remix
+	- This is a relatively new framework that focuses on closer integration with web standards and improving the user experience. Remix offers unique approaches to data handling and routing, where we can work not page by page but by sections of a page, implementing nested navigation by changing and caching only the part of the page that requires dynamics.
