@@ -12,3 +12,8 @@
 	- Gatsby’s main distinction is its strong focus on generating static sites using data from various sources (such as CMS or Markdown). While there are not as many differences from Next.js as there used to be, it remains a fairly popular solution.
 - Remix
 	- This is a relatively new framework that focuses on closer integration with web standards and improving the user experience. Remix offers unique approaches to data handling and routing, where we can work not page by page but by sections of a page, implementing nested navigation by changing and caching only the part of the page that requires dynamics.
+- The features of Next.js:
+	- **An easy-to-use API that automates SSR and static generation**: You just need to write code using the provided methods and functions, and the framework will automatically determine which pages should be rendered server-side and which can be rendered during the project build process.
+	- **File-based routing**: Next.js uses a simple and intuitive routing system based on the folder and file structure in the project. This greatly simplifies the creation and management of routes in the application.
+	- The ability to create comprehensive full-stack applications, thanks to API routes that allow you to implement server-side REST API endpoints.
+	- The optimization of images, fonts, and scripts, enhancing the performance of projects.
