@@ -1,0 +1,2 @@
+## 16 React Native under the Hood
+- Now, React only works to manage the components tree. This approach encapsulates any rendering APIs and hides a lot of platform-specific methods from us. We can concentrate solely on developing interfaces and cease speculating about how they would be rendered. That’s why React is frequently claimed as a renderer-agnostic library. Also, for web apps, we use **ReactDOM**, which forms elements and applies them right to the browser DOM. For mobile apps, **React Native** renders our interface directly on the mobile screen.
