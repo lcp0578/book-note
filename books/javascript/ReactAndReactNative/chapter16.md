@@ -1,2 +1,11 @@
 ## 16 React Native under the Hood
 - Now, React only works to manage the components tree. This approach encapsulates any rendering APIs and hides a lot of platform-specific methods from us. We can concentrate solely on developing interfaces and cease speculating about how they would be rendered. That’s why React is frequently claimed as a renderer-agnostic library. Also, for web apps, we use **ReactDOM**, which forms elements and applies them right to the browser DOM. For mobile apps, **React Native** renders our interface directly on the mobile screen.
+-  React Native implements this part in native code for each 
+platform: Java for Android and Objective-C for iOS. The **Native** layer is mainly composed of Native modules that communicate with the Android or iOS SDK and are supposed to provide native functionality for our apps, using a unified API.
+- As previously mentioned, each React Native layer implements a unique API for every native and UI feature in an application. The communication between layers is accomplished through the bridge. The module is written in C ++ and is based on an asynchronous queue. When the bridge receives data from one of the parties, it serializes it, converts it to a JSON string, and passes it through the queue. After arriving at its destination, the data is deserialized.
+- UI component libraries
+	- **NativeBase**: This is a component library that enables developers to build universal design systems. It is built on top of React Native, allowing you to develop apps for Android, iOS, and the web.
+	- **React Native Element**: This provides an all-in-one UI kit for creating apps in React Native.
+	- **UI Kitten**: This is a React Native implementation of the Eva Design System. The framework contains a set of general-purpose UI components styled in a similar way.
+	- **React-native-paper**: This is a collection of customizable and production-ready components for React Native, following Google’s Material Design guidelines.
+	- **Tamagui**: This UI kit provides components that can run on mobiles and the web.
