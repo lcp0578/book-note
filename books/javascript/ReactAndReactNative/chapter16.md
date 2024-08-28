@@ -9,3 +9,12 @@ platform: Java for Android and Objective-C for iOS. The **Native** layer is main
 	- **UI Kitten**: This is a React Native implementation of the Eva Design System. The framework contains a set of general-purpose UI components styled in a similar way.
 	- **React-native-paper**: This is a collection of customizable and production-ready components for React Native, following Google’s Material Design guidelines.
 	- **Tamagui**: This UI kit provides components that can run on mobiles and the web.
+- Exploring React Native components and APIs
+	- **View**: The main brick of any app. This is the equivalent of `<div>`, and on mobiles, it is represented as UIView or android.view. Any `<View/>` component can nest inside another `<View/> `component and can have zero or many children of any type.
+	- **Text**: This is a React component for displaying text. As with View, `<Text/>` supports nesting, styling, and touch handling.
+	- **Image**: This displays images from a variety of sources, such as network images, static resources, temporary local images, and images from the camera roll.
+	- **TextInput**: This allows users to input text using a keyboard. Props enable a variety of features that can be configured, including auto-correction, auto-capitalization, placeholder text, and different keyboard types, such as a numeric keypad.
+	- **ScrollView**: This component is a generic container for scrolling multiple views and components. There can be both vertical and horizontal scrolling (by adjusting the horizontal property) for the scrollable items. If you need to render a huge or limitless list of items, you should use FlatList. This supports a set of special props such as Pull to Refresh and Scroll loading (lazy-loading). If your list needs to be divided into sections, then there is also a special component for this: SectionList.
+	- **Button**: React Native has advanced components that can be used to create custom buttons and other touchable components, such as TouchableHighlight, TouchableOpacity, and TouchableWithoutFeedback.
+	- **Pressable**: This gives more precise touch control with React Native version 0.63. Basically, it is a wrapper for detecting touch. It is a well-defined component that can be used instead of touchable components such as TouchableOpacity and Button.
+	- **Switch**: This component resembles a checkbox; however, it is presented in the form of a switch, which we are familiar with on mobile devices.
