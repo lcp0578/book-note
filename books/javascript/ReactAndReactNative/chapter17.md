@@ -1,0 +1,4 @@
+## 17 Kick-Starting React Native Projects
+- Exploring React Native CLI tools
+	- The **React Native CLI** is a tool created by Meta. The project is based on the original CLI tool and has three parts: native iOS and Android projects and a React Native JavaScript app. To get started, you will need either Xcode or Android Studio. One of the main advantages of the React Native CLI is its flexibility. You can connect any library with a Native module or directly write code to the native parts. However, all of this requires at least a basic understanding of mobile development.
+	- The **Expo CLI** is just one part of the big ecosystem for developing React Native apps. Expo is a framework and a platform for universal React applications. Built around React Native and native platforms, it allows you to build, deploy, test, and rapidly iterate on iOS, Android, and web apps from a single JavaScript/TypeScript code base.

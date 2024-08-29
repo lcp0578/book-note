@@ -17,3 +17,4 @@
 #### Part 2 React Native
 - [15 Why React Native?](chapter15.md)
 - [16 React Native under the Hood](chapter16.md)
+- [17 Kick-Starting React Native Projects](chapter17.md)
