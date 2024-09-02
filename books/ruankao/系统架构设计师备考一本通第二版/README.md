@@ -7,3 +7,4 @@
 - [第5章 计算机网络](chapter5.md)
 - [第6章 信息安全和网络安全](chapter6.md)
 - [第7章 软件工程基础知识](chapter7.md)
+- [第8章 项目管理](chapter8.md)
