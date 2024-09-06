@@ -22,3 +22,4 @@
 - [19 Navigating Between Screens](chapter19.md)
 - [20 Rendering Item Lists](chapter20.md)
 - [21 Geolocation and Maps](chapter21.md)
+- [22 Collecting User Input](chapter22.md)
