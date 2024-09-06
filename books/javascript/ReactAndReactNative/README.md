@@ -21,3 +21,4 @@
 - [18 Building Responsive Layouts with Flexbox](chapter18.md)
 - [19 Navigating Between Screens](chapter19.md)
 - [20 Rendering Item Lists](chapter20.md)
+- [21 Geolocation and Maps](chapter21.md)

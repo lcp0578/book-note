@@ -1,0 +1,2 @@
+## 21 Geolocation and Maps
+- The `MapView` component from **react-native-maps** is the main tool you’ll use to render maps in your React Native applications. It offers a wide range of tools for rendering maps, markers, polygons, heatmaps, and the like.
