@@ -20,3 +20,4 @@
 - [17 Kick-Starting React Native Projects](chapter17.md)
 - [18 Building Responsive Layouts with Flexbox](chapter18.md)
 - [19 Navigating Between Screens](chapter19.md)
+- [20 Rendering Item Lists](chapter20.md)
