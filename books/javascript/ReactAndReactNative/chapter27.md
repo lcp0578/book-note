@@ -1,0 +1,3 @@
+## 27 Controlling Image Display
+- Let’s get started by figuring out how to load images. You can render the `<Image>` component and pass its properties just like any other React component. But this particular component needs image blob data to be of any use. A **BLOB** (short for Binary Large Object) is a data type used to store large, unstructured binary data. BLOBs are commonly used to store multimedia files like images, audio, and video.
+- We’ll use the `@expo/vector-icons` package to pull various vector font packages into your React Native app. This package is already part of the Expo project that we’re using as the base of the app, and now, you can import Icon components and render them.
