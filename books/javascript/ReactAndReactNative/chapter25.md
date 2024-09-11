@@ -1,0 +1,4 @@
+## 25 Displaying Modal Screens
+- **Alert**: Something important just happened, and you need to ensure that the user sees what’s going on. Possibly, the user needs to acknowledge the alert.
+- **Confirmation**: This is part of an alert. For example, if the user has just performed an action and then wants to make sure that it was successful before carrying on, they would have to confirm that they’ve seen the information in order to close the modal. A confirmation can also exist within an alert, warning the user about an action that they’re about to perform.
+- **Notification**: Something happened but it’s not important enough to completely block what the user is doing. These typically go away on their own.
