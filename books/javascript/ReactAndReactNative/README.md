@@ -24,3 +24,4 @@
 - [21 Geolocation and Maps](chapter21.md)
 - [22 Collecting User Input](chapter22.md)
 - [23 Responding to User Gestures](chapter23.md)
+- [24 Showing Progress](chapter24.md)
