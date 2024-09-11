@@ -26,3 +26,4 @@
 - [23 Responding to User Gestures](chapter23.md)
 - [24 Showing Progress](chapter24.md)
 - [25 Displaying Modal Screens](chapter25.md)
+- [26 Using Animations](chapter26.md)
