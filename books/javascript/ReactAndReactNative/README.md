@@ -28,3 +28,4 @@
 - [25 Displaying Modal Screens](chapter25.md)
 - [26 Using Animations](chapter26.md)
 - [27 Controlling Image Display](chapter27.md)
+- [28 Going Offline](chapter28.md)
