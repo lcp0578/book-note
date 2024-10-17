@@ -344,6 +344,7 @@
 - [NumPy数据处理详解](books/Python/NumPy数据处理详解/README.md)
 - [Python进阶编程 编写更高效、优雅的Python代码](books/Python/Python进阶编程/README.md)
 - [流畅的Python（第2版）](books/Python/流畅的Python/README.md)
+- [Think Python 3rd Edition](books/Python/ThinkPython/README.md)
 ### TensorFlow
 - [TensorFlow 技术解析与实战](tensorflow/TensorFlow技术解析与实战/README.md)
 ### machine-learning
