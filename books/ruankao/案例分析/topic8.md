@@ -27,3 +27,6 @@
 	- （1）批处理层（Batch Layer）：存储数据集，Batch Layer在数据集上预先计算查询函数，并构建查询所对应的View。Batch Layer可以很好地处理离线数据，但有很多场景数据不断实时生成，并且需要实时查询处理。Speed Layer正式用来处理增量的实时数据。
 	- （2）加速层（Speed Layer）：Batch Layer处理的是全体数据集，而Speed Layer处理的是最近的增量数据流。Speed Layer为了效率，在接收到新的数据后会不断更新Real-time View，而Batch Layer是根据全体离线数据集直接得到Batch View。
 	- （3）服务层（Serving Layer）：Serving Layer用于合并Batch View和Real-time View中结果数据集到最终数据集。用于响应用户的查询请求。
+- Hadoop是被设计成适合运行在通用硬件上的分布式文件系统。
+	- HDFS是一个具有高度容错性的系统，能提供高吞吐量的数据访问，非常合适再大规模数据集上的应用。HDFS放宽了一些约束，以达到流式读取文件系统数据的目的。
+	- Apache Spark是专为大规模数据处理而设计的快速通用计算引擎。Spark中间输入结果可以保存在内存中，从而不再需要读写HDFS，因此SPark能更好地适用于数据挖掘与机器学习等需要迭代的Map Reduce算法。
