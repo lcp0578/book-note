@@ -59,7 +59,9 @@
 	- 第三范式(3NF)。在满足1NF的基础上，表中不存在非主属性对码的传递依赖。
 	- BC范式(BCNF)。所谓BCNF，是指在第三范式的基础上进一步消除主属性对于码的部分函数依赖和传递依赖。
 	![DB_NF.png](images/DB_NF.png)
+
 - 并发控制总体结构
+	
 	![ConcurrencyControl.png](images/ConcurrencyControl.png)
 - 数据仓库四大特点
 	- **面向主题**：是按照一定的主题域进行组织的。
