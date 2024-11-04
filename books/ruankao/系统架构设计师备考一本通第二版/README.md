@@ -9,3 +9,8 @@
 - [第7章 软件工程基础知识](chapter7.md)
 - [第8章 项目管理](chapter8.md)
 - [第9章 UML建模和设计模式](chapter9.md)
+- [第10章 嵌入式技术](chapter10.md)
+- [第11章 软件架构设计](chapter11.md)
+- [第12章 信息系统基础知识](chapter12.md)
+- [第13章 法律法规与标准化](chapter13.md)
+- [第14章 数学与经济管理](chapter14.md)
