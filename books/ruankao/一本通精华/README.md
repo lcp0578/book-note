@@ -6,3 +6,4 @@
 - [五、计算机网络](chapter5.md)
 - [六、其他计算机系统基础知识](chapter6.md)
 - [七、系统配置与性能评价](chapter7.md)
+- [八、信息系统基础知识](chapter8.md)
