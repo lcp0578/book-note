@@ -25,6 +25,18 @@
 
 		MTTF / (MTTF+MTTR) * 100%
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 #### 可靠性设计
 
 ![reliability_design.png](images/reliability_design.png)
