@@ -23,7 +23,7 @@
 	![WorkflowDesign.png](images/WorkflowDesign.png)
 
 #### 数据访问层设计
-- 5中数据访问模式
+- 5种数据访问模式
 	- 在线访问
 	- DataAccess Object
 	- DataTransfer Object
