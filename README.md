@@ -481,6 +481,8 @@
 - [Java核心技术 卷Ⅱ 高级特性(原书第10版)](books/Java/Java核心技术卷2/README.md)
 - [ON JAVA 基础卷](books/Java/ONJAVA基础卷/README.md)
 - [ON JAVA 进阶卷](books/Java/ONJAVA进阶卷/README.md)
+- [Learning Java 6th Edition](books/Java/LearningJava/README.md)
+- [Spring in Action 6th Edition](books/Java/SpringInAction/README.md)
 ### GIS
 - [SuperMap GIS二三维一体化开发实战](books/GIS/SuperMapGIS二三维一体化开发实战/README.md)
 - [云计算模式下MapGIS全新开发模式深度](books/GIS/云计算模式下MapGIS全新开发模式深度/README.md)
