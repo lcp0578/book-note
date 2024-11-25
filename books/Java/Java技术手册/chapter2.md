@@ -1,1 +1,67 @@
 ## 第二章 Java基本句法
+- Java程序使用Unicode字符编写。
+- Java语言区分大小写，关键字使用小写。
+- 保留字
+	- abstract
+	- assert
+	- boolean
+	- break
+	- byte
+	- case
+	- catch
+	- char
+	- class
+	- const
+	- continue
+	- default
+	- do
+	- double
+	- else
+	- enum
+	- extends
+	- false
+	- final
+	- finally
+	- float
+	- for
+	- goto
+	- if
+	- implements
+	- import
+	- instanceof
+	- int
+	- interface
+	- long
+	- native
+	- new
+	- null
+	- package
+	- private
+	- protected
+	- public
+	- return
+	- short
+	- static
+	- strictfp
+	- supper
+	- switch
+	- synchronized
+	- this
+	- throw
+	- thorws
+	- transient
+	- true
+	- try
+	- void
+	- volatile
+	- while
+- 字面量
+	- 字面量是直接出现在Java源码中的值，包括整数、浮点数、单引号中的单个字符、双引号中的字符串，以及保留字 `true`、`false`和`null`。
+- 位运算符和位移运算符
+	- 按位补码（`~`）
+	- 位与（`&`）
+	- 位或（`|`）
+	- 异位或（`^`）
+	- 左移（`<<`）
+	- 带符号右移（`>>`）
+	- 不带符号右移（`>>>`）
