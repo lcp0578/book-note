@@ -388,6 +388,7 @@
 - [面向程序员的数据挖掘指南](books/BigData/面向程序员的数据挖掘指南/README.md)
 - [A Programmer's Guide to Data Mining](books/BigData/Guide2DataMining/README.md)
 - [大数据技术及架构图解实战派](books/BigData/大数据技术及架构图解实战派/README.md)
+- [DAMA数据管理知识体系指南（原书第2版）](books/BigData/DAMA数据管理知识体系指南/README.md)
 ### micro-service
 - [微服务设计](books/micro-service/微服务设计/README.md)
 - [微服务架构与实践](books/micro-service/微服务架构与实践/README.md)

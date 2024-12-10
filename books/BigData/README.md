@@ -6,3 +6,4 @@
 - [面向程序员的数据挖掘指南](面向程序员的数据挖掘指南/README.md)
 - [A Programmer's Guide to Data Mining](Guide2DataMining/README.md)
 - [大数据技术及架构图解实战派](大数据技术及架构图解实战派/README.md)
+- [DAMA数据管理知识体系指南（原书第2版）](DAMA数据管理知识体系指南/README.md)
