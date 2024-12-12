@@ -624,6 +624,10 @@
 - [数学之美 第二版](books/wujun/数学之美/README.md)
 - [浪潮之巅 第三版 上](books/wujun/浪潮之巅上/README.md)
 - [浪潮之巅 第三版 下](books/wujun/浪潮之巅下/README.md)
+
+### [亲子教育](books/EDU/README.md)
+- [爸爸的高度决定孩子的起点](books/EDU/爸爸的高度决定孩子的起点/README.md)
+
 ### 杂项
 - [羊皮卷](books/other/羊皮卷/README.md)
 - [厚黑学](books/other/厚黑学/README.md)
