@@ -627,6 +627,15 @@
 
 ### [亲子教育](books/EDU/README.md)
 - [爸爸的高度决定孩子的起点](books/EDU/爸爸的高度决定孩子的起点/README.md)
+- [不吼不叫培养好孩子](books/EDU/不吼不叫培养好孩子/README.md)
+- [父母的语言](books/EDU/父母的语言/README.md)
+- [好好说话把话说到孩子心里去](books/EDU/好好说话把话说到孩子心里去/README.md)
+- [如何说孩子才会听怎样听孩子才会说](books/EDU/如何说孩子才会听怎样听孩子才会说/README.md)
+- [这样给孩子定规矩孩子才不会抵触](books/EDU/这样给孩子定规矩孩子才不会抵触/README.md)
+- [正面管教A-Z：日常养育难题的1001个解决方案](books/EDU/正面管教A-Z/README.md)
+- [正面管教工具卡](books/EDU/正面管教工具卡/README.md)
+- [正面管教（修订版）](books/EDU/正面管教修订版/README.md)
+- [正面管教--养育工具](books/EDU/正面管教养育工具/README.md)
 
 ### 杂项
 - [羊皮卷](books/other/羊皮卷/README.md)
