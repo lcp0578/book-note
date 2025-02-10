@@ -28,3 +28,4 @@
 - [软件建模与设计 -- UML、用例、模式和软件体系结构](软件建模与设计/README.md)
 - [Continuous Architecture in Practice](ContinuousArchitectureInPractice/README.md)
 - [Software Architecture Metrics](SoftwareArchitectureMetrics/README.md)
+- [Effective Debugging -- 66 specific ways to debug software and systems](EffectiveDebugging/README.md)

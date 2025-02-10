@@ -423,6 +423,7 @@
 - [软件建模与设计 -- UML、用例、模式和软件体系结构](books/Code/软件建模与设计/README.md)
 - [Continuous Architecture in Practice](books/Code/ContinuousArchitectureInPractice/README.md)
 - [Software Architecture Metrics](books/Code/SoftwareArchitectureMetrics/README.md)
+- [Effective Debugging -- 66 specific ways to debug software and systems](books/Code/EffectiveDebugging/README.md)
 ### computer-english
 - [计算机英语](books/computer-english/ComputerEnglish/README.md)
 ### Git

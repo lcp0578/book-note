@@ -1,0 +1,1 @@
+## Effective Debugging -- 66 specific ways to debug software and systems
