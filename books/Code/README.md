@@ -29,3 +29,4 @@
 - [Continuous Architecture in Practice](ContinuousArchitectureInPractice/README.md)
 - [Software Architecture Metrics](SoftwareArchitectureMetrics/README.md)
 - [Effective Debugging -- 66 specific ways to debug software and systems](EffectiveDebugging/README.md)
+- [Fundamentals of Software Architecture](FundamentalsOfSoftwareArchitecture/README.md)
