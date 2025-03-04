@@ -30,3 +30,4 @@
 - [Math and Architectures of Deep Learning](MathAndArchitecturesOfDeepLearning/README.md)
 - [Generative Deep Learning 2nd Edition](GenerativeDeepLearning2ndEdition/README.md)
 - [Evolutionary Deep Learning](EvolutionaryDeepLearning/README.md)
+- [Generative AI for Beginners (Version 3) - A Course](GenerativeAIforBeginners/README.md)
