@@ -81,7 +81,8 @@
 	- 需求管理
 		- 包括需求文档的追踪管理、变更控制、版本控制等管理性活动。
 		- 需求管理的主要活动
-		![RequirementsManagement](RequirementsManagement.png)
+		
+			![RequirementsManagement](images/RequirementsManagement.png)
 - 5.2.1 需求获取
 	- 需求获取的基本步骤
 		- 开发高层的业务模型
@@ -107,7 +108,8 @@
 		- 问题分析和变更描述
 		- 变更分析和成本计算
 		- 变更实现
-		![RequirementsChangeControl](RequirementsChangeControl.png)
+		
+			![RequirementsChangeControl](images/RequirementsChangeControl.png)
 	- 变更控制委员会
 		- 制定决策
 		- 交流情况

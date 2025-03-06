@@ -35,6 +35,9 @@
 	- 视角与视图
 	- 用例和质量场景
 - 7.2.3 基于体系结构的开发模型
+
+	![ABSD](images/ABSD.jpg)
+
 	- 6个子过程
 		- 体系结构需求
 		- 设计
@@ -42,7 +45,6 @@
 		- 复审
 		- 实现
 		- 演化
-	- ![ABSD](ABSD.jpg)
 - 7.2.4 体系结构需求
 	> 需求是指用户对模板软件系统在功能、行为、性能、设计约束等方面的期望。
 
@@ -51,7 +53,8 @@
 		- 系统的商业目标
 		- 系统开发人员的商业目标
 	- 标识构件
-	![ABSD req](ABSD-req.png)
+	
+		![ABSD req](images/ABSD-req.png)
 	- 架构需求评审
 - 7.2.5 体系结构设计
 	- 1.提出软件系统结构模型
@@ -68,11 +71,11 @@
 - 7.2.8 体系结构实现
 	- 体系结构实现过程
 	
-	![implement](implement.png)
+		![implement](images/implement.png)
 - 7.2.9 体系结构的演化
 	- 体系结构演化过程
 	
-	![evolution](evolution.png)
+		![evolution](images/evolution.png)
 #### 7.3 软件架构风格
 - 7.3.1 软件架构风格概述
 	- 软件体系结构风格是描述某一特定应用领域中系统组织方式的惯用模式。
@@ -171,4 +174,4 @@
 		- 产生、搜集可重用的产品单元
 	- DSSA的一个三层次系统模型
 	
-	![DSSA](DSSA.png)
+		![DSSA](images/DSSA.png)

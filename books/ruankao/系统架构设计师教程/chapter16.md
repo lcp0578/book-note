@@ -2,11 +2,11 @@
 #### 16.1 嵌入式系统概述
 - 典型嵌入式系统硬件组成结构
 
-![EmbeddedSystem](EmbeddedSystem.png)
+	![EmbeddedSystem](images/EmbeddedSystem.png)
 
 - 简单的嵌入式软件架构
 
-![EmbeddedSoftware](EmbeddedSoftware.png)
+	![EmbeddedSoftware](images/EmbeddedSoftware.png)
 #### 16.2 嵌入式系统软件架构原理与特征
 - 两种典型的嵌入式系统架构模式
 	- 层次化模式架构
@@ -50,7 +50,7 @@
 	- 适应性
 - 基于Eclipse框架的嵌入式软件开发环境通用体系结构
 
-![Eclipse](Eclipse.png)
+	![Eclipse](images/Eclipse.png)
 #### 16.3 嵌入式系统软件架构设计方法
 - 基于架构的软件设计开发方法的应用
 	- 基于架构的软件设计（ABSD）方法强调由业务、质量和功能需求的组合驱动软件架构设计。
@@ -59,7 +59,7 @@
 	- 属性驱动的软件设计(Attibute-Driven Design， ADD)是把一组质量属性场景作为输入，利用对质量属性实现与架构设计之间的关系的了解（如体系结构风格、质量战术等）对软件架构进行设计的一种方法。
 	- ADD架构开发过程
 	
-	![ADD](ADD.png)
+		![ADD](images/ADD.png)
 - 实时系统设计方法
 	- 实时系统设计方法(Design Approach for Real-Time System, DARTS)主要是将实时系统分解为多个并发任务，并定义这些任务之间的接口。
 #### 16.4 嵌入式系统软件构架案例分析

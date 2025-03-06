@@ -2,7 +2,7 @@
 #### 18.1 安全架构概述
 - 信息系统受到的安全威胁
 
-![SecurityThreats](SecurityThreats.png)
+	![SecurityThreats](images/SecurityThreats.png)
 
 - 三道安全防线
 	- 产品安全架构

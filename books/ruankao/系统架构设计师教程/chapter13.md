@@ -26,7 +26,7 @@
 	- 对象/关系映射
 - Hibernate架构图
 	
-	![Hibernate](Hibernate.png)
+	![Hibernate](images/Hibernate.png)
 -  ACID原则
 	-  原子性(Atomicity)
 	-  一致性(Consistency)

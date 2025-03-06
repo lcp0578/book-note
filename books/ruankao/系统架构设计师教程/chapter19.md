@@ -13,7 +13,7 @@
 #### 19.3 Lambda架构
 - Lambda架构图
 
-![Lambda](Lambda.png)
+	![Lambda](images/Lambda.png)
 
 - Lambda架构的实现
 	- Hadoop(HDFS)用于存储主数据集
@@ -36,7 +36,7 @@
 	- 因此对于Kappa架构来说，依旧以流处理为主，但是数据却在数据湖层面进行了存储，当需要进行离线分析或者再次计算的时候，则将数据湖的数据再次经过消息队列重播一次则可。
 - Kappa架构图
 
-![Kappa](Kappa.png)
+	![Kappa](images/Kappa.png)
 
 - Kappa架构的优缺点
 	- 优点
@@ -47,7 +47,8 @@
 		- Kappa在抛弃了离线数据处理模块的时候，同时抛弃了离线计算更加稳定可靠的特点。
 - 常见Kappa架构变形
 	- Kappa+架构
-	![kappa+](kappa+.png)
+	
+		![kappa+](images/kappa+.png)
 	- 混合分析系统的Kappa架构
 		- 在基于使用Kafka+Flink构建Kappa流计算数据架构，针对Kappa架构分析能力不足的问题，再利用Kafka对接组合ElasticSearch实时分析引擎，部分弥补其数据分析能力。
 #### 19.5 Lambda架构与Kappa架构的对比和设计选择

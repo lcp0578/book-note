@@ -20,7 +20,7 @@
 		- 系统测试：对演化后的系统进行测试，查找其中的错误和不足之处。
 	- 静态演化过程模型
 	
-		![Static Evolution](StaticEvolution.png)
+		![Static Evolution](images/StaticEvolution.png)
 - 软件架构动态演化
 	- 架构的动态演化主要来自两类需求
 		- 软件内部执行所导致的体系结构改变
@@ -55,7 +55,7 @@
 #### 10.5 软件架构演化评估方法
 - 演化过程未知时的架构演化评估过程示意图
 
-	![ArchitecturalEvolutionAssessment](ArchitecturalEvolutionAssessment.png)
+	![ArchitecturalEvolutionAssessment](images/ArchitecturalEvolutionAssessment.png)
 #### 10.6 大型网站系统架构演化实例
 - 第一阶段：单体架构
 	- 只有一台服务器
