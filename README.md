@@ -5,6 +5,11 @@
 于 2017-06-06 23:10
 
 ## 书单
+###  [AI相关](books/AI/README.md)
+- [面向开发者的 LLM 入门教程](books/AI/面向开发者的LLM入门教程/README.md)
+- [揭秘大模型--从原理到实战](books/AI/揭秘大模型/README.md)
+- [基于大模型的RAG应用开发与优化](books/AI/基于大模型的RAG应用开发与优化/README.md)
+- [AI Agents for Beginners](books/AI/AIAgentsForBeginners/README.md)
 ### 水利知识
 - [水利概论](books/Water/水利概论/README.md)
 - [水文分析与计算](books/Water/水文分析与计算/README.md)
