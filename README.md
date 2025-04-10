@@ -8,6 +8,7 @@
 ###  [AI相关](books/AI/README.md)
 - [面向开发者的 LLM 入门教程](books/AI/面向开发者的LLM入门教程/README.md)
 - [揭秘大模型--从原理到实战](books/AI/揭秘大模型/README.md)
+- [开源大模型食用指南](books/AI/开源大模型食用指南/README.md)
 - [基于大模型的RAG应用开发与优化](books/AI/基于大模型的RAG应用开发与优化/README.md)
 - [AI Agents for Beginners](books/AI/AIAgentsForBeginners/README.md)
 ### 水利知识
