@@ -4,3 +4,4 @@
 - [开源大模型食用指南](开源大模型食用指南/README.md)
 - [基于大模型的RAG应用开发与优化](基于大模型的RAG应用开发与优化/README.md)
 - [AI Agents for Beginners](AIAgentsForBeginners/README.md)
+- [Happy-LLM：从零开始的大语言模型原理与实践教程](Happy-LLM/README.md)

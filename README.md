@@ -11,6 +11,7 @@
 - [开源大模型食用指南](books/AI/开源大模型食用指南/README.md)
 - [基于大模型的RAG应用开发与优化](books/AI/基于大模型的RAG应用开发与优化/README.md)
 - [AI Agents for Beginners](books/AI/AIAgentsForBeginners/README.md)
+- [Happy-LLM：从零开始的大语言模型原理与实践教程](books/AI/Happy-LLM/README.md)
 ### 水利知识
 - [水利概论](books/Water/水利概论/README.md)
 - [水文分析与计算](books/Water/水文分析与计算/README.md)
