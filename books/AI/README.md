@@ -5,3 +5,4 @@
 - [基于大模型的RAG应用开发与优化](基于大模型的RAG应用开发与优化/README.md)
 - [AI Agents for Beginners](AIAgentsForBeginners/README.md)
 - [Happy-LLM：从零开始的大语言模型原理与实践教程](Happy-LLM/README.md)
+- [图解大模型 -- 生成式AI原理与实战](图解大模型/README.md)
