@@ -21,6 +21,8 @@
 - [Learning LangChain Building AI and LLM Applications with LangChain and LangGraph](books/AI/LearningLangChainBuildingAIAndLLMApplicationsWithLangChainAndLangGraph/README.md)
 - [Machine Learning System Design With End-to-End Examples](books/AI/MachineLearningSystemDesignWithEnd-to-EndExamples/README.md)
 - [LLMs in Production From Language Models To Successful Products](books/AI/LLMsInProductionFromLanguageModelsToSuccessfulProducts/README.md)
+- [知识增强大模型](books/AI/知识增强大模型/README.md)
+- [大规模语言模型 从理论到实践 第2版](books/AI/大规模语言模型/README.md)
 ### 水利知识
 - [水利概论](books/Water/水利概论/README.md)
 - [水文分析与计算](books/Water/水文分析与计算/README.md)

@@ -14,3 +14,5 @@
 - [Learning LangChain Building AI and LLM Applications with LangChain and LangGraph](LearningLangChainBuildingAIAndLLMApplicationsWithLangChainAndLangGraph/README.md)
 - [Machine Learning System Design With End-to-End Examples](MachineLearningSystemDesignWithEnd-to-EndExamples/README.md)
 - [LLMs in Production From Language Models To Successful Products](LLMsInProductionFromLanguageModelsToSuccessfulProducts/README.md)
+- [知识增强大模型](知识增强大模型/README.md)
+- [大规模语言模型 从理论到实践 第2版](大规模语言模型/README.md)
