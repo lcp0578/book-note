@@ -290,6 +290,7 @@
 - [Go语言精进之路1](books/Go/Go语言精进之路1/README.md)
 - [Go语言精进之路2](books/Go/Go语言精进之路2/README.md)
 - [Go语言学习指南 惯例模式与编程实践](books/Go/Go语言学习指南/README.md)
+- [Go in Practice 2nd Edition](books/Go/GoInPractice2nd/README.md)
 ### 区块链
 - [区块链+ 智能社会进阶与场景应用](books/blockchain/区块链智能社会进阶与场景应用/README.md)
 - [区块链技术及应用](books/blockchain/区块链技术及应用/README.md)

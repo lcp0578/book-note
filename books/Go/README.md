@@ -21,3 +21,4 @@
 - [Go语言精进之路1](Go语言精进之路1/README.md)
 - [Go语言精进之路2](Go语言精进之路2/README.md)
 - [Go语言学习指南 惯例模式与编程实践](Go语言学习指南/README.md)
+- [Go in Practice 2nd Edition](GoInPractice2nd/README.md)
