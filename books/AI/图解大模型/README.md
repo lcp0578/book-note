@@ -12,3 +12,4 @@
 - [第5章 文本聚类和主题建模](chapter5.md)
 - [第6章 提示工程](chapter6.md)
 - [第7章 高级文本生成技术与工具](chapter7.md)
+- [第8章 语义搜索与RAG](chapter8.md)
