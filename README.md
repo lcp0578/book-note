@@ -23,6 +23,7 @@
 - [LLMs in Production From Language Models To Successful Products](books/AI/LLMsInProductionFromLanguageModelsToSuccessfulProducts/README.md)
 - [知识增强大模型](books/AI/知识增强大模型/README.md)
 - [大规模语言模型 从理论到实践 第2版](books/AI/大规模语言模型/README.md)
+- [AI工程：大模型应用开发实战（AI Engineering Building Applications with Foundation Models）](books/AI/AI工程/README.md)
 ### 水利知识
 - [水利概论](books/Water/水利概论/README.md)
 - [水文分析与计算](books/Water/水文分析与计算/README.md)

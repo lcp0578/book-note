@@ -16,3 +16,4 @@
 - [LLMs in Production From Language Models To Successful Products](LLMsInProductionFromLanguageModelsToSuccessfulProducts/README.md)
 - [知识增强大模型](知识增强大模型/README.md)
 - [大规模语言模型 从理论到实践 第2版](大规模语言模型/README.md)
+- [AI工程：大模型应用开发实战（AI Engineering Building Applications with Foundation Models）](AI工程/README.md)
